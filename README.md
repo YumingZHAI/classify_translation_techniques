@@ -5,8 +5,5 @@ Automatically classify translation processes from manually annotated examples, f
 
 **Dependencies needed:** 
 
-This Python module provides just the code from the 'conceptnet5' module that
-you need to represent terms, possibly with multiple words, as ConceptNet URIs.
-
-It depends on 'wordfreq', a Python 3 library, so it can tokenize multilingual
+- 'wordfreq', a Python 3 library, it can tokenize multilingual
 text consistently: https://pypi.org/project/wordfreq/
