@@ -2,14 +2,14 @@
 
 Serialized large volume files (*.p files) are not uploaded here, the procedures used to generate them are described below. (=> or upload all the *.p files in a zipped directory)
 
-1. **pos tagging** 
+1. **PoS tagging** 
 
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
 input: `txt_res`/{en,fr}.txt, `corenlp_properties`/{en_pos_lemma, fr_pos}.properties <br/>
 command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
 output: `txt_res`/{en,fr}.txt.conll 
 
-2. **lemmatisation** 
+2. **Lemmatisation** 
 
 EN: <br/>
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
@@ -26,7 +26,7 @@ output: `lemmatisation`/fr_lemma.txt  <br/>
 
 `lemmatisation`/pickle_lemma.py => `pickle_res`/{eng,fr}_lemma.p <br/>
 
-3. **berkeley unsupervised word aligner**
+3. **Berkeley unsupervised word aligner**
 
 input: an English-French parallel corpus composed of TED Talks and a part of Paracrawl corpus (in total 1.8M parallel sentence pairs and 41M English tokens)  <br/>
 corpus position: `berkeleyaligner_unsupervised/example/train` <br/> 
