@@ -14,13 +14,12 @@ tool: stanford corenlp <br/>
 
 FR: <br/>
 tool: tree-tagger (because corenlp doesn't provide French lemmatization now) <br/>
-input: fr_noID.txt 
-
-
+input: fr_noID.txt  <br/>
+script: lemmatisation/fr-lemmatize.py 
 
 pickled files 
 
 **Extract features**
 
-cd classification/
+cd classification/ <br/>
 e.g.: python get-feature.py ../txt_res/1:1.txt 
