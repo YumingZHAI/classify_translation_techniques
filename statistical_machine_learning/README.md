@@ -2,19 +2,20 @@
 
 Serialized large volume files (*.p files) are not uploaded here, the procedures used to generate them are described below. (=> or upload all the *.p files in a zipped directory)
 
-1. **pos tagging** <br/>
+1. **pos tagging** 
 
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
 input: `txt_res`/{en,fr}.txt, `corenlp_properties`/{en_pos_lemma, fr_pos}.properties <br/>
 command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
 output: `txt_res`/{en,fr}.txt.conll 
 
-2. lemmatisation 
+2. **lemmatisation** 
 
 EN: <br/>
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
 input: `txt_res`/en.txt, `corenlp_properties`/en_pos_lemma.properties <br/>
-script: `lemmatisation`/extract-lemma-corenlp.py <br/>
+command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props en_pos_lemma.properties` <br/>
+then script: `lemmatisation`/extract-lemma-corenlp.py <br/>
 output: `lemmatisation`/ENlemme_from_corenlp.txt <br/>
 
 FR: <br/>
