@@ -5,8 +5,8 @@ Serialized large volume files are not uploaded here, the procedures used to gene
 1. pos tagging <br/>
 
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
-input: `txt_res`/{en,fr}.txt, corenlp/{en_pos_lemma, fr_pos}.properties <br/>
-command: ./corenlp.sh -props {en_pos_lemma, fr_pos}.properties <br/>
+input: `txt_res`/{en,fr}.txt, `corenlp_properties`/{en_pos_lemma, fr_pos}.properties <br/>
+command: `./corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
 output: {en,fr}.txt.conll 
 
 2. lemmatisation (cd lemmatisation/)
