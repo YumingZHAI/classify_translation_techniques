@@ -1,13 +1,13 @@
-**Preparation work**
+## Preparation work
 
-Serialized large volume files are not uploaded here, the procedures used to generate them are described below.
+Serialized large volume files (*.p files) are not uploaded here, the procedures used to generate them are described below. (=> or upload all the *.p files in a zipped directory)
 
-1. pos tagging <br/>
+1. **pos tagging** <br/>
 
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
 input: `txt_res`/{en,fr}.txt, `corenlp_properties`/{en_pos_lemma, fr_pos}.properties <br/>
-command: `./corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
-output: {en,fr}.txt.conll 
+command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
+output: `txt_res`/{en,fr}.txt.conll 
 
 2. lemmatisation 
 
