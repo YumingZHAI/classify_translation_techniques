@@ -4,7 +4,7 @@ Serialized large volume files are not uploaded here, the procedures used to gene
 
 1. pos tagging <br/>
 
-tool: stanford-corenlp-full-2018-10-05 <br/>
+tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
 input: `txt_res`/{en,fr}.txt, {en,fr}.properties (to be cleaned) (conll output format) <br/>
 command: ./corenlp.sh -props {en,fr}.properties <br/>
 output: {en,fr}.txt.conll
