@@ -8,4 +8,3 @@ Automatically classify translation processes from manually annotated examples, f
 - 'wordfreq', a Python 3 library, it can tokenize multilingual
 text consistently: https://pypi.org/project/wordfreq/
 
-**Corpus preprocessing**
