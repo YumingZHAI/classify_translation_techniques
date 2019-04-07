@@ -39,7 +39,7 @@ output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table
 
 4. ConceptNet embeddings 
 
-input: multilingual-numberbatch-17.06.txt <br/>
+input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz) <br/>
 script: preparation/CNet_embeddings.py <br/>
 output: CNet_enfr_embeddings.p
 
