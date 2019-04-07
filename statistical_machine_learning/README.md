@@ -7,17 +7,21 @@ input: txt_res/{en,fr}.txt, {en,fr}.properties (to be cleaned) (conll output for
 command: ./corenlp.sh -props {en,fr}.properties <br/>
 output: {en,fr}.txt.conll
 
-2. lemmatization 
+2. lemmatisation (cd lemmatisation/)
 
 EN: <br/>
 tool: stanford corenlp <br/>
+input: en.txt, en.properties (to be cleaned) (conll output format) <br/>
+script: extract-lemma-corenlp.py <br/>
+output: ENlemme_from_corenlp.txt <br/>
 
 FR: <br/>
 tool: tree-tagger (because corenlp doesn't provide French lemmatization now) <br/>
 input: fr_noID.txt  <br/>
-script: lemmatisation/fr-lemmatize.py 
+script: fr-lemmatize.py <br/>
+output: fr_lemma.txt  <br/>
 
-pickled files 
+pickle_lemma.py => ../pickle_res/{eng,fr}_lemma.p <br/>
 
 **Extract features**
 
