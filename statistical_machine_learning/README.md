@@ -1,4 +1,4 @@
-**Corpus preprocessing**
+**Preparation work**
 
 1. pos tagging <br/>
 
@@ -34,6 +34,12 @@ output: 1.lexweights, 2.lexweights, training.align
 script: preparation/berkeley_wordId_lexTable.py <br/>
 output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
  
+
+4. ConceptNet embeddings 
+
+input: multilingual-numberbatch-17.06.txt
+script: preparation/CNet_embeddings.py <br/>
+output: CNet_enfr_embeddings.p
 
 **Extract features**
 
