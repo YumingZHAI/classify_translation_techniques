@@ -44,7 +44,7 @@ input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res`/CNet_enfr_embeddings.p
 
-##Extract features
+## Extract features
 
 `cd classification/` <br/>
 e.g.: `python get-feature.py ../txt_res/1:1.txt` 
