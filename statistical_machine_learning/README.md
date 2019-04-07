@@ -35,7 +35,7 @@ time used: 6h  <br/>
 output: 1.lexweights, 2.lexweights, training.align 
 
 then script: `preparation/berkeley_wordId_lexTable.py` <br/>
-output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
+output: `pickle_res`/{en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
  
 
 4. **ConceptNet embeddings** 
