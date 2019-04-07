@@ -26,15 +26,15 @@ output: `lemmatisation`/fr_lemma.txt  <br/>
 
 `lemmatisation`/pickle_lemma.py => `pickle_res`/{eng,fr}_lemma.p <br/>
 
-3. berkeley unsupervised word aligner 
+3. **berkeley unsupervised word aligner**
 
 input: an English-French parallel corpus composed of TED Talks and a part of Paracrawl corpus (in total 1.8M parallel sentence pairs and 41M English tokens)  <br/>
-corpus position: berkeleyaligner_unsupervised/example/train <br/> 
-command: ./align example.conf <br/>
+corpus position: `berkeleyaligner_unsupervised/example/train` <br/> 
+command: `berkeleyaligner_unsupervised/align example.conf` <br/>
 time used: 6h  <br/>
 output: 1.lexweights, 2.lexweights, training.align 
 
-script: preparation/berkeley_wordId_lexTable.py <br/>
+then script: `preparation/berkeley_wordId_lexTable.py` <br/>
 output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
  
 
