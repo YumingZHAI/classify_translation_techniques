@@ -1,5 +1,7 @@
 **Preparation work**
 
+Serialized large volume files are not uploaded here, the procedures used to generate them are described below.
+
 1. pos tagging <br/>
 
 tool: stanford-corenlp-full-2018-10-05 <br/>
@@ -37,7 +39,7 @@ output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table
 
 4. ConceptNet embeddings 
 
-input: multilingual-numberbatch-17.06.txt
+input: multilingual-numberbatch-17.06.txt <br/>
 script: preparation/CNet_embeddings.py <br/>
 output: CNet_enfr_embeddings.p
 
