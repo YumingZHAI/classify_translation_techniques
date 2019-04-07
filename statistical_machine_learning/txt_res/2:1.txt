@@ -1,0 +1,3381 @@
+call # appelle : 2422_8_9 : literal
+jockeying # manoeuvrer : 1564_5_7 : literal
+twist around # tourner : 1925_8, 10_7 : literal
+quality # qualité : 1897_8_4 : literal
+would be # seraient : 1110_64, 66_71 : literal
+characters # personnages : 849_5_5 : literal
+blood # du sang : 729_17_14, 15 : literal
+nathaniel # nathanial : 892_1_1 : literal
+zone # zone : 2391_21_20 : literal
+root # racine : 2418_15_12 : literal
+totally # totalement : 450_4_3 : literal
+automation # l' automatisation : 442_9_6, 7 : literal
+alaska # alaska : 733_6_8 : literal
+related # lié : 533_12_17 : literal
+kids # enfants : 838_4_2 : literal
+learn # apprendre : 1859_22_24 : literal
+horrors # horreurs : 891_40_44 : literal
+10,000 # 10,000 : 123_43_48 : literal
+remarkable # formidable : 795_15_16 : literal
+universe # univers : 547_31_26 : literal
+me # -moi : 1918_3_1 : literal
+correspond to # correspondent à : 1142_17, 18_16, 20 : literal
+mobility # mobilité : 2403_29_29 : literal
+march # mars : 546_4_3 : literal
+was using # utilisait : 2404_52, 53_69 : literal
+year # année : 513_4_5 : literal
+our greatest # notre plus grand : 2347_38, 39_43, 44, 45 : literal
+gardens # les jardins : 127_33_37, 38 : literal
+put back to work # remettre au travail : 802_3, 5, 6, 7_3, 6, 7 : literal
+away # ailleurs : 1906_12_6 : literal
+whether we 're # que nous soyons : 914_9, 10, 11_12, 13, 14 : literal
+independent # indépendant : 142_3_4 : literal
+therefore # donc : 151_45_38 : literal
+5,000 # 5000 : 421_17_19 : literal
+brought back # a ramené : 912_5, 7_10, 11 : literal
+wow # wahou : 2339_26_23 : literal
+massive # énorme : 731_21_22 : literal
+global warming # réchauffement climatique : 762_5, 6_5, 6 : literal
+write # écrire : 413_3_3 : literal
+typical # le typique : 2385_6_9, 10 : literal
+told # a parlé : 2435_22_19, 20 : literal
+hated # détestais : 2337_34_36 : literal
+cells # des cellules : 502_41_46, 47 : literal
+powerful # puissant : 2329_23_23 : literal
+based on # fondé sur : 475_25, 26_27, 28 : literal
+adding # ajoutant : 469_20_21 : literal
+leave # laisser : 1932_26_27 : literal
+dna # adn : 417_15_18 : literal
+disposition # tempérament : 2335_14_15 : literal
+was # sois : 2320_12_13 : literal
+forest # forêt : 107_71_74 : literal
+many # beaucoup de : 154_6_8, 9 : literal
+know # savons : 1900_2_1 : literal
+prototypes # les prototypes : 1571_37_43, 44 : literal
+this way # dans ce sens : 825_22, 23_24, 25, 26 : literal
+the table # de la table : 849_16, 17_13, 14, 15 : literal
+make sure # être sûr qu' : 1852_2, 3_1, 2, 3 : literal
+archaea # archeae : 515_26_30 : literal
+depletion # raréfaction : 761_31_24 : literal
+curiosity # curiosité : 899_12_13 : literal
+manic # maniaque : 892_26_29 : literal
+sure # sûre : 2412_11_11 : literal
+high # haute : 167_10_8 : literal
+second # deuxième : 469_11_10 : literal
+amazing # incroyable : 793_0_0 : literal
+turns out that # il s' avère que : 1884_0, 1, 4_0, 1, 2, 3 : literal
+even though # bien qu' : 1881_0, 1_0, 1 : literal
+about # à propos de : 1602_7_10, 11, 12 : literal
+have to # devons : 2362_37, 38_40 : literal
+tilting # inclinant : 872_8_9 : literal
+qualities # qualités : 2434_5_5 : literal
+does # fait : 1605_5_3 : literal
+information # information : 213_14_13 : literal
+stage # scène : 1932_34_33 : literal
+need to # devons : 2352_7, 8_9 : literal
+truthfully # vraiment : 2361_2_1 : literal
+town # ville : 2391_13_13 : literal
+national # nationale : 797_12_34 : literal
+them # les : 1914_5_3 : literal
+letters # lettres : 837_17_20 : literal
+human # l' homme : 465_17_29, 30 : literal
+of the # du : 878_30, 31_29 : literal
+mao # mao : 118_9_11 : literal
+made # faits : 2376_16_21 : literal
+into the # en : 116_3, 4_5 : literal
+asset # atout : 2347_40_46 : literal
+flickr images # des images flickr : 190_5, 6_5, 6, 7 : literal
+trick # tour : 1844_14_11 : literal
+10th of september last year # 10 septembre de l' année dernière : 526_2, 3, 4, 5, 6_1, 2, 3, 4, 5, 6 : literal
+limited # limitée : 2330_16_13 : literal
+called # appelé : 178_4_4 : literal
+boot up # démarrer : 461_5, 6_3 : literal
+i # je : 1840_3_4 : literal
+grace # grâce : 899_14_18 : literal
+into # à : 464_9_9 : literal
+picture # photo : 160_39_40 : literal
+putting # plaçant : 855_6_8 : literal
+over time # avec le temps : 2410_9, 10_7, 8, 9 : literal
+proverb # proverbe : 811_5_5 : literal
+genome # génome : 397_16_11 : literal
+go # aller : 177_11_14 : literal
+35 # 35 : 148_39_45 : literal
+control # contrôler : 864_6_9 : literal
+co-advised # co-dirigée : 179_29_37 : literal
+repair # réparent : 439_17_22 : literal
+comes from # vient de : 2418_12, 13_9, 10 : literal
+narrow # étroite : 121_45_52 : literal
+third # 3 ème : 747_5_5, 6 : literal
+filter # le filtre : 864_12_17, 18 : literal
+material # matériau : 411_14_12 : literal
+clearly # clairement : 424_12_18 : literal
+have appeared # sont apparus : 1127_12, 13_10, 11 : literal
+may # peut-être : 433_1_3 : literal
+coal technology # technologie du charbon : 795_17, 18_17, 18, 19 : literal
+athletes # athlètes : 1127_10_8 : literal
+adversity # adversité : 2368_35_33 : literal
+does not # ne pas : 1856_18, 19_16, 18 : literal
+the words # mots : 2325_7, 8_10 : literal
+share # partager : 2311_4_2 : literal
+start # commencent : 1571_7_13 : literal
+measurable # mesurable : 1841_55_61 : literal
+exposed # exposée : 2414_12_15 : literal
+being away # s' éloigner : 1865_11, 12_10, 11 : literal
+would never have # n' auriez jamais : 2403_23, 24, 25_23, 24, 25 : literal
+atlas # atlas : 524_12_12 : literal
+vaccine # vaccins : 496_18_26 : literal
+22 # 22 : 524_19_18 : literal
+sled # traîneau : 137_18_17 : literal
+in order for us to # pour qu' on : 1843_0, 1, 2, 3, 4_0, 1, 2 : literal
+each of these # chacun d' entre eux : 861_0, 1, 2_0, 1, 2, 3 : literal
+mr. # m. : 886_2_3 : literal
+work # travaille : 524_5_5 : literal
+yeah # ouais : 1920_0_0 : literal
+could # puisse : 2361_22_24 : literal
+both # les deux : 817_69_73, 74 : literal
+ensuring # garantir : 127_27_31 : literal
+castrated # castré : 2314_33_35 : literal
+city # ville : 749_14_14 : literal
+medical # médicale : 2409_9_12 : literal
+ways # façons : 807_4_2 : literal
+shown # montré : 452_5_6 : literal
+told # avaient dit : 2426_24_26, 27 : literal
+valuable # précieuses : 2390_17_17 : literal
+do # est -ce que : 209_0_0, 1, 2 : literal
+have # a : 835_2_2 : literal
+30 billion-plus # plus de trente milliards de : 487_9, 10_12, 13, 14, 15, 16 : literal
+magazines # magasines : 150_1_1 : literal
+success # succès : 1549_5_6 : literal
+last # dernières : 495_40_56 : literal
+paper # papier : 165_15_18 : literal
+make # faisons : 2359_10_12 : literal
+passion # passion : 877_8_8 : literal
+ted prize winners # lauréats du prix ted : 1148_14, 15, 16_14, 15, 16, 17 : literal
+'d end up working # finirais par travailler : 192_8, 9, 10, 11_10, 11, 12 : literal
+what about # de quoi : 782_20, 24_24, 25 : literal
+exciting # passionnant : 213_4_4 : literal
+could # pouvait : 817_65_71 : literal
+tracking # pistage : 2422_11_12 : literal
+eventually # finalement : 515_29_33 : literal
+reverb # la réverbération : 864_10_14, 15 : literal
+components # composants : 407_18_24 : literal
+bright # intelligents : 2425_31_36 : literal
+weight # poids : 2356_14_15 : literal
+were # ont été : 184_35_23, 24 : literal
+places # des endroits : 151_22_14, 15 : literal
+network effect # effet de réseau : 216_24, 25_23, 24, 25 : literal
+molecular hydrogen # de l' hydrogène moléculaire : 508_6, 7_9, 10, 11, 12 : literal
+application # application : 840_11_12 : literal
+jacques # jacques : 2435_20_23 : literal
+hands # mains : 817_70_75 : literal
+challenge # du défi : 2357_4_7, 8 : literal
+slides # diapositives : 722_6_10 : literal
+kind # type : 165_29_30 : literal
+what does that # qu' est -ce que ça : 1876_2, 3, 4_2, 3, 4, 5, 6 : literal
+point # point : 878_10_11 : literal
+gave up # abandonnèrent : 105_10, 11_13 : literal
+forces # oblige : 1547_15_17 : literal
+wrist # poignet : 1852_18_18 : literal
+market # marché : 2391_10_10 : literal
+have to # doivent : 1545_10, 11_12 : literal
+born # né : 483_10_10 : literal
+arctic # arctiques : 134_11_14 : literal
+each of # chaque : 435_20, 21_14 : literal
+logic games # les jeux de logique : 833_14, 15_20, 21, 22, 23 : literal
+survives # survit : 2372_12_14 : literal
+type in # tape : 214_11, 12_13 : literal
+problems # problèmes : 803_11_11 : literal
+below # en dessous de : 522_4_3, 4, 5 : literal
+a # de : 1594_9_12 : literal
+smaller # plus petits : 431_24_28, 29 : literal
+did not stop # n' ont pas cessé d' : 105_3, 4, 5_3, 4, 5, 6, 7 : literal
+occurrence # événement : 2341_54_61 : literal
+mid-area # zone du milieu : 1115_6_7, 8, 9 : literal
+this # l' : 461_14_8 : literal
+voice # voix : 2316_33_36 : literal
+worked # fonctionnait : 530_16_18 : literal
+protect # protéger : 2362_4_4 : literal
+all of all us # tous ceux d' entre nous : 144_16, 17, 18, 19_13, 14, 15, 16, 17 : literal
+valuable # précieux : 2387_47_52 : literal
+three-month period # période de trois mois : 2425_7, 8_8, 9, 10, 11 : literal
+encyclopedic # encyclopédique : 902_9_11 : literal
+most # la plupart des : 2334_19_21, 22, 23 : literal
+inuit people # inuit : 128_20, 21_24 : literal
+two # deux : 1870_41_47 : literal
+accurate # précises : 428_23_21 : literal
+let # laissez : 1914_2_0 : literal
+in other words # en d' autres termes : 1841_0, 1, 2_0, 1, 2, 3 : literal
+into # dans : 831_23_23 : literal
+lived # vivait : 107_67_70 : literal
+just # juste : 1841_20_23 : literal
+ribcage # cage thoracique : 137_11_10, 11 : literal
+piece # morceau : 411_10_10 : literal
+thinking # pensée : 2328_4_4 : literal
+carry # transportent : 534_2_2 : literal
+with the exception of # à l' exception de : 2336_12, 13, 14, 15_15, 16, 17, 18 : literal
+a person 's # d' une personne : 2356_17, 18, 19_20, 21, 22 : literal
+each # chacun : 189_46_49 : literal
+would n't # ne pouvez pas : 2396_7, 8_8, 9, 10 : literal
+changes # changements : 2345_8_7 : literal
+permanent # éternelles : 727_1_2 : literal
+sanity # la santé mentale : 906_6_8, 9, 10 : literal
+to # sur : 734_13_14 : literal
+names # noms : 2435_52_53 : literal
+diversity # la diversité : 102_53_47, 48 : literal
+shock # choc : 2316_47_51 : literal
+nature # nature : 1550_43_52 : literal
+california # la californie : 140_21_19, 20 : literal
+white # blanche : 1886_19_21 : literal
+one way or the other # dans un sens ou dans l' autre : 872_11, 12, 13, 14, 15_12, 13, 14, 15, 16, 17, 18 : literal
+bacterial chromosome # chromosome de bactérie : 427_14, 15_11, 12, 13 : literal
+images # images : 183_6_7 : literal
+something fake # quelque chose de factice : 1842_0, 1_0, 1, 2, 3 : literal
+hidden # cachées : 1164_57_59 : literal
+win # gagner : 1582_22_26 : literal
+it # ça : 1840_52_48 : literal
+sludge # boue : 771_14_13 : literal
+concept # concept : 1145_14_15 : literal
+throughout # durant : 2404_12_20 : literal
+in the states # aux etats-unis : 2422_14, 15, 16_15, 16 : literal
+for # depuis : 402_6_3 : literal
+my # ma : 1849_8_8 : literal
+think # crois : 2339_41_39 : literal
+memory # la mémoire : 200_29_34, 35 : literal
+then # ensuite : 837_0_0 : literal
+gets enriched with # serait enrichie de : 206_24, 25, 26_23, 24, 28 : literal
+another one # un autre : 463_22, 23_23, 24 : literal
+over # au-dessus d' : 2391_30_35, 36 : literal
+like # comme : 1850_11_9 : literal
+might # pourrais : 1129_16_15 : literal
+performance # performance : 860_18_20 : literal
+global # mondiaux : 2346_73_86 : literal
+superimposed # superposées : 175_0_0 : literal
+unleashed # déclenchaient : 2316_56_63 : literal
+10 # 10 : 460_7_5 : literal
+anthony # anthony : 883_44_47 : literal
+the best # le meilleur : 2416_40, 41_40, 41 : literal
+deep # de profonds : 1550_39_47, 48 : literal
+thought # avons pensé : 427_28_29, 30 : literal
+within # en : 910_16_18 : literal
+facilitation skills # des compétences de facilitation : 1587_3, 4_4, 5, 6, 7 : literal
+musician # musicien : 904_40_44 : literal
+musicians # musiciens : 913_12_13 : literal
+in helping # qui a aidé : 885_49, 50_59, 60, 61 : literal
+here is # voilà : 1908_2, 3_2 : literal
+'m doing # fais : 108_12, 13_14 : literal
+cultural # culturelles : 151_25_19 : literal
+move back # recule : 1873_13, 14_10 : literal
+actually # effectivement : 1149_17_16 : literal
+position # position : 1865_36_29 : literal
+played # ai joué : 896_2_1, 2 : literal
+as good # aussi bon : 1888_7, 8_9, 10 : literal
+diaspora # diaspora : 114_8_6 : literal
+los angeles times columnist # le chroniqueur du los angeles times : 881_3, 4, 5, 6_3, 4, 5, 6, 7, 8 : literal
+ago # il y a : 1877_8_6, 7, 8 : literal
+something real # quelque chose de réel : 1842_3, 4_5, 6, 7, 8 : literal
+was speaking # parlait : 888_1, 2_1 : literal
+diminish # diminuer : 2356_9_10 : literal
+'re # sommes : 910_40_48 : literal
+a students # étudiants a : 2424_3, 4_2, 3 : literal
+various # diverses : 401_3_3 : literal
+sugar pills # des comprimés de sucre : 1881_13, 14_13, 14, 15, 16 : literal
+microscope # microscope : 455_13_13 : literal
+many of you # beaucoup d' entre vous : 883_7, 8, 9_3, 4, 5, 6 : literal
+crisis # crise : 1569_3_3 : literal
+sense # sens : 2377_9_12 : literal
+little # petits : 418_11_11 : literal
+crazy # fou : 1135_17_15 : literal
+new # nouvelle : 879_18_13 : literal
+first # premier : 888_34_38 : literal
+in # du : 538_9_13 : literal
+metaphor # métaphore : 1160_3_3 : literal
+read # ai lu : 1877_1_1, 2 : literal
+what is # qu' est -ce que : 400_1, 2_1, 2, 3, 4 : literal
+joints # jointures : 538_4_4 : literal
+article # article : 2311_19_21 : literal
+or older # ou plus : 729_8, 9_8, 9 : literal
+there 's # voilà : 1146_33, 34_33 : literal
+discovery # découverte : 2311_8_6 : literal
+well ... # bon ... : 1915_2, 3_2, 3 : literal
+among # parmi : 1557_20_22 : literal
+claim # revendiquer : 2346_60_72 : literal
+playing # jouant : 904_2_1 : literal
+lab # lab : 838_14_8 : literal
+wandering # errant dans : 891_30_33, 34 : literal
+billionth # milliardième : 520_13_13 : literal
+ad # publicité : 167_6_5 : literal
+repurposed # réutilisée : 1160_4_4 : literal
+experiences # expérience : 2413_18_16 : literal
+put # mit : 136_1_1 : literal
+study # étude : 1877_3_4 : literal
+had to # a dû : 2402_32, 33_35, 36 : literal
+is not going to be # ne sera pas : 102_14, 15, 16, 17, 18_11, 12, 13 : literal
+weakened # affaibli : 2314_29_31 : literal
+anyone # quelqu'un : 1603_8_9 : literal
+allows # permet : 907_2_5 : literal
+know # savent : 841_14_19 : literal
+hours # heures : 448_3_3 : literal
+entire # entière : 202_8_8 : literal
+physician # le médecin : 2401_6_2, 3 : literal
+assault # agression : 2316_52_59 : literal
+saw # avons vu : 530_6_5, 6 : literal
+have opened # ont ouvert : 2414_17, 18_22, 23 : literal
+physical therapy sessions # sessions de kinésithérapie : 2336_17, 18, 19_20, 21, 22 : literal
+change # changer : 2387_3_3 : literal
+biology # la biologie : 398_13_12, 13 : literal
+marries # marie : 178_9_10 : literal
+reduced # réduite : 121_41_47 : literal
+all # tous : 901_16_19 : literal
+britain # en grande-bretagne : 2421_8_9, 10 : literal
+certain # des : 900_18_22 : literal
+the 1970s # les années 70 : 1845_9, 10_10, 11, 12 : literal
+our greatest # le plus grand : 2375_9, 10_9, 10, 11 : literal
+give # donner : 1918_4_3 : literal
+richness # richesse : 213_10_10 : literal
+sidestep # éviter : 2349_49_56 : literal
+family unit # cellule familiale : 2318_29, 30_33, 34 : literal
+reconditioned # avons rénovés : 544_1_2, 4 : literal
+protege # protégé : 550_28_30 : literal
+to # de : 814_8_6 : literal
+a development strategy # stratégie de développement : 109_45, 46, 47_48, 49, 50 : literal
+genesis # la genèse : 478_8_9, 10 : literal
+margaret mead # margaret mead : 121_0, 1_4, 5 : literal
+see # vu : 1921_15_15 : literal
+helps # aide à : 777_9_9, 12 : literal
+skirt # jupe : 116_15_16 : literal
+glacier # glacier : 749_5_5 : literal
+cat # le chat : 859_3_5, 6 : literal
+myself # moi-même : 1845_3_3 : literal
+monochromatic # monochromatique : 120_22_21 : literal
+70 # 70 : 760_8_12 : literal
+coal industries # industries du charbon : 769_2, 3_2, 3, 4 : literal
+built # avons construite : 453_9_8, 9 : literal
+navigate # naviguer : 191_4_3 : literal
+concert # concert : 886_14_16 : literal
+simple # simple : 1843_20_20 : literal
+molecule # molécule : 453_7_5 : literal
+'ve # aie : 1578_7_11 : literal
+modern # moderne : 444_28_33 : literal
+seed # graine : 123_19_20 : literal
+the algorithms # les algorithmes : 184_0, 3_0, 1 : literal
+'ll explain # expliquerai : 1847_3, 4_2 : literal
+design # le design : 1613_10_10, 11 : literal
+baffin island # l' ile de baffin : 128_11, 12_10, 11, 12, 13 : literal
+microsoft # microsoft : 153_27_28 : literal
+happens # arrive : 1556_3_6 : literal
+blue # bleu : 1882_10_12 : literal
+disabled # handicapé : 2312_37_41 : literal
+of that # en : 216_14, 15_14 : literal
+fossil # fossiles : 762_23_21 : literal
+wonder # merveilles : 151_26_18 : literal
+there # y : 519_13_9 : literal
+other # les autres : 2403_31_32, 33 : literal
+view # considérons : 101_21_23 : literal
+engineering # l' ingénierie : 548_18_23, 24 : literal
+visually # visuellement : 200_32_45 : literal
+alliance # alliance : 783_2_4 : literal
+vision # vision : 2342_10_10 : literal
+the girl scouts # les filles scouts : 2404_27, 28, 29_42, 43, 44 : literal
+wanted to # voulions : 847_2, 3_1 : literal
+take out # enlever : 1930_5, 8_5 : literal
+kinds # types : 1841_12_15 : literal
+choice # choix : 120_13_9 : literal
+blood # sang : 1928_6_9 : literal
+radical # dramatique : 761_30_30 : literal
+girl # fille : 2339_38_32 : literal
+dna # de l' adn : 416_5_6, 7, 8 : literal
+dumb # bête : 1917_10_9 : literal
+cartoon application # application de dessin animé : 846_6, 7_5, 6, 7, 8 : literal
+turns out # s' avère : 1879_1, 2_1, 2 : literal
+katey walter # katey walter : 734_1, 2_2, 3 : literal
+sharp # pointu : 1901_11_12 : literal
+automatically # automatiquement : 453_35_34 : literal
+invasion # invasion : 113_12_12 : literal
+statistics # statistiques : 111_37_50 : literal
+ethnocide # l' ethnocide : 109_16_18, 19 : literal
+immensely # immensément : 207_11_15 : literal
+you # vous : 1843_15_8 : literal
+hafiz # hafiz : 2435_15_16 : literal
+help # aident à : 1604_13_15, 18 : literal
+andes # andes : 749_2_2 : literal
+is n't allowing # ne permet pas : 2344_13, 14, 15_16, 18, 19 : literal
+am # suis : 451_1_1 : literal
+1960s # les années 60 : 2421_7_6, 7, 8 : literal
+forgotten # oublié : 121_61_70 : literal
+different # différente : 1114_10_8 : literal
+meet # rencontrer : 2357_33_36 : literal
+gratifying # gratifiant : 193_3_3 : literal
+until # jusqu'à : 107_72_75 : literal
+steve 's book # le livre de steve : 885_7, 8, 9_6, 7, 8, 9 : literal
+know # savez : 1906_23_16 : literal
+stuff # trucs : 1157_7_5 : literal
+poster # poster : 198_4_7 : literal
+various # différents : 400_19_22 : literal
+converted into # s' est transformée en : 475_19, 21_18, 19, 21, 22 : literal
+someone 's life # la vie de quelqu'un : 2406_17, 18, 19_18, 19, 20, 21 : literal
+forming # former : 2318_22_25 : literal
+history # l' histoire : 101_34_35, 36 : literal
+prospect # perspective : 2341_30_29 : literal
+is like # ressemble à : 1119_15, 18_18, 20 : literal
+d - students # étudiants d : 2431_17, 18, 19_11, 12 : literal
+'ll see # verrez : 108_21, 22_21 : literal
+negating # de nier : 2368_8_9, 10 : literal
+pain # douleur : 110_6_6 : literal
+laughed # ont rigolé : 425_1_1, 3 : literal
+have to # il faudra : 431_13, 14_13, 14 : literal
+not or # ne ni ni : 1878_2, 5_1, 3, 6 : literal
+gave back # redonna : 140_7, 8_7 : literal
+same # même : 1911_7_6 : literal
+one # l' un : 840_2_3, 4 : literal
+stream # de cours d' eau : 773_12_7, 8, 9, 10 : literal
+country # pays : 768_8_10 : literal
+all of # tous : 206_5, 6_6 : literal
+in fact # en fait : 1856_0, 1_0, 1 : literal
+so # très : 2329_22_22 : literal
+higher # plus haut : 1149_28_29, 30 : literal
+recently # récemment : 860_24_27 : literal
+makes # rend : 1897_16_16 : literal
+make sure that # nous assurer d' : 516_14, 15, 16_16, 17, 18 : literal
+restriction enzymes # enzymes de restriction : 471_4, 5_5, 6, 7 : literal
+did n't know # ne connaissais pas : 1905_29, 30, 31_37, 38, 39 : literal
+need to # avons besoin d' : 813_1, 2_1, 2, 3 : literal
+link # relie : 200_42_49 : literal
+try to # essayer de : 2338_20, 21_16, 17 : literal
+world # monde : 816_13_17 : literal
+some of the ones # quelques-unes : 195_8, 9, 10, 14_10 : literal
+open doors for themselves # s' ouvrir eux-mêmes les portes : 2417_5, 6, 7, 8_4, 5, 6, 7, 8 : literal
+crazy # fous : 1611_2_5 : literal
+redemptive # rédemptrice : 913_1_2 : literal
+amazing # étonnant : 1560_4_4 : literal
+one # une : 1905_34_42 : literal
+effect # effet : 1840_10_10 : literal
+demo # démo : 1156_11_12 : literal
+unsettling # dérangeants : 2324_13_12 : literal
+grasp # saisir : 815_9_10 : literal
+opportunities # chances : 2368_31_29 : literal
+gupta # gupta : 917_1_1 : literal
+flat # plat : 817_59_68 : literal
+'ve been trying # avons tenté : 404_29, 30, 31_31, 32 : literal
+scrabble # le scrabble : 835_14_14, 15 : literal
+lhasa # lhasa : 111_15_24 : literal
+where # où : 831_28_28 : literal
+sugar pills # des pilules de sucre : 1841_4, 5_5, 6, 7, 8 : literal
+understand # comprennent : 1579_7_7 : literal
+do n't remember # ne me souviens plus : 1888_14, 15, 16_16, 17, 18, 19 : literal
+yellow # jaune : 1886_6_6 : literal
+edge # tranchant : 136_8_8 : literal
+damaged # avons endommagé : 542_2_1, 2 : literal
+what # ce à quoi : 200_35_38, 39, 40 : literal
+of # d' entre : 911_8_8, 9 : literal
+shaman # shaman : 123_25_25 : literal
+sioux # des sioux : 105_7_9, 10 : literal
+design software # logiciel de conception : 497_8, 9_9, 10, 11 : literal
+strings # cordes : 882_24_27 : literal
+about # à peu près : 1575_15_20, 21, 22 : literal
+molecular # moléculaire : 459_5_2 : literal
+things # choses : 184_52_44 : literal
+thanks # merci : 1875_13_14 : literal
+those of us # ceux d' entre nous : 101_11, 12, 13_10, 11, 12, 13 : literal
+defecated # déféqua : 135_11_14 : literal
+particularly # particulièrement : 745_12_14 : literal
+duped # dupés : 2429_12_14 : literal
+conscious # consciente : 127_21_24 : literal
+confront # affronter : 2361_14_14 : literal
+this # le : 723_6_5 : literal
+figured out # découvriez : 815_2, 3_3 : literal
+joy # joie : 165_6_6 : literal
+about it # en : 903_2, 3_1 : literal
+abundant # abondant : 777_2_2 : literal
+there 's # il y a : 1927_42, 43_37, 38, 39 : literal
+also # aussi : 829_3_2 : literal
+go # allons : 108_3_5 : literal
+effective # efficaces : 1885_8_9 : literal
+keeping # en gardant : 1571_21_27, 28 : literal
+case study # étude de cas : 2429_5, 6_5, 6, 7 : literal
+obvious # évident : 481_5_6 : literal
+organizing # organiser : 1553_7_12 : literal
+try # essaye : 488_2_2 : literal
+reservoirs # réservoirs : 753_4_3 : literal
+done-up # retapé : 2314_45_48 : literal
+information # l' information : 1870_32_38, 39 : literal
+classic # classique : 216_23_26 : literal
+get off # sortir de : 885_52, 53_63, 64 : literal
+web # réseau : 1149_8_7 : literal
+surrounded # encerclés : 828_3_4 : literal
+demands # exige : 1614_1_1 : literal
+started # commençais à : 894_45_43, 44 : literal
+50-letter pieces # morceaux de 50 lettres : 431_20, 21_20, 21, 22, 23 : literal
+them # elles : 179_2_4 : literal
+designers # les concepteurs : 1572_0_0, 1 : literal
+world series # séries mondiales : 888_26, 27_27, 28 : literal
+drill into # creuser : 1145_11, 12_13 : literal
+here 's # voilà : 1848_2, 3_0 : literal
+next # prochaine : 726_1_1 : literal
+slowly # lentement : 413_11_10 : literal
+has n't caught up with # n' a pas suivi : 2345_2, 3, 4, 5, 6_2, 3, 4, 5 : literal
+a modicum of # le minimum de : 2407_26, 27, 28_32, 33, 34 : literal
+genomic alchemy # de l' alchimie génétique : 477_6, 7_4, 5, 6, 7 : literal
+feel # sentir : 2359_12_13 : literal
+fuels # combustibles : 807_12_12 : literal
+are using # utilisons : 2433_29, 31_38 : literal
+tilted # incliné : 876_17_19 : literal
+history # histoire : 125_4_1 : literal
+examples # exemples : 824_10_6 : literal
+free # librement : 107_68_71 : literal
+had # aviez : 2410_17_19 : literal
+should n't # ne devraient plus : 171_16, 17_19, 20, 21 : literal
+pivot # pivot : 1113_3_3 : literal
+relationships # des relations : 815_34_34, 35 : literal
+and so on # etc. : 2423_12, 13, 14_15 : literal
+counted-out # éliminé : 2314_52_55 : literal
+anthropologist # anthropologue : 121_5_9 : literal
+emotions # émotions : 910_27_34 : literal
+see # voit : 2433_14_19 : literal
+resume # reprendre : 2352_14_12 : literal
+p # p : 2335_2_2 : literal
+three # 3 : 1870_18_21 : literal
+what # que : 1592_1_1 : literal
+just # seulement : 1166_5_4 : literal
+thank # merci : 2319_6_6 : literal
+all # tout ce qu' : 841_0_0, 1, 2 : literal
+successes # succès : 2349_39_46 : literal
+levels # niveaux : 400_20_23 : literal
+method # méthode : 418_7_7 : literal
+winning # gagné : 2404_18_31 : literal
+key # clé : 2416_6_7 : literal
+dropped out of # abandonna : 884_1, 2, 3_1 : literal
+no # n' aucune : 2394_14_14, 16 : literal
+darwin 's # de darwin : 2374_1, 2_4, 5 : literal
+nathaniel 's # de nathaniel : 899_1, 2_4, 5 : literal
+modality # modalité : 121_46_50 : literal
+view # voir : 2328_8_9 : literal
+admire # admirent : 1555_40_35 : literal
+went out # est allée : 734_8, 9_9, 10 : literal
+all you need # tout ce qu' il vous faut : 2415_2, 3, 5_2, 3, 4, 5, 6, 7 : literal
+there # là : 1903_5_5 : literal
+iterative # itératif : 1572_11_13 : literal
+intelligent # intelligent : 2372_19_19 : literal
+can # peut : 1853_21_23 : literal
+finally # finalement : 147_13_12 : literal
+tool # outil : 860_19_14 : literal
+wealthy # riche : 115_9_16 : literal
+nunavut # nunavut : 141_9_9 : literal
+miles # miles : 111_4_6 : literal
+met # nous sommes rencontrés : 2397_5_6, 7, 8 : literal
+use # utilisent : 204_10_18 : literal
+a second # seconde : 520_15, 16_15 : literal
+took # ont pris : 2425_3_3, 4 : literal
+adapt # s' adapter : 2348_4_4, 5 : literal
+experiments # les expériences : 550_25_20, 21 : literal
+business school # écoles de commerce : 1557_27, 28_30, 31, 32 : literal
+about # du : 2336_4_5 : literal
+able to # capable de : 1164_49, 50_49, 50 : literal
+childhood # enfance : 1867_6_10 : literal
+industrial # industriel : 124_2_3 : literal
+a hundred # cent : 2340_12, 13_8 : literal
+the largest # la plus grande : 458_11, 12_13, 14, 15 : literal
+peter skillman # peter skillman : 1544_7, 8_10, 11 : literal
+looking at # regarder : 2363_6, 7_8 : literal
+much # bien : 167_13_11 : literal
+44 # 44 : 524_15_13 : literal
+fixed # réparés : 544_5_6 : literal
+independence # indépendance : 2403_40_39 : literal
+providing # fournir : 485_5_8 : literal
+about # vers : 507_7_7 : literal
+motion # mouvement : 1873_17_13 : literal
+hope # espoir : 2432_23_24 : literal
+brick # brique : 2362_48_50 : literal
+pieces # morceaux : 417_13_16 : literal
+errors # erreurs : 418_18_19 : literal
+steve 's columns # les chroniques de steve : 883_13, 14, 15_11, 12, 13, 14 : literal
+recreate # recréer : 520_4_4 : literal
+bodies # les corps : 2346_23_30, 31 : literal
+career # la carrière : 883_53_57, 58 : literal
+degenerate # dégénératif : 417_28_33 : literal
+steve # steve : 881_7_9 : literal
+instead # plutôt : 2332_9_7 : literal
+and then # puis : 1910_2, 3_0 : literal
+see # vois : 1114_6_5 : literal
+best # meilleure : 148_30_36 : literal
+african-american # afro-américain : 882_8_7 : literal
+interesting # intéressants : 840_5_7 : literal
+curse # malédiction : 2329_19_19 : literal
+took # avaient pris : 2426_17_19, 20 : literal
+rises # monte : 741_8_10 : literal
+care for # aimons : 2358_10, 11_16 : literal
+right # juste : 1865_18_15 : literal
+its # ses : 891_39_43 : literal
+starting # commencer : 2318_18_20 : literal
+membranes # membranes : 476_6_8 : literal
+climate change # changement climatique : 789_5, 6_7, 8 : literal
+select # choisir : 1141_7_5 : literal
+crushed # écrasé : 2432_11_13 : literal
+produced # ont réalisé : 1601_1_1, 2 : literal
+type # tape : 189_21_24 : literal
+newspaper clippings # des coupures de presse : 2404_10, 11_16, 17, 18, 19 : literal
+showed # ai présenté : 722_3_6, 7 : literal
+lose # perdre : 894_18_17 : literal
+viral # virales : 422_31_39 : literal
+intact # intact : 546_9_10 : literal
+almost # près de : 402_7_5, 6 : literal
+detector # détecteur : 524_13_11 : literal
+prostitution # la prostitution : 107_86_89, 90 : literal
+who # qui : 1867_1_4 : literal
+consider # considère : 541_7_7 : literal
+assemble # assembler : 862_12_13 : literal
+interesting # intéressant : 1580_16_19 : literal
+said # ai dit : 424_10_12, 13 : literal
+siftable # siftable : 819_5_4 : literal
+equation program # programme d' équation : 834_17, 18_16, 17, 18 : literal
+hardware # matériel : 426_17_14 : literal
+made # avons fait : 532_3_5, 6 : literal
+largest # plus importante : 773_10_4, 5 : literal
+have been increasing # augmentent : 756_6, 7, 8_6 : literal
+anthropology # l' anthropologie : 151_58_57, 58 : literal
+bad # mauvaise : 500_11_17 : literal
+was afraid that # ai eu peur de : 894_11, 12, 13_12, 13, 14, 15 : literal
+necessarily # nécessairement : 187_55_62 : literal
+change # le changement : 102_64_63, 64 : literal
+elements # des éléments : 184_41_30, 31 : literal
+accidents # les accidents : 1113_27_22, 23 : literal
+last month # le mois dernier : 744_0, 1_0, 1, 2 : literal
+quite # assez : 1854_6_6 : literal
+circulatory diseases # les maladies cardio-vasculaires : 1116_18, 19_18, 19, 20 : literal
+some # certaines : 1905_25_33 : literal
+grandfather # grand père : 128_36_40, 41 : literal
+control # contrôlent : 142_7_7 : literal
+again # encore : 2375_2_2 : literal
+prose # prose : 123_30_30 : literal
+most of the time # la plupart du temps : 1556_5, 6, 7, 8_8, 9, 10, 11 : literal
+best # meilleur : 1614_19_17 : literal
+wind # le vent : 808_5_7, 8 : literal
+investments # investissements : 809_1_2 : literal
+understood # avaient compris : 424_13_16, 19 : literal
+look at all of them # les regardant toutes : 1144_13, 14, 15, 16, 17_15, 16, 17 : literal
+was talking to # discutais avec : 424_1, 2, 3_1, 2 : literal
+allow # permettent aux : 2346_54_63, 64 : literal
+lie # mensonge : 1863_25_26 : literal
+genetic # génétique : 413_5_6 : literal
+mineral # minérales : 142_9_11 : literal
+massive # massive : 479_22_22 : literal
+issues # numéros : 1128_27_20 : literal
+a bit # un peu : 1135_8, 9_7, 8 : literal
+to me # me : 2348_19, 20_18 : literal
+natural sciences # sciences naturelles : 1146_20, 21_17, 18 : literal
+necessary # nécessaires : 171_19_23 : literal
+put together # assemblent : 439_20, 22_25 : literal
+between # entre : 835_13_13 : literal
+noah 's # de noah : 187_9, 10_12, 13 : literal
+be # être : 171_18_22 : literal
+river # rivière : 738_5_3 : literal
+realized # ai réalisé : 2312_23_25, 26 : literal
+stance # attitude : 1606_13_12 : literal
+case # cas : 831_3_3 : literal
+a 's # des a : 2425_15, 16_21, 22 : literal
+liquid # liquide : 830_33_43 : literal
+while writing # pendant que j' écrivais : 2311_16, 17_16, 17, 18, 19 : literal
+implications # implications : 830_4_9 : literal
+loved # ont adoré : 839_2_1, 3 : literal
+art # l' art : 909_10_11, 12 : literal
+ideas # idées : 170_8_9 : literal
+in order to # pour : 2352_11, 12, 13_11 : literal
+virtual earth work # travail sur la terre virtuelle : 203_11, 12, 13_7, 11, 12, 13, 14 : literal
+pharmaceutical # pharmaceutique : 1841_33_37 : literal
+print date # date d' impression : 2317_21, 22_22, 23, 24 : literal
+notre dame cathedral # la cathédrale notre-dame : 189_5, 6, 7_4, 5, 6 : literal
+played # jouais : 897_3_3 : literal
+transformation # la transformation : 2374_31_38, 39 : literal
+limited # limités : 492_2_2 : literal
+some # certains : 186_2_0 : literal
+shift # changement : 2414_3_4 : literal
+runners # patins : 133_1_1 : literal
+the reason # la raison pour laquelle : 1864_0, 1_0, 1, 2, 3 : literal
+etc. # etc. : 496_21_28 : literal
+is called # s' appelle : 2435_29, 30_29, 30 : literal
+volume # le volume : 866_8_13, 14 : literal
+will rediscover # redécouvrirons : 127_8, 10_10 : literal
+in the # du : 1921_3, 4_2 : literal
+something real # quelque chose de vrai : 1840_54, 55_50, 51, 52, 53 : literal
+fist # poing : 1850_10_8 : literal
+decided # avons décidé : 818_7_7, 8 : literal
+embedded # inséré : 167_30_28 : literal
+questions # questions : 407_26_31 : literal
+charming # charmant : 882_11_9 : literal
+societies # sociétés : 2329_5_5 : literal
+other # des autres : 894_52_52, 53 : literal
+tools # outils : 822_10_10 : literal
+talk # parler : 2348_18_19 : literal
+contracts # se contracte : 725_5_6, 7 : literal
+hello # salut : 857_0_2 : literal
+magic book # livres de magie : 1844_22, 23_18, 19, 20 : literal
+hyperlinks # des hyperliens : 211_3_2, 3 : literal
+prove # prouver : 160_1_2 : literal
+most importantly # plus important : 821_0, 1_0, 1 : literal
+your # vos : 1875_8_9 : literal
+coal plants # centrales à charbon : 765_10, 11_7, 8, 9 : literal
+own # propres : 205_1_1 : literal
+med students # des étudiants en médecine : 2404_64, 65_82, 83, 84, 85 : literal
+syringe # seringue : 1893_3_1 : literal
+certain # certains : 1841_11_14 : literal
+child # enfant : 2331_12_14 : literal
+synthesizing # synthétiser : 416_4_5 : literal
+womb # ventre : 2397_14_13 : literal
+decide # choisir : 858_10_12 : literal
+harry reid # harry reid : 782_13, 14_17, 18 : literal
+machines # machines : 417_6_7 : literal
+grow # croître : 777_12_13 : literal
+locally # localement : 153_53_55 : literal
+from # du : 1845_4_5 : literal
+tweak # tordent : 1611_11_15 : literal
+hope # l' espoir : 146_43_46, 47 : literal
+indian # indien : 761_23_21 : literal
+make # faire : 836_20_21 : literal
+'m writing # écris : 2312_8, 9_12 : literal
+continent # continent : 744_6_10 : literal
+to buckle # se déforme : 1556_33, 34_37, 38 : literal
+had to # avons dû : 418_2, 3_1, 3 : literal
+immense # immense : 528_2_4 : literal
+loved # ai adoré : 2336_1_1, 4 : literal
+did # avons fait : 543_9_8, 9 : literal
+switch # échange : 2430_6_10 : literal
+the other way # dans l' autre sens : 825_29, 30, 31_32, 33, 34, 35 : literal
+may # peut : 477_3_1 : literal
+self-identify # s' identifier eux-mêmes : 2346_57_67, 68, 69 : literal
+thinking about # penser à : 1110_35, 36_34, 35 : literal
+laser # laser : 2346_10_14 : literal
+homeless # sans-abri : 882_15_14 : literal
+'d like to # aimerais : 2311_1, 2, 3_1 : literal
+scientist # scientifique : 550_9_7 : literal
+there is # il y a : 1841_52, 53_56, 57, 58 : literal
+design # conception : 453_22_24 : literal
+bleak house # bleak house : 159_3, 4_2, 3 : literal
+dazzled # éblouis : 151_35_29 : literal
+emotionally # émotionnellement : 2350_23_24 : literal
+technological # technologiques : 102_25_22 : literal
+views # opinions : 550_53_55 : literal
+anthropologists # les anthropologues : 2388_0_0, 1 : literal
+crippled # infirme : 2314_5_7 : literal
+happiness # le bonheur : 2349_16_21, 22 : literal
+challenge # défi : 2350_18_17 : literal
+leads to # conduit au : 1587_9, 10_11, 12 : literal
+sleep # sommeil : 893_18_17 : literal
+things # des choses : 173_18_18, 19 : literal
+really # véritablement : 165_2_4 : literal
+tilt # inclinaison : 829_8_8 : literal
+cadres # cadres : 111_58_73 : literal
+spelling bee # concours d' orthographe : 2404_22, 23_33, 34, 35 : literal
+thank # remercie : 1168_5_6 : literal
+by-product # sous-produit : 207_5_5 : literal
+catalyst # catalyseur : 898_26_27 : literal
+technology # la technologie : 2345_21_18, 19 : literal
+there are no # il n' y a pas de : 1931_13, 14, 15_9, 10, 11, 12, 13, 14 : literal
+life experience # expérience d' une vie : 2389_26, 27_34, 35, 36, 37 : literal
+while # alors que : 795_1_1, 2 : literal
+person # personne : 1841_23_27 : literal
+thought # la pensée : 121_48_54, 55 : literal
+would want # désirons : 2344_24, 26_27 : literal
+radiation # radiations : 446_21_20 : literal
+is working # marche : 534_9, 10_9 : literal
+these are # voici : 838_1, 2_0 : literal
+was laughing # riais : 2316_13, 14_14 : literal
+particular # particulière : 1125_5_6 : literal
+than # que : 1885_9_10 : literal
+creative # créative : 2367_16_21 : literal
+job # travail : 520_1_1 : literal
+teaching them # leur enseigner : 2431_30, 31_25, 26 : literal
+the # le : 1849_0_0 : literal
+existing # existant : 2363_2_4 : literal
+heartbreaking # navrant : 2426_6_7 : literal
+problem # problème : 533_7_9 : literal
+build # construire : 847_4_2 : literal
+something fake # quelque chose de faux : 1840_43, 44_39, 40, 41, 42 : literal
+glaciers # des glaciers : 747_25_25, 26 : literal
+said this # a dit : 550_33, 34_35, 36 : literal
+adventures # les aventures : 2320_43_46, 47 : literal
+connected # lié : 816_4_7 : literal
+most frequently # le plus fréquement : 1142_15, 16_17, 18, 19 : literal
+happened # s' est passé : 2427_4_5, 6, 7 : literal
+this # celle-ci : 172_15_15 : literal
+playing # jouer : 895_5_7 : literal
+purified # avons purifié : 465_1_1, 4 : literal
+to # aux : 1859_10_10 : literal
+the # ce : 904_32_37 : literal
+talking # parlant : 904_5_8 : literal
+manages # gère : 1586_4_4 : literal
+was # c' était : 1878_15_16, 17 : literal
+my # mon : 1850_9_7 : literal
+that # c' : 1863_22_23 : literal
+effectively # vraiment : 2341_45_49 : literal
+has been increasing # se soit accru : 412_7, 8, 9_10, 11, 12 : literal
+was transformed # s' est transformée : 899_5, 6_6, 7, 8 : literal
+charles darwin # charles darwin : 2371_8, 9_8, 9 : literal
+somebody else # quelqu'un d' autre : 205_9, 10_9, 10, 11 : literal
+added # avons ajouté : 465_22_36, 37 : literal
+dance # danse : 103_11_12 : literal
+ourselves # nous-mêmes : 463_10_11 : literal
+easily # facilement : 1905_8_16 : literal
+map # la carte : 406_6_3, 4 : literal
+produce # produire : 495_16_23 : literal
+a little bit better # un peu mieux : 1580_3, 4, 5, 6_7, 8, 9 : literal
+death # décès : 1116_14_13 : literal
+look forward to # ai hâte de : 880_1, 2, 3_1, 2, 3 : literal
+graduate student # étudiant de 3 ème cycle : 179_21, 22_26, 27, 28, 29, 30 : literal
+try # essayez : 836_18_19 : literal
+deed # acte : 117_7_5 : literal
+refute # réfuter : 548_27_31 : literal
+themselves # eux-mêmes : 2346_65_77 : literal
+parts # parties : 201_21_21 : literal
+even though # même si : 1859_33, 34_39, 40 : literal
+contained # contenue : 1143_13_12 : literal
+living # vivante : 406_50_51 : literal
+jr. # jr : 883_33_31 : literal
+there it is # le voilà : 1929_2, 3, 4_2, 3 : literal
+get used to the habit of # prenne l' habitude d' : 1164_29, 30, 31, 32, 33, 34_27, 28, 29, 30 : literal
+how 's that look # à quoi ça ressemble : 1919_0, 1, 2, 3_0, 1, 2, 3 : literal
+remember # me souviens : 2395_18_15, 16 : literal
+yeast # la levure : 453_31_30, 31 : literal
+adjust # ajuster : 865_11_14 : literal
+correspond # correspondent : 184_12_14 : literal
+the whole # toute l' : 511_11, 12_11, 12 : literal
+continue # continuer : 547_18_14 : literal
+name # nommons : 2326_9_11 : literal
+mapping # la cartographie : 172_3_3, 4 : literal
+gregarious # sociable : 888_8_8 : literal
+'m trying to # essaye de : 2356_5, 7, 8_6, 9 : literal
+electronics # électronique : 491_1_2 : literal
+forms # formes : 894_54_54 : literal
+a hundred # 100 : 487_17, 18_22 : literal
+environment # environnement : 153_47_49 : literal
+at # chez : 192_12_13 : literal
+three and a half # 3,5 : 478_14, 15, 16, 17_20 : literal
+one method # une des méthodes : 504_4, 5_8, 9, 10 : literal
+those # ce : 174_1_0 : literal
+to collapse # s' écroule : 1556_36, 37_40, 41 : literal
+pharmaceuticals # des médicaments : 495_21_28, 29 : literal
+changes # change : 905_5_8 : literal
+sequence siftables # siftables de séquence : 868_9, 10_12, 13, 14 : literal
+get # obtenir : 167_21_19 : literal
+the pitfalls # écueils : 2349_52, 54_62 : literal
+extraordinary # incroyable : 756_12_11 : literal
+oil industry # industrie du pétrole : 424_5, 6_4, 5, 6 : literal
+against # contre : 863_11_11 : literal
+sea # mer : 741_19_29 : literal
+finger # doigt : 1865_17_14 : literal
+suspect # soupçonne : 550_17_16 : literal
+are # sont : 822_2_3 : literal
+magician # magicien : 1840_21_20 : literal
+which # qu' : 900_23_28 : literal
+fix # réparer : 2363_17_21 : literal
+well-being # bien-être : 151_99_97 : literal
+possible # possible : 1144_3_3 : literal
+13,000 # 13 mille : 539_9_9, 10 : literal
+accepted # accepté : 102_44_42 : literal
+national # national : 147_10_9 : literal
+shaking # secouant : 855_2_2 : literal
+addiction to # dépendance aux : 799_8, 9_9, 10 : literal
+modest # modeste : 511_7_8 : literal
+put # pose : 1555_23_21 : literal
+'m using # utilise : 1112_4, 5_4 : literal
+noah snavely # noah snavely : 179_17, 18_22, 23 : literal
+his holiness # sa sainteté : 114_4, 5_8, 9 : literal
+see # voyez : 1927_41_35 : literal
+discover # découvrez : 107_8_9 : literal
+replacing # remplacer : 511_10_10 : literal
+the way # de la manière qu' : 817_78, 79_85, 86, 87, 88 : literal
+change # changement : 897_12_10 : literal
+woman # dame : 1905_35_43 : literal
+beneath # sous : 116_13_14 : literal
+earth # terre : 200_37_43 : literal
+successive # successifs : 1571_17_25 : literal
+economic # économiques : 797_8_14 : literal
+seek # rechercher : 143_8_14 : literal
+man # homme : 882_5_4 : literal
+for me # m' : 2333_6, 7_6 : literal
+americans # américains : 2334_20_24 : literal
+ma # ma : 888_12_11 : literal
+flesh # chair : 1902_4_4 : literal
+last # dernière : 769_17_16 : literal
+aging # vieillissants : 2346_22_32 : literal
+get them to # leur faire : 838_20, 21, 22_19, 20 : literal
+men # les hommes : 1118_13_13, 14 : literal
+power # puissance : 913_2_1 : literal
+cold # froid : 132_12_10 : literal
+climate change # le changement climatique : 785_4, 5_12, 13, 14 : literal
+actually # en fait : 1864_12_15, 16 : literal
+bacteria # bactéries : 515_24_28 : literal
+book # livre : 883_21_18 : literal
+of # d' : 1841_13_16 : literal
+one of # l' une d' entre : 179_0, 1_0, 1, 2, 3 : literal
+in spite of # malgré : 2413_14, 15, 16_14 : literal
+as distant as # aussi éloignés que : 465_14, 15, 16_21, 22, 28 : literal
+72,000 # 72 000 : 440_32_36, 37 : literal
+account for # représenter : 2406_3, 4_4 : literal
+is n't that # n' est -ce pas : 1596_2, 3, 4_2, 3, 4, 5 : literal
+perceived # perçues : 2367_11_14 : literal
+has lead to # a causé : 755_5, 6, 7_3, 4 : literal
+bruckner # bruckner : 901_14_17 : literal
+gave # ont donné : 2425_13_19, 20 : literal
+help # aider à : 2337_25_25, 26 : literal
+want to # voulez : 168_2, 3_2 : literal
+process # processus : 417_29_32 : literal
+photograph # photo : 128_3_2 : literal
+next # prochaines : 482_16_14 : literal
+was doing # faisais : 1905_11, 12_19 : literal
+everyone # tout le monde : 2347_19_18, 19, 20 : literal
+doing # faire : 2338_25_20 : literal
+showed # avons montré : 464_16_15, 17 : literal
+disappearing # disparait : 891_26_28 : literal
+shit knife # couteau de merde : 136_11, 12_10, 11, 12 : literal
+recognize # reconnaître : 2374_10_13 : literal
+said # a dit : 2339_21_20, 21 : literal
+molecular biology # la biologie moléculaire : 444_31, 32_30, 31, 32 : literal
+was # fut : 883_54_60 : literal
+icon # icône : 1137_11_12 : literal
+into # en : 899_7_9 : literal
+car # voiture : 168_9_8 : literal
+seemed like # semblait : 2337_5, 6_6 : literal
+'d be able to # pourriez : 167_17, 18, 19, 20_18 : literal
+quickly # vite : 811_15_15 : literal
+'m showing # montre : 1151_1, 3_2 : literal
+this is # voilà : 848_1, 2_2 : literal
+was # a été : 883_24_21, 22 : literal
+different # différents : 194_9_17 : literal
+at # dans : 2336_8_11 : literal
+i # j' : 1859_7_7 : literal
+disney # disney : 886_13_15 : literal
+ta-da # ta-daa : 1556_14_18 : literal
+it # l' : 1845_2_1 : literal
+mangled # abîmé : 2314_19_22 : literal
+reorganize # réorganiser : 1116_8_7 : literal
+happy # joyeux : 776_8_5 : literal
+groups # les groupes : 2346_74_84, 85 : literal
+vacuum # vide : 450_12_11 : literal
+lesson # leçon : 892_14_15 : literal
+bad news # la mauvaise nouvelle : 2402_46, 47_49, 50, 51 : literal
+peter # peter : 1561_1_3 : literal
+15 # 15 : 414_4_9 : literal
+medical school # écoles de médecine : 2404_68, 69_87, 88, 89 : literal
+used # utilisé : 430_13_16 : literal
+processes # processus : 453_12_13 : literal
+dr. kean # le dr kean : 2400_3, 4_3, 4, 5 : literal
+potential # le potentiel : 2419_13_12, 13 : literal
+congratulations # félicitations : 217_7_7 : literal
+rather # plutôt : 102_29_25 : literal
+egregious # fameux : 107_45_47 : literal
+was # était : 818_2_2 : literal
+happens # se passe : 1848_5_3, 4 : literal
+prognosis # pronostic : 2362_20_19 : literal
+existed # existait : 2385_26_30 : literal
+atmosphere # atmosphère : 732_11_12 : literal
+meta-verse # méta-verse : 206_49_50 : literal
+would show # montrerais : 1931_9, 10_7 : literal
+2008 # 2008 : 886_5_6 : literal
+intimidated # intimidé : 134_8_10 : literal
+neolithic # néolithique : 123_1_2 : literal
+solve # résoudre : 815_27_26 : literal
+teams # des équipes : 1545_7_7, 8 : literal
+processes # des processus : 488_7_5, 6 : literal
+'re talking # parlent : 782_22, 23_27 : literal
+about # de : 888_10_9 : literal
+double bassist # contrebassiste : 883_49, 50_50 : literal
+campus # campus : 189_40_42 : literal
+had transferred in # avons transféré : 476_21, 22, 23_26, 27 : literal
+climate protection # la protection du climat : 783_4, 5_6, 7, 8, 9 : literal
+read # lus : 150_3_3 : literal
+brilliant # brillant : 904_37_43 : literal
+physical # physique : 199_9_9 : literal
+dangerous # dangereux : 550_40_43 : literal
+would have # auraient : 1595_13, 14_15 : literal
+america # amérique : 777_5_5 : literal
+truly # réellement : 1613_11_13 : literal
+those # les : 2368_30_28 : literal
+slides # des diapos : 1895_21_15, 16 : literal
+deliberately # délibérément : 529_24_29 : literal
+the size of # de la taille d' : 819_10, 11, 12_9, 10, 11, 12 : literal
+'s been # a été : 1844_16, 17_13, 14 : literal
+can # puissiez : 525_9_11 : literal
+right # bon : 513_23_27 : literal
+groups # regroupe : 1870_46_52 : literal
+a little bit # un peu : 1133_7, 8, 9_8, 9 : literal
+as # que : 757_9_9 : literal
+tell # disent : 2388_1_3 : literal
+that # qu' : 1853_5_5 : literal
+such # telles : 151_24_17 : literal
+college scholarship # bourse pour la faculté : 2404_40, 41_55, 56, 57, 58 : literal
+produce # produisent : 1558_11_15 : literal
+exposed # exposé : 891_37_41 : literal
+rich # riches : 207_12_16 : literal
+evolve # évoluer : 2344_18_21 : literal
+time # fois : 526_15_15 : literal
+humbling # modeste : 122_3_3 : literal
+absolutely # absolument : 451_2_2 : literal
+shots # photos : 184_20_22 : literal
+at the time of # lors de : 113_6, 7, 8, 9_9, 10 : literal
+are # sommes : 2350_6_5 : literal
+loud # bruyantes : 793_7_6 : literal
+pierce # percer : 1904_4_2 : literal
+up to # jusqu'à : 520_22, 23_22 : literal
+movement # mouvement : 888_41_43 : literal
+was bargaining # négociais : 2338_6, 8_5 : literal
+24 # 24 : 448_2_2 : literal
+interesting # intéressante : 1548_8_8 : literal
+techniques # des techniques : 493_3_3, 4 : literal
+a # un : 1840_20_19 : literal
+one at a time # un par un : 406_36, 37, 38, 39_37, 38, 39 : literal
+called # appelée : 1544_13_18 : literal
+which # ce que : 543_7_5, 6 : literal
+database # base de données : 490_12_13, 14, 15 : literal
+paraphrase # paraphraser : 2372_1_1 : literal
+start # commencer : 823_32_37 : literal
+bumping up # cognant : 863_6, 7_6 : literal
+slrs # reflex mono-objectifs : 194_23_32, 33 : literal
+on dr. p 's part # de la part de dr p : 2341_10, 11, 12, 13, 14_8, 9, 10, 11, 12, 13 : literal
+truly # vraiment : 217_4_4 : literal
+over # plus de : 538_6_8, 9 : literal
+shift # passe : 1865_28_21 : literal
+done-in # claqué : 2314_49_52 : literal
+web page # page web : 1152_41, 42_41, 42 : literal
+web # web : 177_6_10 : literal
+bass # basse : 873_9_11 : literal
+dynamic living # vivants et dynamiques : 107_21, 22_25, 26, 27 : literal
+has been # a été : 2347_12, 14_13, 15 : literal
+living # vivant : 1119_22_25 : literal
+secret # secret : 1864_14_18 : literal
+created # avons créé : 123_36_36, 37 : literal
+crucial # crucial : 2416_32_34 : literal
+positive # positive : 797_3_5 : literal
+capable # capable : 2315_6_6 : literal
+media # media : 838_13_7 : literal
+social networking platforms # des plateformes de réseaux sociaux : 2346_51, 52, 53_57, 58, 59, 60, 61 : literal
+in the last few years # ces dernières années : 767_8, 9, 10, 11, 12_9, 10, 11 : literal
+is revealing # révèle : 2347_4, 5_7 : literal
+capacity # capacité : 1574_2_3 : literal
+structures # des structures : 1579_19_21, 22 : literal
+day # jour : 881_1_1 : literal
+greatest # plus grande : 121_15_14, 15 : literal
+eyes # les yeux : 897_17_15, 16 : literal
+sioux # sioux : 105_1_2 : literal
+gigabytes # gigabytes : 154_7_10 : literal
+broke # s' est brisée : 2316_34_37, 38, 39 : literal
+dna molecule # une molécule d' adn : 421_13, 14_13, 14, 15, 16 : literal
+meant # voulait dire qu' : 113_1_2, 3, 4 : literal
+tomatoes # tomates : 2391_34_40 : literal
+hand # donner à : 2416_3_3, 4 : literal
+paranoid # paranoïaque : 904_15_23 : literal
+world view # vue d' un monde : 121_27, 28_30, 31, 32, 33 : literal
+put # mets : 827_3_4 : literal
+men # hommes : 885_27_31 : literal
+met # ai rencontré : 886_1_1, 2 : literal
+energy # énergie : 511_37_33 : literal
+ought to # devrait : 157_11, 12_11 : literal
+days # jours : 1933_11_7 : literal
+contact sport # sport de contact : 1613_14, 15_15, 16, 17 : literal
+indians # indiens : 105_2_1 : literal
+childlike # enfantine : 2432_38_41 : literal
+live # vivre : 120_19_16 : literal
+color # couleur : 830_26_34 : literal
+any more than # pas plus que : 105_16, 17, 18_19, 20, 21 : literal
+pattern # schéma : 862_15_17 : literal
+quiet # tranquille : 899_11_14 : literal
+choose # choisir : 861_11_10 : literal
+can # pouvez : 1849_5_5 : literal
+in the # au : 507_2, 3_2 : literal
+sun # le soleil : 808_7_10, 11 : literal
+chemical # produits chimiques : 496_13_22, 23 : literal
+exploding # explose : 891_23_24 : literal
+google # google : 531_18_21 : literal
+contribute # contribuer : 173_20_21 : literal
+which # que : 1849_3_3 : literal
+space # espace : 184_16_17 : literal
+jail # prison : 116_5_6 : literal
+scene # scène : 849_8_8 : literal
+put together # assembler : 445_17, 19_19 : literal
+a few # quelques-unes : 878_18, 19_20 : literal
+selected # selectionné : 1142_3_3 : literal
+organisms # organismes : 449_4_5 : literal
+sports illustrated # sports illustrated : 1121_12, 13_15, 16 : literal
+this # cette : 1874_2_2 : literal
+models # des modèles : 207_14_12, 13 : literal
+common # commun : 1606_8_9 : literal
+permit # permet : 409_2_5 : literal
+apply # s' appliquent : 866_10_16, 17 : literal
+overcoming # vaincre : 2348_22_21 : literal
+of them # en : 1550_54, 55_60 : literal
+vary # varier : 407_16_22 : literal
+attach # attacher : 871_4_6 : literal
+dollar # $ : 1591_5_12 : literal
+new york times website # site web du new york times : 1151_5, 6, 7, 8_5, 6, 7, 8, 9, 10 : literal
+mysteries # mystères : 550_63_68 : literal
+would like to # aimerais : 187_1, 2, 3_1 : literal
+change # un changement : 2381_3_4, 5 : literal
+specific # spécifique : 1126_6_8 : literal
+go back # remontent : 146_8, 9_9 : literal
+respected # respectaient : 913_22_26 : literal
+search # recherche : 214_6_6 : literal
+united states # etats-unis : 764_1, 2_1 : literal
+too # aussi : 1907_10_6 : literal
+geneva # genève : 522_5_6 : literal
+assume # assumer : 550_50_52 : literal
+lame # boiteux : 2314_21_24 : literal
+of course # bien sûr : 207_1, 2_1, 2 : literal
+'s # de : 775_5_6 : literal
+sink # sombrer : 894_26_24 : literal
+suspects # suspects : 1116_25_26 : literal
+flights # des vols : 207_28_29, 30 : literal
+what # à quoi : 498_8_6, 7 : literal
+naming # nommer : 2331_7_9 : literal
+over here # là : 808_2, 3_5 : literal
+are going to bring # apporteront : 879_28, 29, 30, 31_27 : literal
+massey coal # massey coal : 781_8, 9_15, 16 : literal
+in which # que : 1110_19, 20_17 : literal
+down there # en bas : 843_7, 8_7, 8 : literal
+them # eux : 2320_29_30 : literal
+arctic ocean # océan arctique : 731_14, 15_15, 16 : literal
+door # porte : 2416_27_28 : literal
+many # beaucoup d' : 109_38_40, 41 : literal
+dog # chien : 136_23_26 : literal
+that # l' : 433_4_1 : literal
+spend # passent à : 1554_1_1, 8 : literal
+as # en tant que : 109_42_45, 46, 47 : literal
+toes # orteils : 2402_20_22 : literal
+technology # technologie : 153_22_22 : literal
+battle # lutte : 768_5_6 : literal
+what works and what does n't work # ce qui marche ou pas : 1573_10, 11, 12, 13, 14, 15, 16_13, 14, 15, 16, 17 : literal
+digital camera photos # des photos d' appareils numériques : 156_5, 6, 7_3, 4, 5, 6, 7 : literal
+improvised # improvisa : 137_5_4 : literal
+a computer scientist # informaticien : 817_3, 4, 5_5 : literal
+genitalium # genitalium : 404_10_13 : literal
+c # c : 434_13_13 : literal
+impact # impact : 502_12_13 : literal
+sometimes # parfois : 2355_0_0 : literal
+hillary # hillary : 888_14_14 : literal
+impotent # impuissant : 2314_31_33 : literal
+missed # loupé : 470_16_20 : literal
+how to # comment : 815_4, 5_4 : literal
+156 # 156 : 149_0_0 : literal
+tend to # ai tendance à : 2354_2, 3_2, 3, 4 : literal
+configured # configurés : 831_10_9 : literal
+character # caractère : 2371_35_39 : literal
+300 # 300 : 459_3_6 : literal
+did n't # n' ai pas : 1921_12, 13_11, 12, 13 : literal
+information overload # la saturation d' information : 1110_37, 38_36, 37, 38, 39 : literal
+may # pourrait : 515_5_6 : literal
+a musician # musicien : 914_29, 30_35 : literal
+organism # organisme : 404_7_7 : literal
+ashes # cendres : 111_50_64 : literal
+success # le succès : 2349_13_17, 18 : literal
+existence # existence : 107_28_32 : literal
+double # doubler : 732_16_14 : literal
+mice # la souris : 465_19_32, 33 : literal
+squeeze # serrer : 1852_16_16 : literal
+proved of # prouvait : 2389_33, 34_45 : literal
+even # encore : 404_42_42 : literal
+sports # sports : 1127_19_17 : literal
+genes # gènes : 397_28_27 : literal
+of # des : 887_6_8 : literal
+kind of # un peu : 161_4, 5_5, 6 : literal
+aware # conscients : 823_9_13 : literal
+might # pourrions : 2331_15_17 : literal
+pace # le rythme : 412_3_2, 3 : literal
+all # toutes les : 495_44_50, 51 : literal
+electron # électronique : 454_4_6 : literal
+violin pedagogy # la pédagogie du violon : 894_57, 58_57, 58, 60, 61 : literal
+patterns # les schémas : 1579_12_12, 13 : literal
+ours # la nôtre : 406_14_15, 16 : literal
+microbial # microbienne : 465_6_10 : literal
+african # africain : 811_4_6 : literal
+my time spent # temps que j' ai passé : 2336_5, 6, 7_6, 7, 8, 9, 10 : literal
+huge # gigantesque : 488_21_23 : literal
+cookie # cookie : 819_14_14 : literal
+at some point # à un certain moment : 209_17, 18, 19_18, 19, 20, 21 : literal
+accidents # accidents : 548_8_8 : literal
+his protege 's # de son protégé : 550_21, 22, 23_25, 26, 27 : literal
+millions # des millions de : 150_5_5, 6, 7 : literal
+conditions # conditions : 520_6_6 : literal
+in this way # de cette manière : 190_15, 16, 17_20, 21, 22 : literal
+original # originelle : 430_15_19 : literal
+cars # des automobiles : 1604_16_20, 21 : literal
+went to # suis allée : 2321_4, 5_2, 6 : literal
+the silt # vase : 107_104, 105_107 : literal
+whole # toute : 872_5_5 : literal
+represent # représentent : 146_1_1 : literal
+seems # semble : 1547_4_3 : literal
+had # avait : 882_22_23 : literal
+education # l' éducation : 833_7_10, 11 : literal
+all # toute : 1156_9_10 : literal
+magic trick # tour de magie : 1843_21, 22_16, 17, 18 : literal
+particles # particules : 422_32_38 : literal
+so # tellement : 818_3_3 : literal
+then # puis : 1846_8_5 : literal
+collections # collections : 155_16_18 : literal
+pizzutillo # pizzutillo : 2334_4_4 : literal
+adorable # mignon : 779_4_6 : literal
+'re working # travaillons : 497_12, 13_15 : literal
+billion # milliards d' : 478_18_21, 22 : literal
+complete # complet : 2401_20_25 : literal
+adults # les adultes : 2343_6_8, 9 : literal
+came back # sont revenues : 423_10, 11_12, 13 : literal
+now # désormais : 1142_8_8 : literal
+every # chaque : 836_3_4 : literal
+'d # avais : 2312_14_16 : literal
+remember # se rappeler : 122_5_5, 6 : literal
+wrestling term # terme de catch : 2369_35, 36_36, 37, 38 : literal
+the topical domains # des domaines thématiques : 1140_10, 11, 12_6, 7, 8 : literal
+the # la : 1841_22_26 : literal
+the 1950s # les années 1950 : 129_15, 16_15, 16, 17 : literal
+with # avec : 1893_4_2 : literal
+dive # plonger : 182_17_15 : literal
+inventing # inventer : 856_0_1 : literal
+a # a : 434_11_11 : literal
+hard labor # travaux forcés : 118_22, 23_26, 27 : literal
+illustrated # a illustré : 2371_25_29, 30 : literal
+fully # pleinement : 2346_30_39 : literal
+territory # territoire : 142_4_3 : literal
+studies # études : 1841_14_17 : literal
+marvelous # magnifique : 128_32_37 : literal
+he # il : 1917_6_4 : literal
+chance # chance : 516_20_21 : literal
+wrecked # accidenté : 2314_11_13 : literal
+disability # handicap : 2349_68_78 : literal
+read # lu : 433_3_4 : literal
+placebo # placebo : 1840_9_11 : literal
+dr. # dr. : 2335_1_1 : literal
+use # utiliser : 830_17_21 : literal
+cultures # cultures : 103_1_2 : literal
+cameras # appareils photo : 194_20_26, 27 : literal
+updated # actualisée : 2322_3_3 : literal
+too # également : 2429_13_13 : literal
+exist # exister : 151_65_65 : literal
+interacting # interagir : 879_23_20 : literal
+case # exemple : 163_5_2 : literal
+'re # sont : 1881_12_12 : literal
+dodgers # dodgers : 888_19_22 : literal
+would # devrais : 1930_4_4 : literal
+summaries # résumés : 1145_6_6 : literal
+useful # utile : 2370_13_14 : literal
+is not # n' est pas : 2358_4, 5_4, 5, 6 : literal
+wanted to # voulais : 1898_1, 2_1 : literal
+as part of # comme part d' : 153_28, 29, 30_29, 30, 31 : literal
+get # avons : 1167_3_3 : literal
+latest # dernière : 413_19_20 : literal
+of # de : 1854_3_2 : literal
+bing # bing : 1158_38_33 : literal
+want to # voulons : 2330_6, 7_4 : literal
+big # grande : 1110_7_6 : literal
+complete # complets : 550_71_77 : literal
+wires # fils : 533_23_25 : literal
+powerful # puissante : 2339_36_36 : literal
+40 # 40 : 482_17_13 : literal
+reason # raison : 910_4_3 : literal
+disabled # handicapée : 2360_28_31 : literal
+incorporated # ai insérée : 1548_13_13, 14 : literal
+design space # espace de conception : 878_14, 15_15, 16, 17 : literal
+triplets # des triplets : 435_0_0, 1 : literal
+suddenly # soudainement : 539_11_14 : literal
+perhaps # peut-être : 479_9_6 : literal
+question # question : 818_1_1 : literal
+next # prochains : 1933_9_6 : literal
+worn-out # épuisé : 2314_27_29 : literal
+round # rond : 1879_27_33 : literal
+being # sont : 1161_13_14 : literal
+unique # particuliers : 432_2_7 : literal
+stack up # empiler : 844_10, 13_11 : literal
+fundamental # fondamentale : 1613_2_3 : literal
+along with # avec : 762_8, 9_8 : literal
+years # années : 209_26_27 : literal
+coal industry # l' industrie du charbon : 775_3, 4_7, 8, 9, 10 : literal
+incarcerated # emprisonnée : 115_3_3 : literal
+none of it # aucun : 1897_1, 2, 3_0 : literal
+challenge # challenge : 488_22_22 : literal
+blocks # cubes : 821_10_14 : literal
+did n't have a # n' a pas eu d' : 1867_2, 3, 4, 5_5, 6, 7, 8, 9 : literal
+spend some time # passent un peu de temps à : 1553_2, 3, 4_3, 4, 5, 6, 7, 8 : literal
+had to # devais : 2337_1, 2_1 : literal
+right away # immédiatement : 1114_2, 3_2 : literal
+ice # glace : 723_18_17 : literal
+faces # des visages : 196_7_7, 8 : literal
+celebrated # célébré : 109_41_44 : literal
+typical # typique : 2400_28_32 : literal
+kind # genre : 840_9_10 : literal
+specific # particulière : 1153_11_11 : literal
+the design # la conception : 431_2, 3_0, 1 : literal
+combinatorial # combinatoire : 493_19_23 : literal
+mycoplasma # mycoplasma : 404_9_12 : literal
+government # gouvernement : 1141_8_6 : literal
+or # ni : 102_23_18 : literal
+students # des étudiants : 2425_11_13, 14 : literal
+teach # apprends : 1859_9_8 : literal
+stranger # étranger : 2401_21_24 : literal
+months # mois : 503_13_13 : literal
+dickens # dickens : 159_7_5 : literal
+has to # doit : 1546_2, 3_2 : literal
+again # à nouveau : 546_10_8, 9 : literal
+triumph # victoire : 530_22_25 : literal
+more # plus de : 868_24_30, 31 : literal
+real # vrai : 1927_36_33 : literal
+for me # me : 1128_22, 23_16 : literal
+other # autre : 1904_14_13 : literal
+do n't worry about # ne vous inquiétez pas du : 789_1, 2, 3, 4_1, 2, 3, 5, 6 : literal
+some # d' autres : 1146_23_20, 21 : literal
+encountered # ont rencontré : 539_12_12, 13 : literal
+in # dans : 1841_10_13 : literal
+nathaniel # nathaniel : 883_43_45 : literal
+society # société : 2345_11_10 : literal
+individual # individu : 2344_32_34 : literal
+actually # en réalité : 426_13_3, 4 : literal
+over here # ici : 1115_17, 18_19 : literal
+building # construire : 1579_17_20 : literal
+on the other side # de l' autre côté : 2349_21, 22, 23, 24_27, 28, 29, 30 : literal
+it # la : 1901_20_17 : literal
+looks like # ressemble : 200_38, 39_41 : literal
+section # section : 164_8_8 : literal
+home # à la maison : 1595_16_19, 20, 21 : literal
+phrases # des phrases : 214_13_14, 15 : literal
+instructions # des instructions : 1610_3_3, 4 : literal
+process # process : 1585_8_8 : literal
+greenland # le groenland : 737_11_6, 7 : literal
+range # étendue : 121_36_42 : literal
+majority # majorité : 1146_11_9 : literal
+notice # remarquez : 1870_14_13 : literal
+these # ce : 190_2_2 : literal
+know # sais : 1916_1_1 : literal
+at which time # moment auquel : 123_9, 10, 11_11, 12 : literal
+young # jeune : 111_18_27 : literal
+'m looking at # regarde : 1127_2, 3, 4_2 : literal
+legs # jambes : 2346_8_10 : literal
+liar # un menteur : 2403_47_50, 51 : literal
+always # toujours : 914_3_3 : literal
+the next 30 # les 30 prochaines : 1906_15, 16, 17_7, 8, 9 : literal
+july # juillet : 547_15_12 : literal
+activate # active : 461_13_9 : literal
+no longer has # n' a plus : 2432_32, 33, 34_34, 35, 36 : literal
+exists # existe : 910_15_17 : literal
+nine # 9 : 482_11_6 : literal
+here 's # voici : 842_1, 2_0 : literal
+designing # concevoir : 502_40_45 : literal
+coal # charbon : 487_7_9 : literal
+nepotistic # népotiques : 1158_33_27 : literal
+self # nous-même : 2377_11_14 : literal
+oh # oh : 2398_0_0 : literal
+publication # publication : 457_5_2 : literal
+that # la : 883_6_7 : literal
+domination # la domination : 106_22_27, 28 : literal
+another # une autre : 464_31_31, 32 : literal
+radio # radio : 820_30_31 : literal
+within # à l' intérieur : 2419_8_7, 8, 9 : literal
+went on # a continué : 2407_3, 4_4, 5 : literal
+projects # projets : 397_10_8 : literal
+says # dit : 811_7_8 : literal
+there is # c' est : 1875_0, 1_0, 1 : literal
+harness # harnais : 137_7_6 : literal
+gold # l' or : 107_169_170, 171 : literal
+ripped # arraché : 107_138_141 : literal
+sugar # le sucre : 501_16_17, 18 : literal
+survive # survivre : 516_22_23 : literal
+seven # sept : 118_19_23 : literal
+prone # enclin : 891_8_10 : literal
+what # quels : 547_25_20 : literal
+lawyers # les avocats : 1575_20_27, 28 : literal
+out # hors : 107_26_29 : literal
+one # un : 1870_39_45 : literal
+rads # rads : 446_19_25 : literal
+people # gens : 1921_2_1 : literal
+thinking # pense : 2361_19_20 : literal
+hidden # cachés : 1605_12_19 : literal
+sticks # bâtons : 1554_9_11 : literal
+version # version : 165_16_17 : literal
+architecture # une architecture : 157_40_40, 41 : literal
+marching # marché : 2404_25_40 : literal
+amino acids # acides aminés : 435_8, 9_11, 12 : literal
+to us # nous : 2347_8, 9_6 : literal
+seeing # on voit : 1116_16_15, 16 : literal
+'s happened # s' est passé : 726_13, 14_16, 17, 18 : literal
+tell # dire : 1583_3_3 : literal
+filter # filtre : 871_6_8 : literal
+reminded of # a rappelé : 770_2, 4_3, 4 : literal
+michael faraday # michael faraday : 550_30, 31_32, 33 : literal
+revision # révision : 2321_17_18 : literal
+video # de la vidéo : 825_6_6, 7, 8 : literal
+china # la chine : 764_13_15, 16 : literal
+was poisoning # empoisonnait : 893_13, 14_14 : literal
+microsoft research # la recherche microsoft : 180_4, 5_4, 5, 6 : literal
+rearrange # réorganiser : 874_2_4 : literal
+managed # ai réussi : 838_18_16, 17 : literal
+at the # au : 147_8, 9_8 : literal
+more # plus d' : 873_12_14, 15 : literal
+take out # sortir : 543_3, 5_3 : literal
+checks # vérifie : 836_23_26 : literal
+cycling # cyclisme : 1129_30_31 : literal
+a lot of # beaucoup d' : 214_24, 25, 26_25, 26 : literal
+politicians # les politiciens : 147_20_19, 20 : literal
+does n't see # ne voit pas : 2432_26, 27, 28_27, 28, 29 : literal
+phi x 174 # phi x 174 : 419_16, 17, 18_14, 15, 16 : literal
+june # juin : 547_13_10 : literal
+probably # probablement : 1860_0_3 : literal
+deinococcus # deinococcus : 446_12_11 : literal
+abilities # talents : 2387_48_49 : literal
+mortality chart # tableau de mortalité : 1111_11, 12_8, 9, 10 : literal
+they # ils : 1841_48_50 : literal
+heat sink # radiateur : 737_7, 8_4 : literal
+worry about the # se préoccuper des : 188_3, 4, 5_3, 4, 5 : literal
+second # seconde : 469_27_33 : literal
+in the grip of # sous l' emprise d' : 898_6, 7, 8, 9_6, 7, 8, 9 : literal
+so # ainsi : 1148_0_0 : literal
+100 # 100 : 801_3_7 : literal
+homologous # homologue : 445_7_6 : literal
+researcher # chercheur : 1878_7_8 : literal
+cracked-up # fissuré : 2314_50_53 : literal
+plan out # planifier : 875_6, 8_8 : literal
+the presence of it # sa présence : 2370_20, 21, 22, 23_16, 17 : literal
+step back # m' éloigner : 1153_3, 4_3, 4 : literal
+are creating # créons : 2364_16, 17_18 : literal
+mangled # mutilé : 2316_28_31 : literal
+high # élevés : 1596_8_11 : literal
+taken # pris : 1136_8_11 : literal
+told # a raconté : 128_29_33, 34 : literal
+cell phone # téléphone portable : 194_18, 19_29, 30 : literal
+time magazine people of the year # les personnalités de l' année du magazine time : 1142_21, 22, 23, 24, 25, 26_23, 24, 25, 26, 27, 28, 29, 30 : literal
+build up # construire : 2337_26, 27_27 : literal
+times # fois : 1933_6_4 : literal
+fourth # quatrième : 887_11_11 : literal
+image # image : 160_13_13 : literal
+to what extent # dans quelle mesure : 2342_6, 7, 8_6, 7, 8 : literal
+cones # cônes : 189_50_52 : literal
+look around # regardez autour de vous : 1582_8, 9_8, 9, 10, 11 : literal
+simply # simplement : 2358_6_7 : literal
+adversity # l' adversité : 2348_23_22, 23 : literal
+children # des enfants : 2335_18_19, 20 : literal
+system # système : 157_18_17 : literal
+many # beaucoup : 154_4_6 : literal
+went from being # est passée : 1600_4, 5, 6_4, 5 : literal
+pictures # photos : 189_31_35 : literal
+brought about # apportés : 2345_18, 19_16 : literal
+schizophrenia # schizophrénie : 883_63_65 : literal
+electrical # electrique : 539_13_18 : literal
+in april of 1999 # en avril 1999 : 140_3, 4, 5, 6_0, 1, 2 : literal
+they # ce : 1881_11_11 : literal
+often # souvent : 1859_8_9 : literal
+little # petite : 2339_37_31 : literal
+the longer # plus est long : 417_32, 33_36, 39, 40 : literal
+objective # objectif : 2360_9_13 : literal
+traits # caractéristiques : 469_24_27 : literal
+good # bon : 788_7_12 : literal
+time # le temps : 860_7_6, 7 : literal
+million # millions : 459_4_7 : literal
+leading # principales : 795_8_9 : literal
+tell # raconter : 2407_6_8 : literal
+gives # donne : 165_3_3 : literal
+gingerly # précautionneusement : 1555_22_22 : literal
+feet # les pieds : 2402_13_13, 14 : literal
+view # vision : 2342_26_31 : literal
+juilliard # julliard : 884_4_2 : literal
+colored # colorée : 1886_1_2 : literal
+spaghetti # spaghettis : 1545_22_22 : literal
+software of dna # l' adn logiciel : 477_16, 17, 18_16, 17, 18 : literal
+coal # le charbon : 763_6_6, 7 : literal
+america # l' amérique : 798_0_4, 5 : literal
+can # pouvons : 403_8_6 : literal
+bits # morceaux : 533_16_20 : literal
+knew # avons su que : 530_13_13, 14, 15 : literal
+shallow # superficielle : 125_3_2 : literal
+was blowing # soufflait : 134_17, 18_20 : literal
+small # petit : 420_3_1 : literal
+string # ficelle : 1545_32_33 : literal
+knowledge # connaissance : 902_10_10 : literal
+compelling # fascinante : 818_4_4 : literal
+maimed # mutilé : 2314_15_18 : literal
+old # vieux : 811_3_4 : literal
+extend # allonge : 868_18_24 : literal
+flesh-and-bone # en chair et en os : 2410_32_40, 41, 42, 43, 44 : literal
+e. coli # e. coli : 423_15, 16_17, 18 : literal
+how # comment : 1844_7_4 : literal
+deeply # profondément : 816_3_6 : literal
+lessons # enseignements : 1550_40_49 : literal
+fuel # du carburant : 485_13_17, 18 : literal
+changed # ont changé : 476_7_9, 10 : literal
+from # d' : 1868_7_7 : literal
+oceans # océans : 760_24_29 : literal
+casually # nonchalamment : 2331_1_2 : literal
+left # gauche : 876_20_22 : literal
+an # un : 819_7_6 : literal
+interesting # intéressantes : 830_3_10 : literal
+so much # tant de : 2369_12, 13_13, 14 : literal
+per # pour : 429_16_16 : literal
+ultimate # finales : 550_57_60 : literal
+energy source # source d' énergie : 508_10, 11_14, 15, 16 : literal
+pattie # pattie : 817_21_24 : literal
+cultures # des cultures : 107_13_15, 16 : literal
+ted prize winner # lauréat du prix ted : 1147_8, 9, 10_9, 10, 11, 12 : literal
+minute # minute : 441_34_35 : literal
+incentives # motivations : 1602_11_16 : literal
+choosing # choix : 2346_78_89 : literal
+search history # historique de recherche : 1158_24, 25_17, 18, 19 : literal
+kindergarteners # les maternelles : 1575_33_40, 41 : literal
+all # tous les : 127_29_33, 34 : literal
+showing # montrer : 1843_14_9 : literal
+tape # ruban : 1545_27_27 : literal
+man # monsieur : 2400_1_1 : literal
+traveled # voyagé : 144_22_20 : literal
+yes # oui : 1915_0_0 : literal
+we # nous : 1900_1_0 : literal
+daily # quotidien : 2341_53_62 : literal
+is rising # se lève : 851_2, 3_4, 5 : literal
+does n't have # n' a pas d' : 2432_20, 21, 22_20, 21, 22, 23 : literal
+in # pendant : 757_10_10 : literal
+level # degré : 1149_29_31 : literal
+overlap # imbriquer : 431_15_15 : literal
+increased # augmenté : 750_3_3 : literal
+any # aucune : 2403_35_36 : literal
+dropped out # abandonné : 2428_13, 14_17 : literal
+have to # devraient : 1117_27, 28_31 : literal
+emerging # ressortir : 2349_20_26 : literal
+important # important : 1143_4_3 : literal
+bartók # bartók : 901_22_24 : literal
+it # cela : 157_0_0 : literal
+write out # écrire : 436_8, 9_8 : literal
+means # signifie : 171_4_4 : literal
+microbes # des microbes : 731_37_37, 38 : literal
+turn upside down # renverser : 1164_10, 13, 14_10 : literal
+offered # ai offert : 1591_2_2, 3 : literal
+abstraction # abstraction : 1149_31_33 : literal
+is like # ressemblent à : 729_14, 16_11, 13 : literal
+barrels # barils : 487_11_17 : literal
+about the # du : 397_13, 14_10 : literal
+look # regardez : 1906_11_5 : literal
+interactive # interactifs : 826_2_3 : literal
+scientific # scientifique : 519_20_20 : literal
+improvise # improviser : 875_15_16 : literal
+cross-modal # trans-modale : 206_63_68 : literal
+manage # gèrent : 1585_1_1 : literal
+ted # ted : 511_25_22 : literal
+blocks # des cubes : 814_20_19, 20 : literal
+peoples # des peuples : 107_23_23, 24 : literal
+challenging # stimulante : 2349_27_34 : literal
+say # dire : 173_14_14 : literal
+backwards # en arrière : 825_35_39, 40 : literal
+represents # représente : 189_51_54 : literal
+believe it # y croient : 1841_49, 50_51, 52 : literal
+social # sociale : 206_66_67 : literal
+endorsed # avons adhéré : 102_41_35, 38 : literal
+must # doit : 2317_17_18 : literal
+a lot of # beaucoup de : 108_14, 15, 16_16, 17 : literal
+huge # immense : 216_18_18 : literal
+obvious # évidentes : 172_9_10 : literal
+start with # commencer par : 824_6, 7_3, 4 : literal
+factor # facteur : 2405_10_10 : literal
+very # très : 1843_19_19 : literal
+broken # cassées : 2390_7_7 : literal
+destruction # destruction : 102_47_44 : literal
+values # valeurs : 2327_4_3 : literal
+some new # de nouveaux : 823_35, 36_40, 41 : literal
+most popular # les plus populaires : 1138_7, 8_9, 10, 11 : literal
+saints # saints : 206_8_8 : literal
+more # davantage : 823_8_12 : literal
+so # alors : 895_0_0 : literal
+interactions # interactions : 817_12_12 : literal
+provides # apporte : 1606_2_2 : literal
+cellists # violoncellistes : 918_14_11 : literal
+spoke # a parlé : 903_1_2, 3 : literal
+five # 5 : 487_3_4 : literal
+conflict # le conflit : 2373_0_0, 1 : literal
+play # jouer : 918_7_2 : literal
+most # plus : 2367_2_2 : literal
+make sure # être sûr que : 1863_12, 13_9, 11, 12 : literal
+field trip # sortie scolaire : 838_9, 10_11, 12 : literal
+ads # publicités : 775_6_3 : literal
+open up # ouvre : 1871_15, 18_11 : literal
+sports # sportive : 2404_47_65 : literal
+side # coté : 1904_15_14 : literal
+name # nom : 2334_1_1 : literal
+still # encore : 1146_26_25 : literal
+begin # commencent : 1551_6_7 : literal
+skin # peau : 1903_3_3 : literal
+detectors # détecteurs : 523_9_14 : literal
+vaccines # vaccins : 495_24_34 : literal
+for them # leur : 2332_7, 8_8 : literal
+surgery # la chirurgie : 2346_11_12, 13 : literal
+years # ans : 884_14_11 : literal
+the # du : 769_5_6 : literal
+or so # environ : 1588_14, 15_11 : literal
+universally # universellement : 109_12_15 : literal
+satellite # satellite : 207_31_37 : literal
+indigenous people # indigènes : 139_21, 22_19 : literal
+271 # 271 : 537_3_6 : literal
+will # va : 2362_53_55 : literal
+strong # fort : 2315_4_4 : literal
+kills # tue : 420_6_4 : literal
+collective # collectif : 151_98_98 : literal
+large # grand : 494_8_8 : literal
+blog # blog : 1609_3_3 : literal
+carbon # carbone : 731_25_24 : literal
+talk about the # parle du : 1162_1, 2, 3_1, 2 : literal
+next to each other # les uns à côté des autres : 827_5, 6, 7, 8_5, 6, 7, 8, 9, 10 : literal
+that # cela : 536_3_3 : literal
+petrol-chemical industry # industrie pétrochimique : 511_13, 14_13, 14 : literal
+when # lorsqu' : 536_5_6 : literal
+disable # handicaper : 2362_55_57 : literal
+calendar year # année civile : 769_18, 19_17, 18 : literal
+his # son : 891_46_49 : literal
+methods # méthodes : 493_9_9 : literal
+aspired # aspirais : 2411_1_4 : literal
+would clean off # nettoierais : 1931_1, 2, 3_1 : literal
+structure # structure : 458_21_19 : literal
+prize # prix : 1591_6_5 : literal
+started # avons commencé à : 901_2_2, 3, 4 : literal
+weird # étranges : 195_13_13 : literal
+high-paying # bien rémunérés : 809_4_7, 8 : literal
+greater # plus grand : 201_15_15, 16 : literal
+pluralistic # pluraliste : 151_84_84 : literal
+words # mots : 2316_55_62 : literal
+history # historique : 1158_19_14 : literal
+that # le : 182_3_2 : literal
+decrepit # décrépit : 2314_41_42 : literal
+done # faite : 189_10_10 : literal
+had gone # était parti : 2401_7, 8_8, 9 : literal
+four # 4 : 757_0_0 : literal
+try # essayer : 1123_8_6 : literal
+text # du texte : 160_8_7, 8 : literal
+dosages # dosages : 1890_2_4 : literal
+the one # celui : 524_2, 3_1 : literal
+disability # infirmité : 2432_8_8 : literal
+exciting # excitant : 422_1_4 : literal
+archaea # archaea : 464_3_3 : literal
+poet # poète : 2435_13_9 : literal
+build # construisent : 1571_14_19 : literal
+flickr # flickr : 189_17_21 : literal
+normalcy # la normalité : 2387_10_12, 13 : literal
+views # visualisations : 182_12_10 : literal
+500 # 500 : 405_15_12 : literal
+indicate # indiquer : 1137_13_14 : literal
+2009 # 2009 : 2321_9_11 : literal
+understood # ai compris : 902_2_2, 3 : literal
+lopez # lopez : 881_8_10 : literal
+get me to # me faire : 2341_16, 17, 18_16, 17 : literal
+support # soutien : 2407_29_35 : literal
+generic # générique : 121_26_34 : literal
+what # quel : 1593_0_0 : literal
+break # casser : 2339_46_43 : literal
+interaction # l' interaction : 830_6_12, 13 : literal
+innate # innée : 2432_42_45 : literal
+increasing # augmenter : 502_15_18 : literal
+understanding # compréhension : 899_8_10 : literal
+came # sont venus : 838_6_4, 5 : literal
+chromosomes # chromosomes : 494_15_16 : literal
+roughly # en gros : 465_9_12, 13 : literal
+text # texte : 160_33_33 : literal
+rare # rares : 2387_45_50 : literal
+nor # ni : 2372_14_16 : literal
+representation # représentation : 160_30_31 : literal
+does n't any # ne aucune : 157_1, 2, 4_1, 3 : literal
+him # lui : 845_2_1 : literal
+neighbors # voisins : 1875_11_12 : literal
+teaching # enseignement : 2404_60_77 : literal
+situation # situation : 426_8_6 : literal
+hip replacements # la prothèse de hanche : 2346_19, 20_25, 26, 27, 28 : literal
+disappointed # déçu que : 438_3_3, 4 : literal
+which # ce qui : 1840_12_13, 14 : literal
+features # caractéristiques : 168_6_5 : literal
+traded # échangé : 2410_29_34 : literal
+wanted to # voulu : 2348_16, 17_17 : literal
+useless # inutile : 2314_9_11 : literal
+synthesize # synthétiser : 407_10_14 : literal
+that be worried about # dont se soucier : 1117_25, 29, 30, 31_28, 32, 33 : literal
+work # travailler : 2335_16_17 : literal
+of course # évidemment : 2338_31, 32_24 : literal
+what if # si : 1164_0, 1_1 : literal
+winter # hiver : 725_3_4 : literal
+all of that # tout ça : 200_43, 44, 45_50, 51 : literal
+might pour # verserait : 830_30, 31_41 : literal
+later # plus tard : 884_15_12, 13 : literal
+is going to # va : 209_10, 11, 12_12 : literal
+when it thaws # en se dégelant : 731_28, 29, 30_27, 28, 29 : literal
+read # lit : 476_11_15 : literal
+step-by-step # pas à pas : 1610_2_5, 6, 7 : literal
+average # la moyenne : 1580_8_11, 12 : literal
+pharmaceutical # produit pharmaceutique : 898_12_11, 12 : literal
+value # valeur : 548_14_17 : literal
+educe # educe : 2418_18_14 : literal
+chicanery # tromperie : 1872_13_10 : literal
+octane # de l' octane : 495_17_24, 25, 26 : literal
+my leg muscles # les muscles de mes jambes : 2337_28, 29, 30_28, 29, 30, 31, 32 : literal
+ancient # vieille : 2317_20_21 : literal
+information overload # la surcharge d' information : 1162_6, 7_5, 6, 7, 8 : literal
+industry # industrie : 491_2_1 : literal
+paralyzed # paralysé : 2314_35_37 : literal
+in 1946 # en 1946 : 483_11, 12_11, 12 : literal
+teachers # professeurs : 2424_13_13 : literal
+difference # différence : 157_5_4 : literal
+shared # partagée : 1606_4_5 : literal
+color # des couleurs : 831_22_21, 22 : literal
+regular # normale : 454_11_13 : literal
+say # dit : 2393_9_9 : literal
+itself # elle-même : 2363_31_33 : literal
+normally # normalement : 1930_0_0 : literal
+students # les étudiants : 2423_3_4, 5 : literal
+types # types : 194_10_13 : literal
+solution # solution : 800_7_4 : literal
+educate # éduquer : 2418_10_8 : literal
+world records # les records du monde : 1612_2, 3_4, 5, 6, 7 : literal
+tablets # les cachets : 1885_10_11, 12 : literal
+university # université : 179_25_33 : literal
+bolster # soutenir : 2433_5_7 : literal
+n't # ne pas : 162_2_1, 5 : literal
+thousand # mille : 534_4_4 : literal
+part # partie : 1906_32_23 : literal
+meaning # signification : 126_10_9 : literal
+everybody # tout le monde : 200_23_26, 27, 28 : literal
+six-second period # période de 6 secondes : 456_6, 7_7, 8, 9, 10 : literal
+indigenous # indigène : 101_19_21 : literal
+instant # instantané : 1573_7_11 : literal
+reaches # étendues : 144_26_24 : literal
+less than # moins d' : 520_10, 11_10, 11 : literal
+speeding up # en accélérant : 515_19, 20_19, 20 : literal
+happened # il est arrivé : 1592_5_5, 6, 7 : literal
+recombination # recombinaison : 445_8_5 : literal
+think of # croient : 470_4, 5_3 : literal
+integrating # intégrait : 2404_57_74 : literal
+students # étudiants : 1597_8_8 : literal
+enough # assez : 1841_51_53 : literal
+'re trying # essayons : 147_4, 5_5 : literal
+stars # étoiles : 537_12_19 : literal
+to # vers : 107_115_119 : literal
+to utter # prononcer : 2329_16, 17_17 : literal
+capacity # faculté : 107_36_39 : literal
+digital tools # des outils numériques : 1604_8, 9_8, 9, 10 : literal
+entries # entrées : 2344_9_7 : literal
+put # posent : 1568_8_9 : literal
+wrapped # enveloppés : 133_10_12 : literal
+though # bien que : 1547_2_0, 1 : literal
+good # bonne : 2351_10_10 : literal
+this # c' : 1844_11_8 : literal
+really # très : 2335_5_8 : literal
+picture # image : 527_2_2 : literal
+specialized # spécialisées : 1587_0_2 : literal
+do # font : 1571_2_6 : literal
+'m # suis : 1878_1_2 : literal
+flustered # agités : 828_15_19 : literal
+wire # fils : 533_18_22 : literal
+six and a half # 6,5 : 482_6, 7, 8, 9_4 : literal
+stabilized # stabilisé : 184_44_35 : literal
+profound # profond : 897_11_11 : literal
+what 's happening to them # ce qui lui arrive : 1841_26, 27, 28, 29, 30_30, 31, 32, 33 : literal
+real # vraie : 165_14_16 : literal
+to # pour : 1852_1_0 : literal
+many of which # dont beaucoup : 2345_13, 14, 15_12, 13 : literal
+video games # des jeux vidéo : 1604_18, 19_23, 24, 25 : literal
+jump # sauter : 187_4_2 : literal
+darwin # darwin : 2371_24_28 : literal
+heard # entendit : 881_20_23 : literal
+last # dernier : 860_3_1 : literal
+digested it with # l' avons fait digérer par : 465_36, 37, 38_48, 49, 50, 51, 52 : literal
+600 # 600 : 520_24_23 : literal
+illusion # illusion : 1864_17_21 : literal
+remember # vous souvenir de : 2396_9_11, 12, 13 : literal
+content # contenu : 212_8_9 : literal
+threatens # menace : 106_7_11 : literal
+base pairs # paires de bases : 429_18, 19_19, 20, 21 : literal
+small # petits : 535_20_23 : literal
+activate # activer : 464_33_36 : literal
+they # elles : 1885_5_6 : literal
+feeling # ressenti : 1614_25_24 : literal
+'s going to # va : 1552_10, 11, 12_9 : literal
+nancy pelosi # nancy pelosi : 782_10, 11_14, 15 : literal
+titanium knees # le genou en titane : 2346_16, 17_20, 21, 22, 23 : literal
+seen # vu : 513_2_3 : literal
+dramatic # spectaculaire : 755_9_7 : literal
+weigh # pèsent : 541_10_11 : literal
+came in # est venu : 2339_6, 7_4, 5 : literal
+repair # réparer : 445_13_13 : literal
+are educating # éduquez : 2416_36, 37_38 : literal
+it # ce : 1897_10_8 : literal
+speed up # accélérer : 872_2, 3_4 : literal
+can # pouvait : 445_16_18 : literal
+browsing history # l' historique de navigation : 1154_27, 28_26, 27, 28, 30 : literal
+results # résultats : 833_32_43 : literal
+are allowing # permettent aux : 2346_25, 26_34, 35 : literal
+tried # tenté : 401_2_2 : literal
+shrunk # diminué : 722_36_54 : literal
+struggle # lutte : 2374_23_26 : literal
+anyone # quiconque : 209_35_38 : literal
+lots of # beaucoup de : 194_7, 8_11, 12 : literal
+atmosphere # atmosphere : 489_17_21 : literal
+slide # diapositive : 726_2_2 : literal
+be # soit : 2433_22_31 : literal
+are # es : 2339_31_28 : literal
+standard of accuracy # précision standard : 429_10, 11, 12_10, 11 : literal
+promised # ai promis : 518_2_2, 3 : literal
+as # tel que : 124_4_4, 5 : literal
+that 's # voilà : 843_0, 1_0 : literal
+future # futur : 515_4_5 : literal
+thorazine # de la thorazine : 890_20_24, 25, 26 : literal
+earlier # plus tôt : 1157_13_10, 11 : literal
+to # dans : 199_7_6 : literal
+pulled down # a baissé : 135_5, 6_5, 6 : literal
+has # a : 1879_32_36 : literal
+biological # biologique : 426_20_18 : literal
+that to # auquel : 2381_4, 10_6 : literal
+really # en fait : 1556_2_1, 2 : literal
+creation # la création : 2373_5_6, 7 : literal
+talk about it # en parlent : 1552_1, 2, 3_1, 2 : literal
+minus # moins : 537_2_5 : literal
+ca n't # ne pouvez pas : 1913_2, 3_1, 2, 3 : literal
+marshmallowchallenge.com # marshmallowchallenge.com : 1608_12_8 : literal
+whole # entier : 2324_16_15 : literal
+being # étant : 1872_18_14 : literal
+sarawak # sarawak : 107_62_65 : literal
+killed # tué : 113_5_7 : literal
+people # les personnes : 1922_0_0, 1 : literal
+150 # 150 : 2371_14_17 : literal
+mountains # montagnes : 108_6_8 : literal
+tells # dit : 1561_2_2 : literal
+spatial # spatiaux : 186_7_4 : literal
+guys # types : 189_33_37 : literal
+many # plusieurs : 139_4_4 : literal
+if # s' : 1841_47_49 : literal
+bono # bono : 1147_4_5 : literal
+taken # prise : 527_4_5 : literal
+worlds # mondes : 550_79_88 : literal
+magic # la magie : 1859_17_17, 18 : literal
+thing # truc : 154_24_33 : literal
+have been # ont : 400_13, 14_17 : literal
+re-imagine # réimaginer : 2379_2_2 : literal
+which # laquelle : 102_34_30 : literal
+colors # couleurs : 2337_19_19 : literal
+real # réel : 1897_18_17 : literal
+uses # utilise : 445_11_11 : literal
+able # capables : 2434_9_9 : literal
+sequence # séquencer : 441_14_18 : literal
+belief # croyance : 1897_14_13 : literal
+italian american # italo-américain : 2334_7, 8_7 : literal
+usual # habituels : 1116_24_27 : literal
+admission # aveu : 2348_32_30 : literal
+find # trouve : 469_1_1 : literal
+t # t : 434_17_17 : literal
+since then # depuis : 1550_1, 2_0 : literal
+youngest # plus jeune : 843_3_2, 3 : literal
+fish # poissons : 133_9_11 : literal
+'ll # va : 868_1_3 : literal
+as well # également : 173_24, 25_25 : literal
+by ear # à l' oreille : 900_15, 16_18, 19, 20 : literal
+photographs # photographies : 197_9_11 : literal
+limit # limiter : 157_13_12 : literal
+bacteria # les bactéries : 464_1_1, 2 : literal
+sound # son : 865_6_5 : literal
+triangles # les triangles : 1579_8_9, 10 : literal
+this one # celui-ci : 157_20, 21_19 : literal
+that # qui : 1844_15_12 : literal
+already # déjà : 733_0_0 : literal
+24,000-letter pieces # des morceaux de 24 000 lettres : 440_21, 22_25, 26, 27, 28, 29, 30 : literal
+kind # sorte : 892_24_26 : literal
+would be bleeding # saignerait : 1927_57, 58, 59_51 : literal
+talk # présentation : 1123_12_9 : literal
+have to say # a à dire : 841_2, 3, 4_4, 5, 6 : literal
+that # que : 1840_51_47 : literal
+medicine # médecine : 905_2_3 : literal
+banks # bords : 107_89_92 : literal
+corn # du maïs : 500_5_8, 9 : literal
+hurt # blessé : 2314_56_59 : literal
+whether # que ce soit : 2350_20_19, 20, 21 : literal
+subunits # des sous-ensembles : 431_25_26, 27 : literal
+erudite # érudit : 904_35_40 : literal
+executive # cadre : 1581_6_4 : literal
+final # dernier : 550_4_3 : literal
+curriculum # programme : 2424_9_6 : literal
+constantly # constamment : 103_6_8 : literal
+shielding # protéger : 2358_7_9 : literal
+fun # amusants : 823_38_45 : literal
+will # volonté : 2405_17_17 : literal
+debate # débat : 548_11_12 : literal
+'re working with # travaillons à : 502_37, 38, 39_43, 44 : literal
+type # type : 1572_3_4 : literal
+specialization surplus # le surplus de la spécialisation : 123_38, 39_38, 39, 40, 41, 42 : literal
+have to do with # ont à voir avec : 1890_3, 5, 6, 7_5, 8, 9, 10 : literal
+los angeles philharmonic # orchestre philharmonique de los angeles : 903_19, 20, 21_20, 21, 22, 23, 24 : literal
+'ve # ai : 397_4_1 : literal
+land-base # terrestres : 741_10_18 : literal
+woof # ouaf : 855_19_24 : literal
+think # réfléchir : 815_25_23 : literal
+tried # ai essayé : 1589_2_2, 3 : literal
+75 # 75 : 757_13_12 : literal
+that # lequel : 497_10_13 : literal
+simple # simples : 824_9_7 : literal
+there were # il y avait : 121_62, 63_72, 73, 74 : literal
+were lost # ont disparu : 475_15, 16_14, 15 : literal
+look at # regarder : 1154_23, 24_24 : literal
+make sure # nous assurer : 2362_39, 40_41, 42 : literal
+shape # façonner : 885_33_41 : literal
+potential # potentiel : 2405_13_14 : literal
+turn around # me retourne : 2394_2, 3_2, 3 : literal
+a couple # quelques : 1893_8, 9_8 : literal
+necessarily # forcément : 498_7_4 : literal
+understand each other # se comprenne : 1843_5, 6, 7_3, 4 : literal
+became # suis devenu : 914_28_33, 34 : literal
+tens of thousands of # des dizaines de milliers de : 417_2, 3, 4, 5_2, 3, 4, 5, 6 : literal
+will improve # améliorera : 1586_11, 13_15 : literal
+was talking # parlait : 893_2, 3_2 : literal
+and # et : 1856_15_12 : literal
+dream # rêve : 121_57_67 : literal
+registered # a été enregistré : 198_9_12, 13, 14 : literal
+having # ayant : 1142_2_2 : literal
+allow # permettre : 209_13_13 : literal
+'re going to # vas : 2339_43, 44, 45_42 : literal
+acknowledging # reconnaissant : 2364_11_12 : literal
+jamie foxx # jamie fox : 883_40, 41_40, 41 : literal
+what # ce qu' : 397_18_15, 16 : literal
+did n't know # ne savaient pas : 2430_2, 3, 4_2, 3, 4 : literal
+pattern # tendance : 758_5_8 : literal
+age # âge : 1111_15_14 : literal
+'s # est : 1859_36_42 : literal
+days # des jours : 891_28_30, 31 : literal
+look # regarder : 1907_8_7 : literal
+realize # réaliser : 830_11_4 : literal
+arpeggios # arpèges : 894_50_50 : literal
+magnetism # magnétisme : 1855_19_16 : literal
+aimee # aimee : 2339_28_25 : literal
+stunning # stupéfiant : 465_50_74 : literal
+right # adéquate : 453_21_25 : literal
+sound like # ressembler à : 477_4, 5_2, 3 : literal
+means # veut dire que : 532_1_1, 2, 3 : literal
+reported # ont annoncé que : 744_3_6, 7, 8 : literal
+remote # éloignées : 144_37_36 : literal
+sounds # sons : 860_31_37 : literal
+this # ceci : 1850_12_10 : literal
+ctos # directeurs techniques d' entreprises : 1550_23_28, 29, 30, 31 : literal
+moves us # nous émeut : 911_11, 12_13, 14 : literal
+say out # dire : 2329_27, 30_26 : literal
+instead of from # au lieu d' : 1164_18, 19, 21_17, 18, 19 : literal
+trying # pénibles : 2368_12_14 : literal
+butanol # butanol : 501_28_31 : literal
+cub scout magic # cub scout magic : 1845_5, 6, 7_6, 7, 8 : literal
+do with it # en faire : 2409_15, 16, 17_19, 20 : literal
+nations # pays : 149_1_1 : literal
+unites # unit : 911_16_20 : literal
+penan # penan : 107_52_52 : literal
+playing # jouiez : 814_18_17 : literal
+expect to # comptons : 547_8, 9_5 : literal
+which # lesquels : 1128_29_22 : literal
+agriculture # l' agriculture : 123_7_8, 9 : literal
+arm # bras : 1908_21_21 : literal
+disturbed # dérangé : 904_17_21 : literal
+marshmallow # marshmallow : 1545_35_37 : literal
+first # en premier : 153_7_6, 7 : literal
+let 's look at # voyons : 1574_12, 13, 14, 15_13 : literal
+code for # coder : 435_4, 5_7 : literal
+newspaper # journal : 165_22_25 : literal
+catch you by surprise # vous prendre par surprise : 1150_12, 13, 17, 18_12, 13, 16, 17 : literal
+build # créer : 427_11_9 : literal
+is from # vient d' : 187_16, 17_17, 18 : literal
+'m starting to # commence à : 2348_60, 61, 62_59, 60 : literal
+this is it # le voici : 519_1, 2, 3_1, 2 : literal
+whole # tout : 1160_15_16 : literal
+wholesome # sain : 2324_20_19 : literal
+screen # écran : 820_26_27 : literal
+came backstage # venu en coulisses : 887_15, 16_18, 19, 20 : literal
+could # pourra : 2406_8_9 : literal
+interaction styles # styles d' interactions : 823_39, 40_42, 43, 44 : literal
+that # cet : 206_44_45 : literal
+drowning # être noyé : 1163_3_3, 4 : literal
+every month # tous les mois : 148_45, 46_53, 54, 55 : literal
+thoughts # pensées : 907_7_9 : literal
+found # avons trouvé : 430_2_8, 9 : literal
+my # mà : 1123_11_8 : literal
+complete # compléter : 900_29_35 : literal
+would seem # semblerait : 2320_8, 9_10 : literal
+searching # recherches : 1158_34_26 : literal
+inspires # inspire : 911_14_17 : literal
+replay # rejouer : 1157_5_3 : literal
+antarctica # antarctique : 743_8_9 : literal
+not # pas : 1872_6_4 : literal
+amount # quantité : 216_2_4 : literal
+other # autres : 431_19_19 : literal
+his # sa : 856_1_2 : literal
+perceived # percevrait : 2320_18_19 : literal
+teams # équipes : 1574_18_20 : literal
+some # un peu de : 1928_5_6, 7, 8 : literal
+count # compter : 1913_4_4 : literal
+that # il : 397_19_17 : literal
+somewhere # quelque part : 197_0_0, 1 : literal
+this # la : 2425_38_43 : literal
+spaghetti , inc. # la spaghetti inc. : 1563_18, 19, 20_22, 23, 24 : literal
+foreign material # un matériel étranger : 473_10, 11_19, 20, 21 : literal
+examples # des exemples : 1611_3_3, 4 : literal
+what # quoi : 1883_0_0 : literal
+fingers # doigts : 1870_19_22 : literal
+mechanism # mécanisme : 468_4_6 : literal
+everything # tout : 1857_15_16 : literal
+amazing # stupéfiant : 143_1_2 : literal
+man # mec : 1909_4_3 : literal
+understand # comprendre : 885_16_18 : literal
+know # connaissent : 1860_7_11 : literal
+co2 # co 2 : 509_22_26, 27 : literal
+examine # examiner : 1849_6_6 : literal
+over # sur : 456_3_5 : literal
+'re focusing # nous concentrons : 499_1, 2_1, 2 : literal
+escape # évasion : 908_4_4 : literal
+realistic # réaliste : 163_4_4 : literal
+take away # enlève : 1874_1, 4_1 : literal
+times # moments : 2368_13_13 : literal
+imaginative # imaginatif : 2433_25_34 : literal
+worth # valeur : 2365_6_7 : literal
+pill # cachet : 1888_1_1 : literal
+entertain # amuser : 1917_19_21 : literal
+had # eu : 2361_12_12 : literal
+lens # prisme : 910_33_40 : literal
+romans # romains : 2329_12_13 : literal
+thoughts # des pensées : 436_14_15, 16 : literal
+conquer # conquérir : 550_81_90 : literal
+was reading # lisais : 2316_1, 2_1 : literal
+thankfully # heureusement : 1577_4_6 : literal
+total # totale : 732_3_2 : literal
+texas # le texas : 140_23_22, 23 : literal
+sleds # traîneaux : 133_4_4 : literal
+dembois # dembois : 2435_21_24 : literal
+partnership # partenariat : 2367_8_10 : literal
+unscathed # indemne : 2349_29_35 : literal
+edition # édition : 2321_11_10 : literal
+as if # comme si : 2349_36, 37_43, 44 : literal
+bring # amener : 849_3_2 : literal
+encourage # encourage : 885_1_2 : literal
+as # comme : 897_1_1 : literal
+pieces # des morceaux : 431_6_5, 6 : literal
+watch # regarder : 885_12_13 : literal
+ill # maladie : 2364_19_21 : literal
+even # même : 169_5_6 : literal
+promising # prometteuse : 883_52_59 : literal
+bold # audacieuse : 800_5_5 : literal
+eastern # oriental : 761_7_3 : literal
+hear # entends : 2393_1_1 : literal
+spirit # esprit : 2374_27_29 : literal
+t-shirts # t-shirts : 189_35_39 : literal
+americas # amériques : 761_12_10 : literal
+lay out # disposent : 1553_13, 14_20 : literal
+would ruin # ruine : 894_36, 37_35 : literal
+predictions # prédictions : 754_2_2 : literal
+name # le nom : 2334_11_10, 11 : literal
+memory # mémoire : 207_41_44 : literal
+family # famille : 913_10_11 : literal
+photos # photos : 154_10_12 : literal
+manipulating # manipulant : 815_32_33 : literal
+and # de plus : 840_0_0, 1 : literal
+understood # a compris : 2409_1_1, 2 : literal
+work # fonctionnent : 877_27_26 : literal
+cloning # le clônage : 463_35_32, 33 : literal
+athletic # athlétique : 2342_36_48 : literal
+obviously # apparemment : 1872_0_0 : literal
+integrity # intégrité : 106_9_13 : literal
+a.i. dupont institute # institut a.i. dupont : 2333_14, 15, 16_17, 18, 19 : literal
+collaboration # la collaboration : 1550_45_54, 55 : literal
+exercise # exercice : 1550_35_44 : literal
+took # avons pris : 422_6_9, 10 : literal
+paradigm # paradigme : 2387_5_5 : literal
+treated # traité : 890_13_17 : literal
+n't # n' pas : 519_12_8, 11 : literal
+200th # 200e : 2371_5_5 : literal
+defined # déterminée : 458_20_20 : literal
+way # façon : 1134_11_13 : literal
+stole from # ai volé aux : 918_12, 13_7, 9, 10 : literal
+affects # influence : 2328_2_2 : literal
+map # carte : 404_3_2 : literal
+food # la nourriture : 502_19_24, 25 : literal
+truth # vérité : 786_28_23 : literal
+get # ont : 2424_6_4 : literal
+mother # mère : 2397_12_16 : literal
+dictionary # dictionnaire : 836_26_29 : literal
+life # la vie : 398_36_39, 40 : literal
+this is # voici : 1901_0, 1_0 : literal
+build # bâtir : 1545_12_13 : literal
+societal # sociale : 2360_20_21 : literal
+professor # la professeur : 734_0_0, 1 : literal
+causes # causes : 795_9_10 : literal
+collective # collective : 200_28_36 : literal
+instances # exemples : 2344_5_5 : literal
+that one # celui : 831_24, 26_24 : literal
+data # données : 153_62_66 : literal
+displaced # remplacée : 123_27_27 : literal
+simply # seulement : 2431_2_3 : literal
+mean # veux dire : 2320_1_1, 2 : literal
+your # votre : 1897_13_12 : literal
+prototypes # des prototypes : 1571_15_20, 21 : literal
+tilt # incline : 825_11_14 : literal
+combination # combinaison : 1587_7_10 : literal
+responsibility # responsabilité : 2358_3_3 : literal
+major # majeur : 468_3_7 : literal
+plan # plan : 802_1_1 : literal
+want to # veux : 879_4, 5_5 : literal
+pathology # pathologie : 2363_30_32 : literal
+sound siftable # siftable de son : 863_9, 10_8, 9, 10 : literal
+compared # comparée : 406_12_13 : literal
+eyes # yeux : 892_30_32 : literal
+turn upside down # retourner : 1164_5, 7, 8_6 : literal
+pronounce # prononcer : 2334_22_19 : literal
+life # vie : 890_34_36 : literal
+tougher # plus difficile : 2424_8_8, 9 : literal
+word game # jeu de lettres : 835_4, 5_4, 5, 6 : literal
+very much # beaucoup : 1934_11, 12_9 : literal
+library of congress # bibliothèque du congrès : 156_21, 22, 23_22, 23, 24 : literal
+images # les images : 182_19_17, 18 : literal
+thank you # merci : 1934_9, 10_8 : literal
+obviously # évidemment : 462_0_0 : literal
+carrying away # emporter : 107_110, 114_112 : literal
+not # n' pas : 1871_3_1, 3 : literal
+stakes # des enjeux : 1596_9_9, 10 : literal
+conducted # dirigé : 1550_6_4 : literal
+believe # pensons : 147_18_17 : literal
+behind it # derrière : 1906_33, 34_25 : literal
+under-sea # sous-marines : 745_8_11 : literal
+would have # aurais : 2410_27, 28_33 : literal
+1995 # 1995 : 429_7_7 : literal
+were learning # appreniez : 815_20, 22_19 : literal
+sierra # sierra : 752_11_8 : literal
+view # vue : 199_10_8 : literal
+after # après : 520_17_16 : literal
+because # comme : 2402_2_2 : literal
+reaction # réaction : 898_16_16 : literal
+presumed # présumés : 2349_53_63 : literal
+defect # défaut : 538_16_20 : literal
+care about # aimons : 2362_7, 8_8 : literal
+giving # donnant : 2362_10_11 : literal
+spectacular # spectaculaire : 525_0_3 : literal
+long # longue : 203_5_4 : literal
+others # les autres : 2433_19_26, 27 : literal
+deficiencies # déficiences : 2367_12_13 : literal
+sibelius # sibelius : 900_35_41 : literal
+like so # comme ça : 160_19, 20_20, 21 : literal
+when # alors qu' : 2320_31_32, 33 : literal
+wisdom # de la sagesse : 1167_12_13, 14, 15 : literal
+towards # vers : 121_22_28 : literal
+configured # configuré : 825_3_3 : literal
+picture # une image : 525_1_1, 2 : literal
+'ve # ayons : 2382_7_9 : literal
+me # me : 914_25_29 : literal
+making # rendre : 1932_15_20 : literal
+wounds # blessures : 1931_16_15 : literal
+red # rouge : 1886_11_11 : literal
+did # a fait : 2341_46_48, 50 : literal
+artificial # artificielle : 161_7_7 : literal
+entire # toute : 866_13_19 : literal
+new # nouvel : 837_14_17 : literal
+real # réelle : 1897_6_6 : literal
+that # ces : 2427_9_12 : literal
+does n't # ne pas : 1870_35, 36_42, 44 : literal
+want # veut : 862_18_20 : literal
+invisible # invisibles : 893_5_5 : literal
+nature # la nature : 550_65_70, 71 : literal
+orange # oranges : 189_49_53 : literal
+simpler # plus simple : 463_3_4, 5 : literal
+navigate # naviguez : 1132_9_10 : literal
+capsule # gélule : 1886_2_1 : literal
+robot # robot : 494_9_9 : literal
+the strongest # le plus fort : 2372_6, 7_7, 8, 9 : literal
+equipped # équipés : 2359_17_19 : literal
+'re teaching to # apprenez à : 2417_1, 2, 4_2, 3 : literal
+beethoven # beethoven : 901_10_12 : literal
+pouring # de verser : 830_24_31, 32 : literal
+software # logiciel : 209_9_11 : literal
+together # ensemble : 184_8_9 : literal
+60,000 # 60 000 : 2389_6_13, 14 : literal
+engineers # ingénieurs : 535_2_3 : literal
+reaches # atteint : 911_6_6 : literal
+aimee mullins # aimee mullins : 2393_18, 19_18, 19 : literal
+digital # numérique : 817_54_61 : literal
+to # en : 500_6_10 : literal
+lower # inférieure : 1908_17_19 : literal
+patterns # tendances : 1164_53_53 : literal
+opened # a ouvert : 2333_4_7, 8 : literal
+using # en utilisant : 876_12_12, 13 : literal
+challenges # défis : 125_20_15 : literal
+'m going to give # donnerai : 2340_7, 8, 9, 10_7 : literal
+perhaps # peut-être que : 2347_2_2, 3 : literal
+nasa geospatial image # image géospatiale de la nasa : 175_5, 6, 7_3, 4, 5, 6, 7 : literal
+climate # climatique : 724_16_12 : literal
+inuit # inuit : 129_10_12 : literal
+is this # voilà : 1861_2, 3_0 : literal
+almost # presque : 1905_36_45 : literal
+level # niveau : 902_23_28 : literal
+from the # du : 2316_44, 45_50 : literal
+on # en : 430_4_0 : literal
+had # avaient : 2428_12_16 : literal
+had # ai eu : 878_4_3, 4 : literal
+wikipedia page # page de wikipédia : 1136_11, 12_13, 14, 15 : literal
+so # et : 1135_0_0 : literal
+seconds # secondes : 837_5_6 : literal
+fires # incendies : 755_12_11 : literal
+was afraid # ai eu peur : 894_2, 3_2, 3, 4 : literal
+at no time can # à aucun moment ne peut : 1853_6, 7, 8, 9_6, 7, 8, 13, 14 : literal
+used # utilisée : 1134_15_19 : literal
+understood # ont compris : 913_14_16, 17 : literal
+narrative # histoire : 856_3_4 : literal
+flourish # prospérer : 2374_18_21 : literal
+relatively # relativement : 406_10_11 : literal
+species # espèce : 465_7_9 : literal
+collaboration # collaboration : 180_10_11 : literal
+is n't # n' est pas : 2352_1, 2_2, 3, 4 : literal
+gift # cadeau : 2378_7_7 : literal
+future # le futur : 808_0_2, 3 : literal
+downey # downey : 883_32_30 : literal
+objects # les objets : 817_15_14, 15 : literal
+one of # l' une des : 172_5, 6_6, 7, 8 : literal
+capsules # des gélules : 1885_3_3, 4 : literal
+possibility # la possibilité : 2387_14_16, 17 : literal
+for # pour : 1840_19_18 : literal
+finally # enfin : 876_3_1 : literal
+seadragon # seadragon : 153_41_43 : literal
+inert # inerte : 411_12_14 : literal
+n't # pas : 2393_17_17 : literal
+medicines # des médicaments : 485_11_14, 15 : literal
+spend time # passe -t-il du temps à : 1603_10, 11_10, 11, 12, 13, 14 : literal
+hospital # hôpital : 2336_10_13 : literal
+started to # a commencé à : 422_22, 23_26, 27, 28 : literal
+took # prit : 137_9_8 : literal
+day # journée : 2400_21_24 : literal
+at a time # à la fois : 470_12, 13, 14_16, 17, 18 : literal
+limits # limites : 170_15_16 : literal
+asking # demander : 814_6_5 : literal
+fuels # carburants : 501_21_20 : literal
+introduced himself # s' est présenté : 887_18, 19_22, 23, 24 : literal
+b # b : 2423_7_10 : literal
+bands # élastiques : 2337_36_38 : literal
+starting # commençant : 415_8_11 : literal
+to # à : 1865_34_27 : literal
+make # fais : 841_8_12 : literal
+not # n' : 1143_12_10 : literal
+expecting # en m' attendant : 2321_13_12, 13, 14 : literal
+emotional # émotionnel : 2316_46_52 : literal
+polemics # les polémiques : 148_3_3, 4 : literal
+poetry # poésie : 123_22_23 : literal
+meaning # sens : 2418_5_4 : literal
+'ve # avez : 513_1_2 : literal
+consistent # régulière : 2370_11_12 : literal
+whose # dont : 883_51_56 : literal
+emitters # émetteurs : 764_9_9 : literal
+actively # activement : 102_40_37 : literal
+browser # navigateur : 1152_14_13 : literal
+no # pas de : 1857_8_10, 11 : literal
+fade out # diminuer progressivement : 876_7, 11_5, 6 : literal
+'ll get to see # pouvez voir : 1907_1, 2, 3, 4_1, 2 : equivalence
+'m thinking # me dis : 2317_14, 15_15, 16 : equivalence
+'re looking forward to that # allez le vouloir : 1934_3, 4, 5, 6, 7_4, 5, 6 : equivalence
+'re navigating # parcourons : 1149_5, 6_5 : equivalence
+'s brought into # a ajouté à : 852_2, 3, 6_2, 3, 6 : equivalence
+'ve been trying to ask # nous sommes posé : 399_3, 5, 6, 7, 8_1, 2, 4 : equivalence
+300 years from now # dans 300 ans : 102_9, 10, 11, 12_4, 5, 6 : equivalence
+a day # par jour : 487_21, 22_26, 27 : equivalence
+a little bit # légèrement : 1135_14, 15, 16_14 : equivalence
+a lot of # bon nombre de : 213_16, 17, 18_16, 17, 18 : equivalence
+a short period of time # très peu de temps : 510_3, 4, 5, 6, 7_1, 2, 3, 4 : equivalence
+a short while ago # il y a peu : 457_9, 10, 11, 12_7, 8, 9, 10 : equivalence
+a tiny bit # un peu : 1901_21, 22, 23_19, 20 : equivalence
+a ways away from # encore loin de : 516_2, 3, 4, 5_2, 3, 4 : equivalence
+able to # en mesure de : 910_41, 42_49, 50, 51 : equivalence
+about # à peu près : 542_3_3, 4, 5 : equivalence
+about # à propos de : 548_12_13, 14, 15 : equivalence
+about # à propos du : 214_28_28, 29, 30 : equivalence
+achieving # réussir : 2387_9_11 : equivalence
+across the world # dans le monde entier : 1550_11, 12, 13_10, 11, 12, 13 : equivalence
+after # au bout de : 837_2_2, 3, 4 : equivalence
+again # à nouveau : 1159_15_17, 18 : equivalence
+all the people in the world # la population mondiale : 748_3, 4, 5, 6, 7, 8_3, 4, 5 : equivalence
+all the way up to # jusqu'à : 901_24, 25, 26, 27, 28_26 : equivalence
+alternatives # solutions de remplacement : 767_16_14, 16, 17 : equivalence
+am i freaking you out # je te fais peur : 1909_6, 7, 8, 9, 10_5, 6, 7, 8 : equivalence
+among the very best # celui des meilleurs : 1600_12, 13, 14, 15_11, 12, 13 : equivalence
+and # ainsi que : 102_51_50, 51 : equivalence
+and # eh bien : 848_0_0, 1 : equivalence
+and so on # et autres : 207_33, 34, 35_38, 39 : equivalence
+and so on # et des trucs dans le genre : 188_7, 8, 9_7, 8, 9, 10, 11, 12 : equivalence
+another lake # un de ces lacs : 734_14, 16_15, 16, 17, 18 : equivalence
+any # toute : 1586_1_1 : equivalence
+anyone # une seule : 1595_1_1, 2 : equivalence
+anything # quoi que ce soit : 1853_10_9, 10, 11, 12 : equivalence
+area of land # superficie : 140_16, 17, 18_15 : equivalence
+around # aux alentours de : 774_2_4, 5, 6 : equivalence
+around # dans le coin : 2428_4_3, 4, 5 : equivalence
+around # ici et là : 477_19_19, 20, 21 : equivalence
+around the world # au niveau mondial : 756_3, 4, 5_0, 1, 2 : equivalence
+around the world # de par le monde : 490_6, 7, 8_7, 8, 9, 10 : equivalence
+arranging it # pour l' arranger : 817_76, 77_82, 83, 84 : equivalence
+as # au fur et à mesure que : 121_19_19, 20, 21, 22, 23, 24 : equivalence
+as # en tant qu' : 2388_8_12, 13, 14 : equivalence
+as # tandis que : 815_0_0, 1 : equivalence
+as # à mesure qu' : 204_21_29, 30, 31 : equivalence
+as # à mesure que : 204_8_12, 13, 14 : equivalence
+as a five year-old child # à cinq ans : 2338_10, 11, 12, 13, 14_8, 9, 10 : equivalence
+as quickly as i can # aussi vite que possible : 153_9, 10, 11, 12, 13_9, 10, 11, 12 : equivalence
+as well as # autant qu' : 532_6, 7, 8_10, 11 : equivalence
+at the edge # avant-garde : 548_19, 20, 21_25 : equivalence
+at their most active # les plus actifs : 1115_11, 12, 13, 14_14, 15, 16 : equivalence
+at their most frail # les plus fragiles : 1115_21, 22, 23, 24_22, 23, 24 : equivalence
+back then # à cette époque : 2411_7, 8_0, 1, 2 : equivalence
+back then # à l' époque : 2319_14, 15_13, 14, 15 : equivalence
+backing out # vous éloignant : 1132_23, 24_27, 28 : equivalence
+bands # élastiques : 2339_50_47 : equivalence
+barely # tout juste : 124_9_10, 11 : equivalence
+basically # en gros : 836_0_0, 1 : equivalence
+basketball playoff # tableau d' éliminatoires : 443_6, 7_6, 7, 8 : equivalence
+before she died # avant de mourir : 121_9, 10, 11_0, 1, 2 : equivalence
+beforehand # à l' avance : 1583_4_4, 5, 6 : equivalence
+boot up # activer : 410_7, 8_9 : equivalence
+bothered to # s' embêtait à : 206_2, 3_2, 3, 4 : equivalence
+breakdown # rupture : 884_10_6 : equivalence
+build # réaliser : 1604_15_19 : equivalence
+butchered # égorger : 136_21_24 : equivalence
+came out of that # en est issue : 491_17, 18, 19, 20_16, 17, 18 : equivalence
+central # primordiale : 151_55_55 : equivalence
+childhood doctor # pédiatre : 2333_10, 11_14 : equivalence
+circumnavigate # passer au large des : 2349_51_58, 59, 60, 61 : equivalence
+collected # récoltés : 207_23_25 : equivalence
+come up with # arriver à : 404_38, 39, 40_38, 39 : equivalence
+complicate # brouiller : 786_26_20 : equivalence
+continually # toujours : 2348_15_16 : equivalence
+crude # rustre : 106_19_25 : equivalence
+dealing with # quand on travaille avec : 462_15, 16_15, 16, 17, 18 : equivalence
+delivered me # m' a mise au monde : 2401_16, 17_17, 18, 19, 20, 21 : equivalence
+did again # avons refait : 1597_1, 4_1, 2 : equivalence
+discovered # identifiée : 189_56_60 : equivalence
+does n't have one # n' en a pas : 472_7, 8, 9, 10_7, 8, 9, 10 : equivalence
+doing away with # se débarrasser de : 170_11, 12, 13_12, 13, 14 : equivalence
+drill into # zoomer sur : 1124_5, 6_5, 6 : equivalence
+education camp # camp de redressement : 117_12, 13_12, 13, 14 : equivalence
+ended up # nous sommes retrouvés : 473_20, 21_29, 30, 32 : equivalence
+essentially # en gros : 1911_2_2, 3 : equivalence
+ever since # depuis ce jour : 2403_51, 52_52, 53, 54 : equivalence
+every day # tous les jours : 760_20, 21_30, 31, 32 : equivalence
+fast-forward # vue en accéléré : 726_10_10, 11, 12 : equivalence
+felt uneasy # suis gêné : 2348_45, 46_41, 43 : equivalence
+first # pour la première fois : 187_25_29, 30, 31, 32 : equivalence
+fly away # enfuis -toi : 859_0, 1_2, 3 : equivalence
+from # d' après : 2320_3_4, 5 : equivalence
+from # suite à : 490_3_3, 4 : equivalence
+from looking at # quand on regarde : 187_58, 59, 60_65, 66, 67 : equivalence
+front page # page d' accueil : 531_22, 23_25, 26, 27 : equivalence
+fully # tout à fait : 127_24_26, 27, 28 : equivalence
+get a sense of # a une idée : 1140_4, 5, 6, 7_3, 4, 5 : equivalence
+get into # arrive à : 444_2, 3_2, 3 : equivalence
+gets blown apart # explose : 447_11, 12, 13_11 : equivalence
+getting by # s' en sortir : 138_2, 3_1, 2, 3 : equivalence
+getting tagged # marquées : 205_4, 5_4 : equivalence
+go ahead # continue : 1117_2, 3_2 : equivalence
+go ahead # me lancer : 1141_4, 5_2, 3 : equivalence
+go down this road # aller dans ce sens : 502_43, 44, 45, 46_49, 50, 51, 52 : equivalence
+good job # bien joué : 854_0, 1_0, 1 : equivalence
+gradually # au fur et à mesure : 151_48_43, 44, 45, 46, 47 : equivalence
+grappling # lutter : 2369_28_29 : equivalence
+great # éminente : 121_4_8 : equivalence
+ground level # plus bas niveau : 110_16, 17_15, 16, 17 : equivalence
+had to # a dû : 188_1, 2_1, 2 : equivalence
+has something to do with it # y est pour quelque chose : 1891_3, 4, 5, 6, 7, 8_2, 3, 5, 6, 7 : equivalence
+have nothing whatsoever # n' ayant absolument rien : 2320_23, 24, 26_25, 26, 27, 28 : equivalence
+have to # a besoin de : 840_17, 18_18, 20, 21 : equivalence
+have to # ai besoin de : 875_4, 5_2, 5, 6 : equivalence
+here # dans ce cas-là : 183_7_8, 9, 10 : equivalence
+here we go # nous y voilà : 197_11, 12, 13_13, 14, 15 : equivalence
+how come # comment ça se fait : 1562_9, 10_12, 13, 14, 15 : equivalence
+i 'll do # je vais faire : 1846_0, 1, 2_0, 1, 4 : equivalence
+i 'm sorry # pardon : 2395_5, 6, 7_5 : equivalence
+i can # j' y arrive : 195_2, 3_2, 3, 4 : equivalence
+i will be seeing you # on se reverra : 1933_0, 1, 2, 3, 4_0, 1, 2 : equivalence
+if you 'll pardon # si vous me passez : 885_42, 43, 44, 45_52, 53, 54, 55 : equivalence
+immediately # tout de suite : 2321_3_3, 4, 5 : equivalence
+impossible to bear # insupportable : 119_6, 7, 8_5 : equivalence
+in a miracle # comme par miracle : 900_1, 2, 3_1, 2, 3 : equivalence
+in a way # dans un sens : 548_4, 5, 6_4, 5, 6 : equivalence
+in between # entre les deux : 1134_2, 3_2, 3, 4 : equivalence
+in each case # à chaque fois : 1160_9, 10, 11_10, 11, 12 : equivalence
+in fact # en réalité : 415_5, 6_0, 1 : equivalence
+in the # au cours des : 757_4, 5_3, 4, 5 : equivalence
+in the wake of # sur les traces de : 107_162, 163, 164, 165_163, 164, 165, 166 : equivalence
+information info-graphic # données graphiques : 1119_23, 24_27, 28 : equivalence
+instantly # sur-le-champ : 113_4_8 : equivalence
+instead # à la place : 2433_1_1, 2, 3 : equivalence
+instead of # plutôt que : 1166_2, 3_2, 3 : equivalence
+instead of # plutôt que d' : 1165_7, 8_8, 9, 10 : equivalence
+into the # au sein du : 862_13, 14_14, 15, 16 : equivalence
+is a problem # pose un problème : 731_1, 2, 3_1, 2, 3 : equivalence
+is because # c' est que : 1154_7, 8_8, 9, 10 : equivalence
+it 's # il y a : 2394_6, 7_6, 7, 8 : equivalence
+it 's # on retrouve : 476_16, 17_20, 21 : equivalence
+it 's everything # il y a de tout : 194_14, 15, 16_19, 20, 21, 22, 23 : equivalence
+it goes like this # c' est comme ça : 1868_2, 3, 4, 5_2, 3, 4, 5 : equivalence
+it turns out # il se trouve que : 416_1, 2, 3_1, 2, 3, 4 : equivalence
+kind of # en quelque sorte : 154_13, 14_24, 25, 26 : equivalence
+kindergarteners # les équipes de maternelle : 1571_1_2, 3, 4, 5 : equivalence
+let me be clear # je vais être très clair : 782_0, 1, 2, 3_5, 6, 7, 8, 9 : equivalence
+life can exist # il peut y avoir de la vie : 451_5, 6, 7_5, 6, 7, 8, 9, 10, 11 : equivalence
+like # par exemple : 214_0_0, 1 : equivalence
+like that # du même genre : 171_13, 14_15, 16, 17 : equivalence
+linked together # liées entre elles : 201_5, 6_4, 5, 6 : equivalence
+links them all # les relie entre elles : 799_3, 4, 5_3, 4, 5, 6 : equivalence
+little peek # aperçu : 1918_7, 8_5 : equivalence
+many of you # beaucoup de gens : 1860_1, 2, 3_4, 5, 6 : equivalence
+mass # quantité : 743_11_15 : equivalence
+meaning # c' est-à-dire : 101_40_43, 44 : equivalence
+more # de plus en plus : 823_5_6, 7, 8, 9 : equivalence
+move in # entrer dans : 1922_8, 9_8, 9 : equivalence
+much higher-value # beaucoup plus puissants : 501_19, 20_21, 22, 23 : equivalence
+much of # pas mal de choses en : 470_17, 18_21, 22, 23, 24, 25 : equivalence
+multiple # de nombreuses : 1571_30_38, 39 : equivalence
+music sequencing # arrangement musical : 860_14, 15_16, 17 : equivalence
+must understand # comprenez bien : 132_3, 4_1, 2 : equivalence
+my birthday # le jour de ma naissance : 2400_35, 36_41, 42, 43, 44, 45 : equivalence
+my home in tennessee # mon tennessee natal : 771_4, 5, 6, 7_4, 5, 6 : equivalence
+nation-state # nation en tant qu' état : 143_6_8, 9, 10, 11, 12 : equivalence
+not to mention # sans parler : 2346_48, 49, 50_55, 56 : equivalence
+notice that # s' en rendent compte : 828_6, 7_7, 8, 9, 10 : equivalence
+now # en ce moment : 177_7_3, 4, 5 : equivalence
+now # à présent : 1129_0_0, 1 : equivalence
+of course # bien entendu : 172_0, 1_0, 1 : equivalence
+of course # naturellement : 548_1, 2_2 : equivalence
+ok # bon : 1921_9_8 : equivalence
+on either side # des deux côtés : 761_18, 19, 20_16, 17, 18 : equivalence
+on our terms # à notre manière : 879_36, 37, 38_33, 34, 35 : equivalence
+on the top # au sommet : 1568_11, 12, 13_12, 13 : equivalence
+on the web # en ligne : 1122_8, 9, 10_6, 7 : equivalence
+on their way back # de retour : 545_3, 4, 5, 6_5, 6 : equivalence
+on top # au sommet : 1546_5, 6_5, 6 : equivalence
+on top of # en plus de : 2364_20, 21, 22_22, 23, 24 : equivalence
+on video watching this # qui regarderont la vidéo : 1927_6, 7, 11, 12_6, 7, 8, 9 : equivalence
+one such person # une de ces personnes : 2333_0, 1, 2_0, 1, 2, 3 : equivalence
+or # ou bien : 102_42_39, 40 : equivalence
+or any # ou autre : 488_8, 9_9, 10 : equivalence
+or so # quelques : 405_16, 17_11 : equivalence
+original # premiers : 187_11_8 : equivalence
+other people # les autres : 2328_15, 16_15, 16 : equivalence
+otherwise # sans cela : 1110_65_69, 70 : equivalence
+over # au cours de : 1155_9_10, 11, 12 : equivalence
+part # point : 2429_2_1 : equivalence
+part of # un extrait : 784_6, 7_6, 7 : equivalence
+pays close attention to # suit avec une grande attention : 1586_6, 7, 8, 9_6, 7, 8, 9, 10 : equivalence
+people # l' être humain : 516_7_7, 8, 9 : equivalence
+people # êtres humains : 482_13_9, 10 : equivalence
+pop in # insérer : 463_20, 21_22 : equivalence
+pop out # éjecter : 463_15, 16_16 : equivalence
+punch line # point fort : 187_41, 42_47, 48 : equivalence
+put in # ajoute : 869_2, 6_2 : equivalence
+put in # ajouter : 870_3, 6_5 : equivalence
+putting together # assembler entre eux : 418_9, 13_9, 13, 14 : equivalence
+reach out # tendre le bras : 815_6, 7_5, 6, 7 : equivalence
+reaching out # tendant le bras : 821_18, 19_22, 23, 24 : equivalence
+relative to # lié à : 2357_15, 16_20, 21 : equivalence
+resequencing # séquençant à nouveau : 430_5_1, 2, 3 : equivalence
+reshape # transformer : 2341_50_58 : equivalence
+reshuffles # mélange à nouveau : 837_8_9, 10, 11 : equivalence
+resident students # étudiants internes : 2404_61, 62_79, 80 : equivalence
+right # parfait : 1570_3_6 : equivalence
+right # voilà : 1868_10_10 : equivalence
+right now # à cet instant : 1161_1, 2_1, 2, 3 : equivalence
+same thing # pareil : 1873_8, 9_7 : equivalence
+saved # mis de côté : 2404_9_13, 14, 15 : equivalence
+screen snapshot # photo d' écran : 497_3, 4_3, 4, 5 : equivalence
+see that insight # faire cette observation : 1144_5, 6, 7_5, 6, 7 : equivalence
+self-reinforcing # auto-porteurs : 1579_10_15 : equivalence
+sense each other # se reconnaître entre eux : 820_12, 13, 14_10, 11, 12, 13 : equivalence
+serves to be # s' avère : 2363_20, 21, 22_23, 24 : equivalence
+shock therapy # des électrochocs : 890_17, 18_21, 22 : equivalence
+slice and dice # décortiquer : 1158_15, 16, 17_12 : equivalence
+smuggled # emmené clandestinement : 116_2_3, 4 : equivalence
+so # bon : 176_0_0 : equivalence
+so # pour qu' : 439_4_5, 6 : equivalence
+so i can # pour pouvoir : 871_11, 12, 13_13, 14 : equivalence
+so that # afin qu' : 184_9, 10_11, 12 : equivalence
+so that # de sorte que : 1110_54, 55_55, 56, 57 : equivalence
+so we could # de manière à pouvoir : 441_11, 12, 13_13, 14, 15, 16 : equivalence
+so we could # pour pouvoir : 427_40, 41, 42_44, 45 : equivalence
+somehow # quelque peu : 101_28_30, 31 : equivalence
+sort of # en quelque sorte : 1912_0, 1_0, 1, 2 : equivalence
+sort of # un peu : 195_11, 12_11, 12 : equivalence
+spend any time # a passé une seule minute à : 1563_10, 11, 12_10, 11, 12, 13, 14, 15 : equivalence
+stab himself # se planter des choses : 1917_13, 14_11, 12, 13, 14 : equivalence
+streaming trials # essais en flux : 2422_4, 5_4, 5, 6 : equivalence
+take a peek at these # y jeter un coup d' oeil : 1129_9, 10, 11, 12, 13_7, 8, 9, 10, 11, 12 : equivalence
+tease out # en extraire : 1166_11, 12_11, 12 : equivalence
+tested # mis à l' épreuve : 2376_7_10, 11, 12, 13 : equivalence
+that 's # en voilà : 1914_9, 10_6, 7 : equivalence
+that 's # soit : 487_15, 16_21 : equivalence
+that way # comme ça : 1853_0, 1_0, 1 : equivalence
+the extraordinary thing # ce qui est incroyable : 2404_0, 1, 2_0, 1, 2, 3 : equivalence
+the least amount of time # le temps le plus court : 1601_6, 7, 8, 9, 10_8, 9, 10, 11, 12 : equivalence
+the very worst # du groupe des pires : 1600_7, 8, 9_6, 7, 8, 9 : equivalence
+then # dans ce cas : 216_0_0, 1, 2 : equivalence
+there are # il existe : 417_0, 1_0, 1 : equivalence
+there are no # il ne reste plus de : 550_60, 61, 62_63, 64, 65, 66, 67 : equivalence
+there was not # ce ne soit pas de : 438_4, 5, 6_5, 6, 7, 8, 9 : equivalence
+thesaurus # dictionnaire des synonymes : 2312_4_4, 5, 6 : equivalence
+thesaurus # dictionnaires de synonymes : 2344_8_10, 11, 12 : equivalence
+think # me dire : 1129_17_16, 17 : equivalence
+think # se disent : 1916_4_6, 7 : equivalence
+think about # songez à : 213_7, 8_7, 8 : equivalence
+think of it # la voir : 2354_4, 5, 6_5, 6 : equivalence
+think of this # réfléchissez : 434_0, 1, 2_0 : equivalence
+think of this # voyez ça : 203_0, 1, 2_0, 1 : equivalence
+this is # il s' agit d' : 198_0, 1_0, 1, 2, 5 : equivalence
+this is # il s' agit de : 194_5, 6_7, 8, 9, 10 : equivalence
+this is # on a : 846_2, 3_2, 3 : equivalence
+this is one of them # en voilà une : 784_0, 1, 2, 3, 4_0, 1, 2 : equivalence
+thought # ai trouvé : 1548_4_1, 2 : equivalence
+time frames # laps de temps : 1155_11, 12_14, 15, 16 : equivalence
+to # afin d' : 129_18_26, 27 : equivalence
+took away # s' est emparée de : 131_8, 9_2, 3, 4, 5 : equivalence
+topical area # thème : 1137_15, 16_16 : equivalence
+treating the wholeness of # prenant dans son intégralité : 2364_2, 3, 4, 5_2, 6, 7, 8 : equivalence
+trying to # cherché à : 400_15, 16_18, 19 : equivalence
+underground # sous terre : 545_7_7, 8 : equivalence
+was interested in # aimerait que : 889_21, 22, 23_22, 23 : equivalence
+was standing # me tenais : 2391_28, 29_33, 34 : equivalence
+was this one # voilà : 775_9, 10, 11_0 : equivalence
+was walking # se promenait : 881_9, 10_11, 12 : equivalence
+way of life # coutumes : 109_23, 24, 25_24 : equivalence
+we had to # il fallait : 543_0, 1, 2_0, 1 : equivalence
+we have # il existe : 449_0, 1_0, 1 : equivalence
+well # tiens : 2393_12_12 : equivalence
+what if # que se passe -t-il si : 215_2, 3_2, 3, 4, 5, 6 : equivalence
+what to do # quoi faire : 841_16, 17, 18_21, 22 : equivalence
+when # dès lors qu' : 105_25_28, 29, 30 : equivalence
+when it comes to # pour trouver : 513_18, 19, 20, 21_24, 25 : equivalence
+which is # soit : 1840_39, 40_37 : equivalence
+why is it # pourquoi donc : 1579_1, 2, 3_1, 2 : equivalence
+will look at them # en les regardant : 535_5, 6, 7, 8_7, 8, 9 : equivalence
+with a very short period of time # en très peu de temps : 475_1, 2, 3, 4, 5, 6, 7_1, 2, 3, 4, 5 : equivalence
+within # d' ici : 484_18_17, 18 : equivalence
+you 're getting queasy # vous vous sentez mal : 1926_5, 6, 7, 8_5, 6, 7, 8 : equivalence
+you can just # il suffit d' : 463_12, 13, 14_13, 14, 15 : equivalence
+you have # il y a : 202_0, 1_0, 1, 2 : equivalence
+you know # vous voyez : 511_3, 4_0, 1 : equivalence
+your rooms # chez vous : 1123_5, 6_3, 4 : equivalence
+'re overreaching # voulions trop en faire : 549_15, 16_15, 16, 17, 18 : generalization
+'s clinging # tient : 1872_2, 3_2 : generalization
+a fingertip # doigt : 817_53, 55_60 : generalization
+a series of # des : 151_6, 7, 8_3 : generalization
+all kinds of # des tas d' : 469_2, 3, 4_2, 3, 4 : generalization
+all kinds of # tout un tas d' : 505_10, 11, 12_8, 9, 10, 11 : generalization
+alternative # proposition : 797_4_4 : generalization
+another # une : 734_11_12 : generalization
+are killing # détruisent : 807_14, 15_16 : generalization
+arrange # met : 868_12_18 : generalization
+audience # public : 151_20_12 : generalization
+be putting lids # étouffer : 2331_16, 17, 18_19 : generalization
+blew my mind wide open # m' a ouvert l' esprit : 1877_11, 12, 13, 14, 15_14, 15, 17, 18, 19 : generalization
+came # a été : 422_3_5, 6 : generalization
+case study # étude : 2421_3, 4_1 : generalization
+cast shadows # assombrie : 2414_29, 30_39 : generalization
+casting shadows on # assombrir : 2331_20, 21, 22_21 : generalization
+causes # fait que : 1556_29_32, 33 : generalization
+curse # problème : 1162_4_3 : generalization
+demonstrate # montraient : 722_9_12 : generalization
+drifted # nous dirigions : 121_21_26, 27 : generalization
+face # aspect : 108_27_23 : generalization
+figure out # cherchent : 1552_6, 7_5 : generalization
+get queasy easy # êtes sensibles : 1906_6, 7, 8_2, 3 : generalization
+give # faire : 2378_4_5 : generalization
+grab hold of # tenir : 1863_6, 7, 8_5 : generalization
+hang light # voguent : 107_125, 126_132 : generalization
+heats up # affecte : 731_7, 8_8 : generalization
+help bring out # dire : 786_22, 23, 24_16 : generalization
+homelands # les terres : 145_2_2, 3 : generalization
+in the second floor # de l' étage : 2341_36, 37, 38, 39_40, 41, 42 : generalization
+inject # intègre : 863_2_3 : generalization
+inject # intégrer : 862_3_3 : generalization
+inside the # des : 212_9, 10_10 : generalization
+into a fold of # parmi : 912_8, 9, 10, 11_13 : generalization
+is carrying # contient : 214_22, 23_24 : generalization
+is hitting # affecte : 753_1, 2_1 : generalization
+jump # passer : 1148_5_5 : generalization
+jump right into # vous rendre directement sur : 1126_2, 3, 4_2, 3, 4, 5 : generalization
+kill # détruire : 465_41_56 : generalization
+killed # détruire : 423_13_14 : generalization
+knew there 's a mechanism # en connaissions un : 445_1, 2, 3, 4, 5_1, 2, 3 : generalization
+lhc # accélérateur : 529_15_17 : generalization
+look up # regarder dans : 2321_6, 7_7, 8 : generalization
+looked up # regardé : 2312_32, 33_37 : generalization
+looks # est : 1927_21_20 : generalization
+never sat right with me # ne m' a jamais plu : 2348_36, 37, 38, 39, 40_34, 35, 36, 37, 38 : generalization
+on screen real estate # d' espace de l' écran : 170_16, 17, 18, 19_17, 18, 19, 20, 21 : generalization
+on top of # à : 175_1, 2, 3_1 : generalization
+overshoot # en met trop : 832_2_2, 3, 4 : generalization
+people # ceux : 1927_5_5 : generalization
+quarters # endroits : 109_39_42 : generalization
+rapid in its melting # touchée : 745_13, 14, 15, 16_15 : generalization
+reignite # ont déclenché : 548_9_9, 10 : generalization
+repower # doter : 801_0_0 : generalization
+run # passer : 1904_8_6 : generalization
+scraped from # récupérées sur : 189_15, 16_19, 20 : generalization
+sea change # changement de tendance : 766_7, 8_6, 7, 8 : generalization
+sets of # des : 512_17, 18_12 : generalization
+shape # ramener : 907_11_17 : generalization
+shaped into # donna : 135_25, 27_26 : generalization
+slipped outside # est sorti : 135_2, 3_1, 3 : generalization
+some certain # un : 1879_33, 34_37 : generalization
+starting with # en utilisant : 419_7, 8_6, 7 : generalization
+suggest # dire : 2351_5_5 : generalization
+sweep under the rug # à écarter : 2368_21, 22, 23, 24_21, 22 : generalization
+takes out # prend : 1555_14, 15_15 : generalization
+that digital information # elles : 428_16, 17, 18_18 : generalization
+the dog # le : 137_2, 3_1 : generalization
+the people # ceux : 2428_9, 10_14 : generalization
+the reason # c' : 1566_1, 2_0 : generalization
+the team 's # ses : 1586_14, 15, 16_19 : generalization
+the thing # ça : 1926_17, 18_16 : generalization
+thesaurus # dictionnaire : 2317_11_10 : generalization
+these organisms # ils : 450_0, 1_0 : generalization
+tightly # bien : 1856_6_6 : generalization
+torn apart to # réduits en : 111_45, 46, 47_59, 60 : generalization
+trickery # truc : 1857_9_12 : generalization
+understood # ai vu : 897_6_6, 7 : generalization
+want to # vais : 814_1, 2_1 : generalization
+want to start by # vais : 1843_10, 11, 12, 13_7 : generalization
+was delivering # sortais : 2397_7, 8_11 : generalization
+watermarks # des signatures : 433_7_9, 10 : generalization
+we 're looking at right here # nous avons là : 1111_2, 3, 4, 5, 6, 7_3, 4, 5 : generalization
+will never accomplish anything # ne feront rien : 147_21, 22, 23, 24_21, 22, 23 : generalization
+workers keep their pay # permet aux travailleurs d' économiser : 779_7, 8, 9, 10_9, 10, 11, 12, 13 : generalization
+'ll have # obtenir : 503_4, 5_3 : particularization
+'ll roll # fera avancer : 825_18, 19_20, 21 : particularization
+'m going to # ai envie de : 2351_2, 3, 4_2, 3, 4 : particularization
+'m going to # veux : 918_4, 5, 6_1 : particularization
+'re looking at # visionne : 155_9, 10, 11_12 : particularization
+'re looking to # essayons de : 509_1, 2, 3_1, 2 : particularization
+'re working to # cherchons à : 878_25, 26, 27_25, 26 : particularization
+'s been a part of # est mentionné : 1128_32, 33, 34, 35, 36_25, 26 : particularization
+'s bringing out # fait lever : 850_3, 4, 7_3, 4 : particularization
+a lot of this is out there # il y en avait beaucoup d' exemples : 452_6, 7, 8, 9, 10, 11, 12_8, 9, 10, 11, 12, 13, 14 : particularization
+actually # concrètement : 407_9_15 : particularization
+added # rejeté : 760_7_8 : particularization
+along with # avec l' aide de : 817_17, 18_18, 19, 20, 21 : particularization
+are # deviennent : 536_11_12 : particularization
+backing in # en vous approchant : 1132_20, 21_23, 24, 25 : particularization
+be # devenir : 1563_15_18 : particularization
+be # être placé : 1546_4_3, 4 : particularization
+beautiful # merveilleux : 885_20_23 : particularization
+because of # grâce à : 1842_5, 6_9, 10 : particularization
+because of # à cause de : 888_30, 31_30, 31, 32 : particularization
+because of the # grâce aux : 2413_3, 4, 5_3, 4 : particularization
+because of the # à cause des : 474_3, 4, 5_5, 6, 7 : particularization
+being # devenir : 2341_32_31 : particularization
+bring # introduisons : 1152_34_34 : particularization
+bring out # révéler : 2419_11, 12_11 : particularization
+bringing up all of them # en les affichant toutes : 1145_23, 24, 25, 26, 27_25, 26, 27, 28 : particularization
+business # industrie : 785_13_21 : particularization
+called # a intitulé : 2405_2_2, 3 : particularization
+can see # allez le constater : 441_30, 31_30, 31, 32 : particularization
+carry # subventionnent : 149_2_2 : particularization
+ccs # centimètres cubes : 1893_10_9, 10 : particularization
+climate crisis # réchauffement climatique : 798_12, 13_20, 21 : particularization
+collect myself # me resaisir : 2316_42, 43_48, 49 : particularization
+come off # tombe : 1856_20, 21_17 : particularization
+come up with # créer : 512_13, 14, 15_11 : particularization
+comes down to # se résume à : 120_9, 10, 11_5, 6, 7 : particularization
+comes out # ressort : 216_12, 13_15 : particularization
+cross this tipping point # en venait à déclencher la diffusion de ce gaz : 732_19, 20, 21, 22_18, 19, 20, 21, 22, 23, 24, 25, 26 : particularization
+d 's # de niveau d : 2426_29, 30_31, 32, 33 : particularization
+dirty # polluants : 807_11_14 : particularization
+do # inventer : 495_34_44 : particularization
+do that # pouvoir arriver à cette étape : 516_27, 28_27, 28, 29, 30, 31 : particularization
+does # en a : 472_17_19, 20 : particularization
+done # menée : 179_15_20 : particularization
+done # mis au point : 166_3_3, 4, 5 : particularization
+each other # la présence des autres : 823_16, 17_19, 20, 21, 22 : particularization
+ends up # est rejeté : 489_13, 14_17, 18 : particularization
+energy grid # réseau électrique : 808_11, 12_15, 16 : particularization
+establish # imposer : 129_19_28 : particularization
+existed # vivait : 484_14_13 : particularization
+expand on that # explorer cette idée : 1130_7, 8, 9_10, 11, 12 : particularization
+few # groupe de : 842_4_3, 4 : particularization
+filter in # focaliser sur : 1113_17, 18_12, 13 : particularization
+for # en ce qui concerne : 833_6_6, 7, 8, 9 : particularization
+formed # s' est créé : 885_23_25, 26, 27 : particularization
+from # à cause de : 741_9_11, 12, 13 : particularization
+frozen ground # pergélisol : 731_10, 11_10 : particularization
+get # atteignons : 148_38_44 : particularization
+get # comprendre : 1132_3_4 : particularization
+get # comprenez : 1119_2_3 : particularization
+get # devenir : 828_12_16 : particularization
+get # se retrouvent : 828_2_2, 3 : particularization
+get # tire : 748_9_6 : particularization
+get # trouve : 189_29_33 : particularization
+get my sleeve back # retrousse ma manche : 1851_2, 3, 4, 5_1, 2, 3 : particularization
+get to # peut : 861_9, 10_9 : particularization
+gets # devient : 213_2_2 : particularization
+given # condamnée à : 118_18_21, 22 : particularization
+go # avance : 811_17_17 : particularization
+go # continuer : 1148_3_3 : particularization
+go # passer : 398_21_20 : particularization
+go # se disent : 1921_6_4, 5 : particularization
+go to # prenez : 1900_13, 14_14 : particularization
+good # agréable : 165_9_10 : particularization
+got # ai reçu : 889_9_8, 9 : particularization
+got expressed # a été produit à partir de notre chromosome : 473_1, 2_2, 3, 4, 5, 6, 7, 8, 9 : particularization
+got to # ai atteint : 111_27, 28_37, 38 : particularization
+had # avons créé : 421_11_11, 12 : particularization
+had done # effectua : 117_3, 4_3 : particularization
+had on # portais : 2392_5, 7_6 : particularization
+has # possède : 861_3_4 : particularization
+has # possédant : 404_13_17 : particularization
+has any # ne possède de : 1897_4, 5_1, 2, 3 : particularization
+has been around # existe : 122_9, 13, 14_10 : particularization
+has been moving # a augmenté : 413_7, 8, 9_7, 8 : particularization
+have # disposons : 493_2_1 : particularization
+have # détenons : 125_12_8 : particularization
+have # possèdent : 213_21_21 : particularization
+have # possèdons : 490_10_1 : particularization
+have # produisent : 1559_7_10 : particularization
+have # réaliseront : 1588_17_15 : particularization
+have # sont équipés d' : 820_24_23, 24, 25 : particularization
+helped # a contribué à : 885_32_38, 39, 40 : particularization
+in that # sur ce pied-là : 2402_28, 29_30, 31, 32 : particularization
+is # est issue d' : 179_8_10, 11, 12 : particularization
+is # représente : 458_1_1 : particularization
+is about # consiste à : 2349_18, 19_24, 25 : particularization
+is to # consiste à : 520_2, 3_2, 3 : particularization
+it # ce génome : 430_6_4, 5 : particularization
+it # ce thème : 2348_54_51, 52 : particularization
+it # l' enzyme : 473_0_0, 1 : particularization
+it # la rivière : 741_16_23, 24 : particularization
+it # la suite : 868_19_25, 26 : particularization
+it # le charbon : 788_2_3, 4 : particularization
+it # le chromosome résultant : 430_18_21, 22, 23 : particularization
+it 's # cela représente : 427_17, 18_16, 17 : particularization
+it 's # ça consiste à : 2423_0, 1_0, 1, 2 : particularization
+it 's just # tout ça grâce à : 496_1, 2, 3_0, 1, 2, 3 : particularization
+it rolls it # la vidéo reviendra : 825_32, 33, 34_36, 37, 38 : particularization
+large # énormes : 409_6_9 : particularization
+leave you with # vous transmettre : 879_6, 7, 8_6, 7 : particularization
+live # survivre : 450_9_8 : particularization
+look at # considère : 406_26, 27_29 : particularization
+look at # consulter sur : 1609_7, 8_7, 8 : particularization
+made # avons créé : 910_7_7, 8 : particularization
+made # créée : 458_15_22 : particularization
+made # fabriquer : 422_29_36 : particularization
+made up # créé : 167_2, 3_2 : particularization
+make # créer : 494_12_12 : particularization
+make # former : 440_20_24 : particularization
+make # synthétiser : 417_11_13 : particularization
+makes # donne : 1897_23_22 : particularization
+making # construire : 440_3_5 : particularization
+making # créer : 877_11_11 : particularization
+mention # préciser : 890_4_4 : particularization
+move # avancer : 2346_37_45 : particularization
+moves from # s' écarte de : 1865_6, 7_5, 6, 7 : particularization
+moves on # évolue : 101_44, 45_48 : particularization
+moving # transférant : 477_14_15 : particularization
+now # aujourd'hui : 515_13_12 : particularization
+one # l' idée : 2387_7_8, 9 : particularization
+one # seule : 2388_5_6 : particularization
+ones # centrales : 767_3_2 : particularization
+panning through # navigue dans : 154_21, 22_30, 31 : particularization
+people # participants : 1557_6_7 : particularization
+performance # concert : 887_5_7 : particularization
+piece # article : 2312_19_22 : particularization
+point # avancée : 413_20_21 : particularization
+point # étape : 398_7_7 : particularization
+pop # ressortent : 1110_57_60 : particularization
+pop right back # revenir directement : 1153_6, 7, 8_6, 7 : particularization
+produced # paru : 1121_15_18 : particularization
+put # ajoute : 1581_4_2 : particularization
+put # avons inséré : 465_53_64, 65 : particularization
+put # introduit : 475_32_35 : particularization
+put it back together # s' est réparé : 448_7, 8, 9, 10_8, 9, 10 : particularization
+put out # diffuser : 2369_7, 8_8 : particularization
+put up # mis en ligne : 187_66, 67_73, 74, 75 : particularization
+reaches # se jette dans : 741_17_25, 26, 27 : particularization
+released from # éjectées de : 423_5, 6_6, 7 : particularization
+repower # donnons une nouvelle énergie à : 804_0_0, 1, 2, 3, 4 : particularization
+repowering # donner une nouvelle énergie à : 806_3_6, 7, 8, 9, 10 : particularization
+science # découvertes scientifiques : 495_45_52, 53 : particularization
+see # discerner : 1164_51_51 : particularization
+select for # privilégier : 496_9, 10_12 : particularization
+separating from # séparer par note : 2423_2, 4_3, 6, 7 : particularization
+shifts # change de place : 1869_7_6, 7, 8 : particularization
+showering # a bombardé : 529_27_32, 33 : particularization
+some neat # de belles : 833_3, 4_3, 4 : particularization
+something to # un aspect qu' il faut : 119_18, 19_15, 16, 17, 18, 19 : particularization
+somewhere # un autre organisme : 469_18_17, 18, 19 : particularization
+species # des organismes : 497_24_21, 22 : particularization
+species # organisme : 469_30_30 : particularization
+start with # utiliser : 502_27, 28_33 : particularization
+states # crises : 894_31_30 : particularization
+take # propager : 537_17_26 : particularization
+take # récupérer : 509_8_7 : particularization
+take # survivre à des niveaux de : 446_16_15, 16, 17, 18, 19 : particularization
+taken # ramené : 1595_15_16 : particularization
+taken up # intégré : 469_8, 9_8 : particularization
+takes # transforme : 508_1_1 : particularization
+that # l' organisme : 404_12_15, 16 : particularization
+that # la situation : 1164_6_7, 8 : particularization
+that # le continent : 746_0_0, 1 : particularization
+that have been cancelled # dont la construction a été abandonnée : 767_4, 5, 6, 7_3, 4, 5, 6, 7, 8 : particularization
+the future # nos créations futures : 490_31, 32_32, 33, 34 : particularization
+the planet # terre : 743_15, 16_19 : particularization
+them # photos : 194_30_42 : particularization
+there are # cela ouvre : 833_0, 1_0, 1 : particularization
+there was done # a été réalisée : 2421_0, 1, 5_2, 3, 4 : particularization
+these two # le microbe et la bactérie : 465_11, 12_15, 16, 17, 18, 19 : particularization
+they # les résultats : 1581_13_10, 11 : particularization
+things # aspects : 840_6_6 : particularization
+things # produits : 1881_6_5 : particularization
+this # ce travail : 414_2_3, 4 : particularization
+this # le logiciel : 210_3_4, 5 : particularization
+this # le résultat : 406_46_46, 47 : particularization
+those # personnes : 2414_23_28 : particularization
+through # grâce à : 907_13_18, 19 : particularization
+to # destinée à : 786_21_14, 15 : particularization
+took # conduirent : 114_10_11 : particularization
+try # explorer : 837_22_26 : particularization
+turn us from to # nous permettra de faire d' un un : 1615_15, 16, 17, 23_16, 17, 18, 19, 20, 21, 25 : particularization
+use # consommons : 487_1_1 : particularization
+very beautiful # magnifique : 179_10, 11_15 : particularization
+view # constater : 833_30_41 : particularization
+viewing # consulter : 1154_14_15 : particularization
+visual effects # des effets spéciaux : 1604_21, 22_28, 29, 30 : particularization
+was going to # se mette à : 894_23, 24, 25_21, 22, 23 : particularization
+was like # sert de : 817_50, 52_58, 59 : particularization
+was looking at # ai consulté : 1157_10, 11, 12_8, 9 : particularization
+we put them in # utilisés : 453_26, 27, 28, 29_28 : particularization
+well # loin : 2342_38_34 : particularization
+well # à bon escient : 2433_34_41, 42, 43 : particularization
+went about # se sont mis à : 2431_28, 29_21, 22, 23, 24 : particularization
+went onto # accédait à : 531_16, 17_19, 20 : particularization
+were never going to make # ne gagneraient jamais : 888_20, 21, 22, 23, 24_23, 24, 25 : particularization
+what if # qu' adviendrait -il : 817_34, 35_40, 41, 42 : particularization
+what this is doing # à quoi ressemble cette tendance : 759_12, 13, 14, 15_11, 12, 13, 14, 15 : particularization
+will # continuerai à : 914_2_2, 4 : particularization
+will go # diront : 1927_13, 14_14 : particularization
+work up # sortir : 1928_3, 4_5 : particularization
+wrapped # cachées : 2368_32_30 : particularization
+you 're queasy # vous ne supportez pas la vue du sang : 1905_1, 2, 3_1, 2, 3, 4, 5, 6, 7, 8 : particularization
+you go # vous vous dites : 1582_11, 12_14, 15, 16 : particularization
+'d like you to think about # aimerai vous montrer : 1110_42, 43, 44, 45, 46, 47_44, 45, 46 : modulation
+'re starting with # partez des : 428_7, 8, 9_8, 9 : modulation
+'ve argued # pense : 479_2, 3_2 : modulation
+20 feet # 6 mètres : 746_4, 5_3, 4 : modulation
+20 inches # 50 centimètres : 1575_8, 9_9, 10 : modulation
+a billion gallons # trois milliards de litres : 771_9, 10, 11_8, 9, 10, 11 : modulation
+a foot # une trentaine de centimètres : 541_19, 20_23, 24, 25, 26 : modulation
+a mile and a half # 2500 m : 507_8, 9, 10, 11, 12_8, 9 : modulation
+abilities # potentiel : 2346_34_41 : modulation
+advertising effort # campagne de communication : 786_19, 20_11, 12, 13 : modulation
+all over the country in america # de tous les etats-unis : 773_2, 3, 4, 5, 13, 14_11, 12, 13, 14 : modulation
+and what happens # et alors : 1568_20, 21, 22_23, 24 : modulation
+answer people 's questions # quand on me pose des questions : 2348_49, 50, 51, 52_44, 45, 46, 47, 48, 49 : modulation
+are asked # doit donner : 126_7, 8_6, 7 : modulation
+are grading # qualifions : 2365_1, 3_1 : modulation
+are interested in # s' intéressent à : 1859_14, 15, 16_14, 15, 16 : modulation
+assumptions # préjugés : 1605_13_18 : modulation
+at our very fundamental core # au niveau le plus fondamental de notre être : 910_20, 21, 22, 23, 24_23, 24, 25, 26, 27, 28, 29, 30 : modulation
+bad # difficile : 1906_31_24 : modulation
+based on # en se fondant sur : 212_5, 6_4, 5, 6, 7 : modulation
+based on # à partir de : 479_25, 26_26, 27, 28 : modulation
+be as far as it went # s' arrêter là : 467_7, 8, 9, 10, 11, 12_8, 9, 10 : modulation
+be described by # correspondre à : 2361_23, 24, 25_25, 26 : modulation
+been engaged in # participé à : 103_7, 8, 9_9, 10 : modulation
+before # déjà : 397_11_2 : modulation
+being driven # emportés : 107_24, 25_28 : modulation
+boiling-water temperatures # des températures de 100 ° c : 507_17, 18_14, 15, 16, 19, 20, 21 : modulation
+build # assembler : 427_31_32 : modulation
+but when they go away so does much of the drinking water # c' est autant d' eau potable de perdue : 751_0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12_0, 1, 2, 3, 4, 5, 6, 7 : modulation
+called # que l' on nomme : 1841_60_65, 66, 67, 68 : modulation
+can easily be # on peut facilement : 509_13, 14, 15_14, 15, 16 : modulation
+carbon based fuels # carburants émetteurs de co 2 : 799_10, 11, 12_11, 12, 13, 14, 15 : modulation
+challenge # compétition : 1606_1_1 : modulation
+changed # ont été modifiées : 476_3_3, 4, 5 : modulation
+chewed it up # l' a avalé : 473_13, 14, 15_23, 24, 25 : modulation
+consistent # répété : 2361_8_8 : modulation
+consists of # est constitué de : 1137_3, 4_3, 5, 6 : modulation
+deep lessons # de grandes leçons : 1602_3, 4_4, 5, 6 : modulation
+design into this # avons pu intégrer : 432_1, 4, 5_1, 2, 4 : modulation
+design the process a little bit further # aller plus loin dans le processus : 467_18, 19, 20, 21, 22, 23, 24_17, 18, 19, 20, 21, 22 : modulation
+drive # alimenter : 509_27_31 : modulation
+embrace # comprendront : 151_47_42 : modulation
+embrace # profiter d' : 120_31_24, 25 : modulation
+engage # exploiter : 2387_43_47 : modulation
+engage with # développer : 2346_31, 32_38 : modulation
+ensuing # futurs : 125_27_22 : modulation
+every one of us # chaque personne : 484_9, 10, 11, 12_10, 11 : modulation
+explore # étudier : 818_9_10 : modulation
+find out more # renseignez -vous : 804_3, 4, 5_8, 9 : modulation
+flipped me out # m' a secoué : 1883_4, 5, 6_3, 4, 5 : modulation
+forces # des courants : 107_31_34, 35 : modulation
+gave us # a fait apparaître : 123_5, 6_5, 6, 7 : modulation
+get interested # s' y intéressent : 827_11, 12_13, 14, 15 : modulation
+get mixed # se mélangent : 831_30, 31_30, 31 : modulation
+give an update on # mettre au courant : 518_7, 9, 10, 11_9, 10, 11 : modulation
+given # en ayant : 2407_25_30, 31 : modulation
+global warming pollution # pollution à effet de serre : 732_6, 7, 8_4, 5, 6, 7, 8 : modulation
+go much larger # voir plus grand : 427_4, 5, 6_3, 4, 5 : modulation
+go up or down # sortir de : 1853_22, 23, 24, 25_24, 25 : modulation
+goes up or down # ne rentre ni ne sort de : 1857_1, 2, 3, 4_1, 2, 3, 4, 5, 6 : modulation
+got the biggest cheer # a été reçu avec d' aussi grandes acclamations : 531_6, 7, 8, 9_6, 7, 8, 9, 10, 11, 12, 13 : modulation
+had been made # on avait fait : 2430_7, 8, 9_6, 7, 8 : modulation
+had just come from walking # errait dans : 904_20, 21, 22, 23, 24_26, 27 : modulation
+hard truth # vérité nue : 2362_15, 16_13, 14 : modulation
+has procured # m' a apportée : 2320_46, 47_51, 52, 53 : modulation
+has to be # il faut qu' soient : 428_19, 20, 21_15, 16, 17, 19 : modulation
+have at hand # avons devant nous : 1614_34, 35, 36_33, 34, 35 : modulation
+have we met # nous nous connaissons : 2395_11, 12, 13_9, 10, 11 : modulation
+he gets to # à lui de : 858_7, 8, 9_9, 10, 11 : modulation
+he wanted to do # ce qui l' intéressait : 844_4, 5, 6, 7_4, 5, 6, 7 : modulation
+he went by dr. p # il est devenu dr p : 2334_25, 26, 27, 28, 29_27, 28, 29, 30, 31 : modulation
+heated up # s' est échauffé : 539_3, 4_3, 4, 6 : modulation
+help stop # lutter contre : 802_15, 16_15, 16 : modulation
+if you ca n't # à part : 511_18, 19, 20, 21_19, 20 : modulation
+ignite # réveiller : 2343_12_17 : modulation
+increase what the basic question is of # chercher juste la réponse à la question : 510_17, 18, 19, 20, 21, 22, 23_14, 15, 16, 17, 18, 19, 20 : modulation
+innumerable # interminable : 2337_7_8 : modulation
+into a series # à la suite : 868_14, 15, 16_19, 20, 21 : modulation
+is in a sense # on peut voir comme : 724_4, 6, 7, 8_0, 1, 2, 7 : modulation
+is marked # apparaissent : 727_3, 4_3 : modulation
+it 's gone from # on est passé de : 730_3, 4, 5, 6_4, 5, 6, 7 : modulation
+it 's held # il tient : 1856_2, 3, 4_3, 4 : modulation
+it 's nothing if not ambitious # c' est véritablement ambitieux : 521_0, 1, 2, 3, 4, 5_0, 1, 2, 3 : modulation
+it 's over weight # sa masse est supérieure à : 459_0, 1, 2, 6_0, 1, 3, 4, 5 : modulation
+it 's powered by # cela fonctionne avec : 181_9, 10, 11, 12_10, 11, 12 : modulation
+it 's such a large molecule # cette molécule est tellement grande qu' : 455_0, 1, 2, 3, 4, 5_0, 1, 2, 3, 4, 5 : modulation
+it does n't show # on ne voit pas : 723_10, 11, 12, 13_9, 10, 11, 12 : modulation
+it exhausts all the # on atteint les limites des : 444_24, 25, 26, 27_23, 24, 25, 26, 27 : modulation
+it took # cela s' est fait en : 415_0, 1_2, 3, 4, 5, 6 : modulation
+it was going from the # nous l' avons transposé du : 402_18, 19, 20, 21, 22_18, 19, 20, 21, 22 : modulation
+kind of # plutôt : 793_5, 6_5 : modulation
+kind of neat # pas mal : 1927_22, 23, 24_21, 22 : modulation
+know # saura dire : 498_6_2, 5 : modulation
+know # voir : 741_4_3 : modulation
+link together # liées entre elles : 209_43, 44_45, 46, 47 : modulation
+links to # est liée à : 215_6, 7_9, 10, 11 : modulation
+look at in the context # la remettez dans son contexte : 759_2, 3, 4, 5, 6_2, 3, 4, 5, 6 : modulation
+lower 48 states # etats-unis sans l' alaska : 722_31, 32, 33_31, 32, 33, 34 : modulation
+man # bonhomme : 776_3_6 : modulation
+mean # représenter : 397_21_19 : modulation
+meet it well # soient à la hauteur : 2358_19, 20, 21_25, 26, 27, 28 : modulation
+modern # nouveau : 124_1_1 : modulation
+my playing the music # la musique que je jouais : 898_20, 21, 22, 23_20, 21, 22, 23, 24 : modulation
+never would have been able to be booted up # n' aurait jamais fonctionné : 430_19, 20, 21, 22, 23, 24, 25, 26, 27_24, 25, 26, 27 : modulation
+nice one # pas mal : 1866_0, 1_0, 1 : modulation
+one inch # 3 centimètres : 1595_8, 9_11, 12 : modulation
+one yard # un mètre : 1545_24, 25_24, 25 : modulation
+orienting themselves to # prendre leurs marques par rapport à : 1551_8, 9, 10_9, 10, 11, 12, 13, 14 : modulation
+out of # à partir de : 403_18, 19_22, 23, 24 : modulation
+phase # moment : 422_2_1 : modulation
+play # travailler : 1574_4_5 : modulation
+plight # difficultés : 101_17_18 : modulation
+potency # potentiel : 2364_13_15 : modulation
+pour back # en enlever : 832_6, 10_8, 9 : modulation
+pretty good # pas mal : 1919_7, 8_7, 8 : modulation
+processing # ce que l' on peut créer avec : 495_4_1, 2, 3, 4, 5, 6, 7 : modulation
+read # vu : 754_7_8 : modulation
+really # bien : 160_23_24 : modulation
+really # extrêmement : 428_22_20 : modulation
+recent # jeunes : 1557_24_27 : modulation
+right now # là : 1913_7, 8_7 : modulation
+rubbish # pollution : 171_12_14 : modulation
+saw it on the news # en avez entendu parler : 772_2, 3, 4, 5, 6_1, 2, 4, 5 : modulation
+second grade # ce 1 : 2404_20, 21_37, 38 : modulation
+see a lot of it # la vois en grand : 2355_2, 3, 4, 5, 6_2, 3, 4, 5 : modulation
+serious # inquiétantes : 754_10_11 : modulation
+seven-inch # de 18 cm : 1901_3_5, 6, 7 : modulation
+shallow # peu profonds : 733_3_5, 6 : modulation
+small # réduite : 495_31_42 : modulation
+small # simple : 404_6_8 : modulation
+sound familiar # ça vous rappelle quelque chose : 1570_0, 1_0, 1, 2, 3, 4 : modulation
+source # producteur : 511_35_30 : modulation
+started down the road of # nous sommes attelés à ce problème : 408_3, 4, 5, 6, 7_2, 3, 4, 5, 6, 7 : modulation
+step back out # s' éloigner : 1116_2, 3, 4_2, 3 : modulation
+struggle # l' épreuve : 2356_20_18, 19 : modulation
+struggle # épreuve : 2364_25_26 : modulation
+that 's not where it stops # ça ne s' arrête pas là : 1884_5, 6, 7, 9, 10, 11_4, 5, 6, 7, 8, 9 : modulation
+that 's what you 've all heard about with # comme ce qu' on fait pour : 463_26, 27, 28, 29, 30, 31, 32, 33, 34_26, 27, 28, 29, 30, 31 : modulation
+that can be changed # nous pouvons changer cela : 514_2, 3, 4, 5_3, 4, 5, 6 : modulation
+that have that character shown on them # présentant ce personnage : 849_18, 19, 20, 21, 22, 23, 24_18, 19, 20 : modulation
+that scar has stayed with him # il a souffert de ce traumatisme : 890_25, 26, 27, 28, 29, 30_38, 39, 40, 41, 42, 43 : modulation
+that will confront us # auxquels nous serons confrontés : 125_21, 22, 23, 24_16, 17, 18, 19 : modulation
+the next # l' autre : 1164_25, 26_23, 24 : modulation
+the question is whether we will be # ce qui n' est peut-être pas notre cas : 736_4, 5, 6, 7, 8, 9, 10_7, 8, 9, 10, 11, 12, 13, 14 : modulation
+the smallest # le plus simple : 404_14, 15_20, 21, 22 : modulation
+then put sets of those going up to # eux-mêmes assemblés pour arriver à : 440_24, 25, 26, 27, 28, 29, 30, 31_31, 32, 33, 34, 35 : modulation
+there is # est stockée : 731_18, 19_18, 19 : modulation
+there is # y est : 761_27, 28_28, 29 : modulation
+these are pictures # ces photos ont été prises : 456_0, 1, 2_0, 1, 2, 3, 4 : modulation
+they 're able to be moved around # on peut les déplacer : 820_0, 1, 2, 3, 4, 5, 6_0, 1, 2, 3 : modulation
+they 're running out of time # le délai se rapproche : 1555_6, 7, 8, 9, 10, 11_9, 10, 11, 12 : modulation
+they can go together # qu' il faudra assembler : 431_31, 32, 33, 34_30, 31, 32, 35 : modulation
+they run out of time # ils ne leur reste plus de temps : 1568_15, 16, 17, 18, 19_15, 16, 17, 18, 19, 20, 21 : modulation
+they were seen # ils les voyaient : 2390_11, 12, 13_11, 12, 13 : modulation
+they were told # on leur disait : 2431_0, 1, 3_0, 1, 2 : modulation
+they wo n't any longer grow readily # on ne peut plus les faire croître facilement : 444_13, 14, 15, 16, 17, 18, 19_9, 10, 11, 12, 13, 14, 15, 16 : modulation
+think # disons que : 788_1_1, 2 : modulation
+think of it in the terms that i do # regardiez la chose comme moi : 1840_29, 30, 31, 32, 33, 34, 35, 36, 37_31, 32, 33, 34, 35 : modulation
+thirty-nine inches # un mètre : 1578_0, 1_0, 1 : modulation
+this gets at # on en arrive à : 170_1, 3, 4_1, 2, 3, 5 : modulation
+this is right here # vous avez sous les yeux : 468_0, 1, 7, 8_0, 1, 2, 3, 4 : modulation
+times # occasions : 1571_31_40 : modulation
+to be found # à en tirer : 1167_13, 14, 15_16, 17, 18 : modulation
+to get us out of this mess # pour nous en sortir : 800_8, 9, 10, 11, 12, 13, 14_6, 7, 8, 9 : modulation
+to hide # caché : 116_11, 12_13 : modulation
+to put it in context for myself # si je rapporte cela à ma personne : 483_0, 1, 2, 3, 4, 5, 6_0, 1, 2, 3, 4, 5, 6 : modulation
+today 's # actuelle : 796_8, 9_9 : modulation
+too # et même qu' : 788_9_7, 8, 9 : modulation
+travel # passer : 1853_11_15 : modulation
+trying to optimize processes # les processus que l' on peut optimiser : 495_11, 12, 13, 14_15, 16, 17, 18, 19, 20, 21 : modulation
+turned into a movie # adapté à l' écran : 883_25, 26, 27, 28_23, 24, 25, 26 : modulation
+turns into an # se termine en : 1556_16, 17, 18_20, 21, 22 : modulation
+until you move through it # sans l' avoir vue : 110_9, 10, 11, 12, 13_9, 10, 11, 12 : modulation
+was lost # avait l' air perdu : 892_33, 34_35, 36, 37, 38 : modulation
+waste # pollution : 773_11_6 : modulation
+we 're actually starting at # nous en sommes maintenant à : 398_0, 1, 2, 3, 4_0, 1, 2, 3, 4 : modulation
+we 're looking at # on a devant les yeux : 154_0, 1, 2, 3_0, 1, 3, 4, 5 : modulation
+we 're trying to get to the point of # ce que nous recherchons c' est : 442_0, 1, 2, 3, 4, 5, 6, 7, 8_0, 1, 2, 3, 4, 5 : modulation
+we can just chew back with # ils soient légèrement rognés par : 439_5, 6, 7, 8, 9, 10_7, 8, 9, 10, 11 : modulation
+we might be able to # pouvoir aller beaucoup plus loin que : 510_12, 13, 14, 15, 16_8, 9, 10, 11, 12, 13 : modulation
+what 's called # ce qu' on appelle : 536_12, 13, 14_13, 14, 15, 16 : modulation
+what is it about them # qu' ont -ils de spécial : 1562_14, 15, 16, 17, 18_19, 20, 21, 22, 23 : modulation
+what the point here # le vrai but de tout ça : 200_0, 1, 2, 3_0, 1, 2, 3, 4, 5 : modulation
+when you think of # imaginez : 495_0, 1, 2, 3_0 : modulation
+where we 've never been before # ce qui n' a jamais été réalisé : 409_8, 9, 10, 11, 12, 13_12, 13, 14, 15, 16, 17, 18 : modulation
+who are interested # que cela intéresse : 1608_4, 5, 6_2, 3, 4 : modulation
+will be coming out relatively soon # ne vont pas tarder à apparaître : 501_8, 9, 10, 11, 12, 13_7, 8, 9, 10, 11, 12 : modulation
+within # par le biais de : 127_3_2, 3, 4, 5 : modulation
+wo n't spend any time on # vais passer très rapidement : 173_5, 6, 7, 8, 9, 10_4, 5, 6, 7 : modulation
+would put it on an exponential curve # montrerait un début de croissance exponentielle : 413_21, 22, 23, 24, 28, 29, 30_22, 23, 24, 25, 26, 27 : modulation
+years from now # des années plus tard : 1927_8, 9, 10_10, 11, 12, 13 : modulation
+you 've heard a lot about it # on ne parle que de ça : 791_3, 4, 5, 6, 7, 8, 9_8, 9, 10, 11, 12, 13 : modulation
+you get assigned # est attribuée : 836_5, 6, 9_8, 9 : modulation
+you hear about # qui nous sont communiquées : 111_38, 39, 40_51, 52, 53, 54 : modulation
+you want to ask # qu' on se pose : 1562_3, 4, 5, 6_4, 5, 6, 7 : modulation
+'m only showing # ne montre que : 1138_1, 2, 3_1, 2, 4 : transposition
+'re a year behind # avons une année de retard : 513_9, 11, 12, 13_11, 13, 14, 15, 16 : transposition
+'re about to # allons : 482_1, 2, 3_1 : transposition
+'s about # s' agit de : 2368_2, 4_2, 3, 5 : transposition
+'s empowered # a des capacités : 2330_22, 23_19, 20, 21 : transposition
+'s equal to # représente : 746_1, 2, 3_2 : transposition
+'s okay # va bien : 736_1, 2_4, 5 : transposition
+a dollar short # il nous manque un dollar : 513_15, 16, 17_18, 19, 20, 22, 23 : transposition
+a scan # scannée : 156_17, 18_17 : transposition
+a simple # juste un : 2341_7, 8_5, 6 : transposition
+act as # jouent le rôle de : 860_29, 30_33, 34, 35, 36 : transposition
+acting as # dans le rôle de : 883_34, 35_32, 33, 34, 35 : transposition
+adapt # adaptation : 2347_36_40 : transposition
+adaptable # capable de s' adapter : 2372_30_28, 29, 30, 31 : transposition
+add # avec : 868_21_27 : transposition
+adjacent # qui n' était pas loin : 137_23_22, 23, 24, 25, 26 : transposition
+ago # précédente : 107_75_78 : transposition
+all of # tout ce qui parle de : 1129_28, 29_26, 27, 28, 29, 30 : transposition
+all that it takes to # la seule chose qui : 1615_10, 11, 12, 13, 14_11, 12, 13, 14 : transposition
+all we did was # nous avons juste : 437_2, 3, 4, 5_3, 4, 5 : transposition
+an interesting thing # intéressant : 2348_8, 9, 10_9 : transposition
+are a better match to # correspondent mieux à : 877_16, 17, 18, 19, 20_20, 21, 22 : transposition
+are beyond # dépassent : 107_33, 34_37 : transposition
+around # situé autour de : 731_12_11, 12, 13 : transposition
+around the world # global : 755_2, 3, 4_2 : transposition
+around us # qui nous entoure : 816_14, 15_18, 19, 20 : transposition
+as a result # il en résulte qu' : 891_1, 2, 3_4, 5, 6, 7 : transposition
+asked # posé la question : 2410_18_20, 21, 22 : transposition
+aspirin shaped # la forme d' une aspirine : 1879_20, 21_20, 21, 22, 23, 24 : transposition
+at # quand il fait : 537_1_2, 3, 4 : transposition
+autograph it # mis notre autographe : 437_6, 7_6, 7, 8 : transposition
+become greater # s' accroissent : 204_16, 17_24, 25 : transposition
+brave # de bravoure : 117_6_6, 7 : transposition
+brought it into existence # la faisait exister : 2329_32, 33, 34, 35_32, 33, 34 : transposition
+call into existence # faire exister : 2330_8, 9, 10_6, 7 : transposition
+can do this # ont cette capacité : 449_6, 7, 8_7, 8, 9 : transposition
+central # du milieu : 831_25_25, 26 : transposition
+change things quite dramatically # faire des changements radicaux : 477_21, 22, 23, 24_23, 24, 25, 26 : transposition
+coal # charbonneuse : 771_13_14 : transposition
+colliding with # est entré en collision avec : 529_17, 18_19, 20, 21, 22, 23 : transposition
+color it blue # de couleur bleue : 1880_21, 22, 23_17, 18, 19 : transposition
+combinatorial # par combinaison : 514_8_11, 12 : transposition
+come in # fait éruption : 107_159, 160_160, 161 : transposition
+computationally # par calcul informatique : 189_12_12, 13, 14 : transposition
+computer vision # de vision informatisée : 184_1, 2_2, 3, 4 : transposition
+computer vision # vision informatisée : 179_12, 13_18, 19 : transposition
+correctly # comme correct : 198_10_15, 16 : transposition
+crude # à l' état brut : 108_26_28, 29, 30, 31 : transposition
+deceptive # une illusion : 1870_8_7, 8 : transposition
+deep # de profondeur : 507_13_10, 11 : transposition
+deep ocean # fond des océans : 507_4, 5_3, 4, 5 : transposition
+designing # la conception : 398_33_33, 34 : transposition
+digitizing life # numérisation de la vie : 412_5, 6_6, 7, 8, 9 : transposition
+discovering # la découverte : 397_24_23, 24 : transposition
+do a complete transplant of # transplanter entièrement : 464_20, 21, 22, 23, 24_23, 24 : transposition
+do a disservice # ne rendons pas service : 2359_2, 3, 4_2, 3, 4, 5 : transposition
+do n'ts # ne fais pas : 2435_58, 59_60, 61, 62 : transposition
+entire # ensemble de : 200_27_32, 33 : transposition
+essence # base essentielle : 1572_8_9, 10 : transposition
+ever-growing # de plus en plus grandes : 1554_11_14, 15, 16, 17, 18 : transposition
+everyday # du quotidien : 830_18_24, 25 : transposition
+evolutionary tree # arbre de l' évolution : 515_16, 17_14, 15, 16, 17 : transposition
+expected # qu' ils peuvent attendre : 2362_30_34, 35, 36, 37 : transposition
+extending westward # vers l' ouest : 761_14, 15_11, 12, 13 : transposition
+fearful # craignant : 131_3_9 : transposition
+finally # en un mot : 803_0_0, 1, 2 : transposition
+finally # à la fin : 1555_2_3, 4, 5 : transposition
+for # suite à : 118_12_14, 15 : transposition
+for a few minutes # quelques minutes : 1917_21, 22, 23, 24_22, 23 : transposition
+foreign # que nous importons : 799_18_23, 24, 25 : transposition
+forward # de progresser : 407_6_8, 9 : transposition
+free-standing # tenant debout : 1545_15_18, 19 : transposition
+from # produit par : 489_9_12, 13 : transposition
+from # provenant d' : 469_17_15, 16 : transposition
+from around the world # venus du monde entier : 1611_4, 5, 6, 7_6, 7, 8, 9 : transposition
+gave an introduction to # ai presenté : 517_5, 6, 7, 8_4, 5 : transposition
+get out of # ne plus : 2338_22, 23, 24_18, 19 : transposition
+get significantly better # augmentent de manière significative : 1581_14, 15, 16_12, 13, 14, 15 : transposition
+gold # d' or : 533_22_26, 27 : transposition
+grasping # prenant en main : 821_21_28, 29, 30 : transposition
+greatest # le meilleur de : 2367_15_16, 17, 18 : transposition
+healthy # en bonne santé : 2315_2_0, 1, 2 : transposition
+his declaration of me as # le fait qu' il m' ait déclaré : 2342_12, 13, 14, 15, 16_13, 14, 15, 16, 17, 18, 19 : transposition
+hopefully # en espérant : 1855_9_6, 7 : transposition
+hopefully # espérons -le : 151_43_40, 41 : transposition
+how # de quelle façon : 518_12_12, 13, 14 : transposition
+how # des raisons pour lesquelles : 888_17_17, 18, 19, 20 : transposition
+how # la façon dont : 143_4_4, 5, 6 : transposition
+how # la manière dont : 2343_5_5, 6, 7 : transposition
+how # à quel point : 2406_5_5, 6, 7 : transposition
+how big are # la taille de : 155_13, 14, 17_14, 15, 16 : transposition
+how big are # la taille des : 155_19, 20, 23_20, 21, 22 : transposition
+how it unfolds # le dénouement : 858_11, 12, 13_13, 14 : transposition
+how perform # quelles sont les résultats : 1574_16, 19_14, 15, 16, 17 : transposition
+how to # la manière de : 1609_9, 10_9, 10, 11 : transposition
+how we # notre façon de : 823_25, 26_29, 30, 31 : transposition
+how we # notre manière de : 2328_6, 7_6, 7, 8 : transposition
+how we understand # notre façon de comprendre : 816_6, 7, 8_9, 10, 11, 12 : transposition
+human # de l' homme : 2375_11_13, 14, 15 : transposition
+human-computer # entre humains et ordinateurs : 877_13_15, 16, 17, 18 : transposition
+i 've argued # selon moi : 478_1, 2, 3_0, 1 : transposition
+i think # d' après moi : 187_36, 37_41, 42, 43 : transposition
+i think # selon moi : 400_9, 10_10, 11 : transposition
+ice melting # la fonte des glaces : 741_11, 12_14, 15, 16, 17 : transposition
+if we do # si c' est possible : 410_1, 2, 3_2, 3, 4, 5 : transposition
+implicit in # ce que sous-entend : 2349_0, 1_0, 1, 2 : transposition
+in a diverse way # dans toute sa diversité : 151_66, 67, 68, 69_66, 67, 68, 69 : transposition
+in a nutshell # pour résumer : 819_0, 1, 2_0, 1 : transposition
+in abundance # une grande quantité de : 441_9, 10_7, 8, 9, 10 : transposition
+in length # de long : 417_21, 22_25, 26 : transposition
+in other words # autrement dit : 530_0, 1, 2_0, 1 : transposition
+in our discovery # nous avons découvert : 505_1, 2, 3_1, 2, 3 : transposition
+in southwest greenland # au sud-ouest du groenland : 740_5, 6, 7_5, 6, 7, 8 : transposition
+in terms of some of the needs # quand on regarde nos besoins : 481_6, 7, 8, 9, 10, 11, 12_7, 8, 9, 10, 11 : transposition
+in that # dans le sens où : 2410_12, 13_11, 12, 13, 14 : transposition
+in the end # pour finir : 120_1, 2, 3_1, 2 : transposition
+in the exact same way # exactement de la même manière : 1154_29, 30, 31, 32, 33_31, 32, 33, 34, 35 : transposition
+in this simple way # simplement de cette manière : 191_5, 6, 8, 9_6, 7, 8, 9 : transposition
+in winter # hivernales : 728_16, 17_15 : transposition
+inadvertently # par mégarde : 118_3_5, 6 : transposition
+including # dont : 2329_7_8 : transposition
+increasing rapidly # en augmentation rapide : 742_3, 5_3, 4, 6 : transposition
+inherently # par définition : 165_27_34, 35 : transposition
+inherently # par nature : 2342_31_42, 43 : transposition
+instant # instantanément : 512_16_14 : transposition
+instrumental # l' instrument : 885_40_49, 50 : transposition
+interestingly # de façon interessante : 1147_1_1, 2, 3 : transposition
+is a problem # est problématique : 763_1, 2, 3_2, 3 : transposition
+is bubbling up out of # sort de en bouillonnant : 733_9, 11, 12, 13, 14_12, 13, 16, 17 : transposition
+is in crisis # est confrontée à plusieurs crises : 798_1, 2, 3_6, 7, 8, 9, 10 : transposition
+is meaningful # a un sens : 183_8, 10_11, 14, 15 : transposition
+is only ago # n' a que : 123_41, 42, 45_45, 46, 47 : transposition
+is the most serious problem # encore plus : 763_7, 8, 9, 10, 11_8, 9 : transposition
+it 's the case # c' est vrai : 1118_7, 8, 10, 11_8, 9, 11 : transposition
+its metabolic # de son métabolisme : 406_4, 5_5, 6, 7 : transposition
+just # n' que : 845_6_4, 6 : transposition
+just # n' rien qu' : 500_9_12, 14, 15 : transposition
+just # rien que : 460_17_13, 14 : transposition
+just gave # viens de donner : 1156_14, 15_15, 16, 17 : transposition
+keep handy # ai sous la main : 2312_2, 5_1, 7, 8, 9 : transposition
+keeps repeating them # les répète sans cesse : 2435_70, 71, 72_75, 76, 77, 78 : transposition
+kind of # d' une certaine manière : 1873_18, 19_15, 16, 17, 18 : transposition
+kind of like # une espèce de : 835_8, 9, 10_9, 10, 11 : transposition
+laid-up # sur le flanc : 2314_43_44, 45, 46 : transposition
+language learners # ceux qui apprennent des langues : 847_9, 10_8, 9, 10, 11, 12 : transposition
+later # après : 533_3_0 : transposition
+leave that up to us # laissez -nous nous en occuper : 790_0, 1, 2, 3, 4_0, 1, 2, 3, 4 : transposition
+left to their own devices # on le laisse se débrouiller : 2407_32, 33, 34, 35, 36_38, 39, 40, 41, 42 : transposition
+let 's take a tour of # visitons : 792_1, 2, 3, 4, 5, 6_2 : transposition
+let 's up the ante # montons les enjeux : 1590_3, 4, 5, 6, 7_7, 8, 9 : transposition
+like an odd thing # bizarre : 1840_15, 16, 17, 18_17 : transposition
+live # en direct : 860_17_21, 22 : transposition
+live # en ligne : 177_3_6, 7 : transposition
+living homeless # sans-abri : 884_18, 19_17 : transposition
+looking for # faisant des recherches pour : 1158_36, 37_29, 30, 31, 32 : transposition
+loud # à haute voix : 2316_6_4, 5, 6 : transposition
+made that shift in thinking # a changé sa façon de penser : 2408_4, 5, 6, 7, 8_5, 6, 7, 8, 9, 10 : transposition
+make a little pierce # percer un peu : 1908_24, 25, 26, 27_26, 27, 28 : transposition
+make emergent # font émerger : 201_10, 12_10, 11 : transposition
+make it seem real # lui donner l' apparence de la réalité : 1899_10, 11, 12, 13_10, 11, 12, 13, 14, 15, 16 : transposition
+making it longer or shorter # l' allonger ou la raccourcir : 875_17, 18, 19, 20, 21_20, 21, 22, 23, 24 : transposition
+many # des tas d' : 840_21_25, 26, 27 : transposition
+many # un ensemble de : 1164_40_33, 34, 35 : transposition
+measurably # de façon mesurable : 1880_35_33, 34, 35 : transposition
+melting # au dégel : 738_4_4, 5 : transposition
+meshes with # qui va dans le sens de : 797_5, 6_6, 7, 8, 9, 10, 11 : transposition
+methodologically # de façon méthodologique : 1859_41_35, 36, 37 : transposition
+most # la majorité des : 1575_37_46, 47, 48 : transposition
+moving back # retrait : 1873_22, 23_20 : transposition
+myriad cultures of the world # mélange de cultures mondiales : 126_2, 3, 4, 5, 6_2, 3, 4, 5 : transposition
+next # à venir : 209_24_28, 29 : transposition
+no more # la fin des : 171_5, 6_5, 6, 7 : transposition
+nomadic people # peuple de nomades : 107_55, 56_55, 56, 57 : transposition
+non-image # qui n' est pas une image : 158_12_9, 10, 11, 12, 13, 14 : transposition
+of # au sujet de : 2349_4_5, 6, 7 : transposition
+of being # au fait d' être : 126_11, 12_10, 11, 12, 13 : transposition
+of monotony # monotone : 120_24, 25_20 : transposition
+of my being an amputee # que je sois amputée : 2360_12, 13, 14, 15, 16_14, 15, 16, 17 : transposition
+of survival # à survivre : 2389_28, 29_38, 39 : transposition
+of use # utile : 2388_20, 21_29 : transposition
+on the order of # environ : 405_6, 7, 8, 9_4 : transposition
+one reason is # parce que : 737_1, 2, 3_0, 1 : transposition
+only # n' plus que : 882_21_22, 24, 25 : transposition
+only # n' qu' : 2400_11_11, 14 : transposition
+only # n' que : 1870_17_17, 20 : transposition
+only # ne que : 2363_5_7, 9 : transposition
+open-ended # avec une fin ouverte : 858_3_4, 5, 6, 7 : transposition
+or so # près d' : 1877_6, 7_9, 10 : transposition
+originally # à l' origine : 133_6_6, 7, 8 : transposition
+out # ça sort de : 1910_14_9, 10, 11 : transposition
+overland # par voie terrestre : 111_10_15, 16, 17 : transposition
+particular # en particulier : 865_5_6, 7 : transposition
+professional # de professionnels : 194_22_34, 35 : transposition
+pure # purement : 1855_17_17 : transposition
+put together # réunis : 140_24, 25_24 : transposition
+raggedy # en loques : 2317_9_11, 12 : transposition
+reading # la lecture de : 165_12_12, 13, 14 : transposition
+really # en réalité : 178_8_8, 9 : transposition
+really large pieces # des tailles de morceaux importantes : 444_5, 6, 7_4, 5, 6, 7, 8 : transposition
+reduced to the margins of # en marge de : 101_29, 30, 31, 32, 33_32, 33, 34 : transposition
+related spatially # reliées entre elles dans l' espace : 184_56, 57_47, 48, 49, 50, 51, 52 : transposition
+related to # avait un lien avec : 902_16, 17_19, 20, 21, 22 : transposition
+related to # en rapport avec : 2318_33, 34_36, 37, 38 : transposition
+remotely # à distance : 153_55_57, 58 : transposition
+roughly 20 # une vingtaine d' : 435_6, 7_8, 9, 10 : transposition
+rugged # en haillons : 882_13_11, 12 : transposition
+say who they all are # donner tous leurs noms : 206_10, 11, 12, 13, 14_11, 12, 13, 14 : transposition
+seamlessly and continuously # de manière continue et fluide : 154_15, 16, 17_20, 21, 22, 23, 27 : transposition
+significantly # de manière significative : 1586_12_16, 17, 18 : transposition
+sketch # font des croquis : 1553_10_15, 16, 17 : transposition
+so # pour que : 525_7_8, 9 : transposition
+so many more # tellement d' autres : 2387_34, 35, 36_38, 39, 40 : transposition
+so they can # de manière à pouvoir : 2346_67, 68, 69_79, 80, 81, 82 : transposition
+so we could # afin de pouvoir : 407_13, 14, 15_18, 19, 20 : transposition
+sophisticated # la sophistication de : 465_65_81, 82, 83 : transposition
+southeast asia # sud-est de l' asie : 107_58, 59_59, 60, 61, 62 : transposition
+southeastern tibet # le sud-est du tibet : 111_12, 13_19, 20, 21, 22 : transposition
+spatial # dans l' espace : 815_33_36, 37, 38 : transposition
+spend a large sum of money # dépenser massivement : 786_11, 12, 13, 14, 15, 16_7, 8 : transposition
+stalled # en panne : 2314_13_15, 16 : transposition
+stamp a letter into it # avec une lettre en creux : 1880_26, 27, 28, 29, 30_21, 22, 23, 24, 25 : transposition
+standing # qui tient debout : 1588_18_18, 19, 20 : transposition
+standing # tenant debout : 1594_10_14, 15 : transposition
+state-of-the-art # de pointe : 792_8_7, 8 : transposition
+step back # prendre un peu de recul : 1130_3, 4_3, 4, 5, 6, 7 : transposition
+stopped being # n' étaient plus : 105_21, 22_24, 25, 26 : transposition
+storytelling # raconter des histoires : 148_18_21, 22, 23 : transposition
+storytelling institution # institution de contes : 148_31, 32_37, 38, 39 : transposition
+such a # vraiment une : 2339_32, 33_29, 30 : transposition
+such a powerful image # une image tellement puissante : 1894_3, 4, 5, 6_2, 3, 4, 5 : transposition
+suddenly # d' un coup : 206_23_25, 26, 27 : transposition
+sympathetic with # qui compatissons avec : 101_14, 15_14, 15, 16 : transposition
+synthesizing # la synthèse : 398_35_36, 37 : transposition
+take a good long look # regardez bien : 796_0, 1, 2, 3, 4_0, 1 : transposition
+than ever # que par le passé : 739_6, 7_7, 8, 9, 10 : transposition
+that can # capable de : 494_10, 11_10, 11 : transposition
+that seems to be # donnant l' impression d' : 107_106, 107, 108, 109_108, 109, 110, 111 : transposition
+the early 1980s # au début des années 80 : 2318_9, 10, 11_9, 10, 11, 12, 13 : transposition
+the northern # au nord : 128_7, 8_7, 8 : transposition
+the point is # ce que je veux dire , c' est que : 1896_0, 1, 2_0, 1, 2, 3, 4, 5, 6, 7, 8 : transposition
+the point is # ce que je veux dire : 1889_1, 2, 3_0, 1, 2, 3, 4 : transposition
+the proposal has been to # ils projettent de : 765_1, 2, 3, 4, 5_1, 2, 3 : transposition
+the reason why # la raison pour laquelle : 1154_1, 2, 3_1, 2, 3, 4 : transposition
+the source was # elle venait d' : 882_1, 2, 3_0, 1, 2 : transposition
+the ultimate in placebo # le placebo ultime : 1892_4, 5, 6, 7_3, 4, 5 : transposition
+the worst of which can manifest themselves as # dans les pires de leurs manifestations : 891_14, 15, 16, 17, 18, 19, 20, 21_16, 17, 18, 19, 20, 21 : transposition
+there 's been a shift in my thinking # ma façon de penser a changé : 2410_1, 2, 3, 4, 5, 6, 7, 8_1, 2, 3, 4, 5, 6 : transposition
+there has been a decline # a diminué de : 752_2, 3, 4, 5, 8_9, 10, 11 : transposition
+through # traversant : 111_11_18 : transposition
+to adapt to # d' adaptation : 107_37, 38, 39_40, 41 : transposition
+top # du haut : 447_5_6, 7 : transposition
+treacherous # la traîtrise des : 888_33_33, 34, 35 : transposition
+treatment # se soigner : 890_8_9, 10 : transposition
+try things # faire des essais : 833_25, 26_34, 35, 36 : transposition
+turned in # tournés vers l' intérieur : 2402_14, 15_15, 16, 17, 18 : transposition
+turns out # en fait : 844_0, 1_0, 1 : transposition
+unforgiving # sans pitié : 2339_14_14, 15 : transposition
+unmarked by # sans trace de : 2349_31, 32_37, 38, 39 : transposition
+unsuccessfully # sans succès : 2338_29_25, 26 : transposition
+until # tant que ne pas : 2376_4_4, 5, 7, 9 : transposition
+using # l' utilisation de : 512_8_4, 5, 6 : transposition
+vision impairment # l' altération visuelle : 2346_13, 14_16, 17, 18 : transposition
+want to avoid # à éviter : 2368_17, 18, 19_18, 19 : transposition
+we 're trying to ask # la question c' est : 403_1, 2, 3, 4, 5_1, 2, 3, 4 : transposition
+we 've made it our primary goal to # nous avons décidé de : 786_3, 4, 5, 6, 7, 8, 9, 10_3, 4, 5, 6 : transposition
+we can # il est possible de : 464_18, 19_19, 20, 21, 22 : transposition
+well , the truth is # à vrai dire : 102_0, 1, 2, 3, 4_0, 1, 2 : transposition
+went through our error correction # corrigé les erreurs : 421_5, 6, 7, 8, 9_6, 7, 8 : transposition
+were performing at a-level # avaient des résultats de niveau a : 2425_43, 44, 45, 46_50, 51, 52, 53, 54, 55 : transposition
+west antarctica # la région ouest de l' antarctique : 745_1, 2_0, 1, 2, 3, 4, 5 : transposition
+western china # l' ouest de la chine : 111_8, 9_10, 11, 12, 13, 14 : transposition
+what about # et si on : 1129_22, 23_22, 23, 24 : transposition
+what that picture is of # sujet de cette photo : 214_29, 30, 31, 32, 33_31, 32, 33, 34 : transposition
+when # au moment où : 2318_13_15, 16, 17 : transposition
+when you go into # pour : 463_4, 5, 6, 7_6 : transposition
+when you step back # en prenant du recul : 1144_8, 9, 10, 11_9, 10, 11, 12 : transposition
+where # l' endroit où : 741_15_20, 21, 22 : transposition
+whether or not # dire si oui ou non : 2360_23, 24, 25_24, 25, 26, 27, 28 : transposition
+while it plays # pendant la lecture : 874_5, 6, 7_7, 8, 9 : transposition
+who does the very best # qui sont vraiment les meilleurs : 1576_0, 1, 2, 3, 4_0, 1, 2, 3, 4 : transposition
+why # pour laquelle : 910_5_4, 5 : transposition
+wireless # sans fil : 820_29_32, 33 : transposition
+with it # l' utilisa pour : 136_24, 25_21, 22, 23 : transposition
+with serious physical injury # qui étaient gravement blessés : 2389_15, 16, 17, 18_22, 23, 24, 25 : transposition
+worth noting # notable : 2321_18, 19_19 : transposition
+you 're off # vous êtes partie : 2415_20, 21, 22_23, 24, 25 : transposition
+you can not # il est impossible de : 110_1, 2, 3_0, 1, 2, 3 : transposition
+zoomable technology # technologie de zoom : 1152_36, 37_36, 37, 38 : transposition
+zooming in # fait des zooms avant : 154_18, 19_16, 17, 18, 19 : transposition
+'re less burdened by # est moins un fardeau : 2370_16, 17, 18, 19_19, 20, 21, 22 : modulation_transposition
+a great deal # pas mal de choses : 1859_23, 24, 25_25, 26, 27, 28 : modulation_transposition
+a violin lesson with me # je lui donne un cours de violon : 889_24, 25, 26, 27, 28_24, 25, 26, 27, 28, 29, 30 : modulation_transposition
+about # une histoire de : 2325_6_7, 8, 9 : modulation_transposition
+arrived late for by two weeks # avais deux semaines de retard sur : 2400_32, 33, 34, 37, 38, 39_35, 36, 37, 38, 39, 40 : modulation_transposition
+as just one gene changing # se produit par la modification d' un gène : 470_7, 8, 9, 10, 11_8, 9, 10, 11, 12, 13, 14, 15 : modulation_transposition
+at an exponential pace # de manière exponentielle : 412_10, 11, 12, 13_13, 14, 15 : modulation_transposition
+be able to # nous permettre de : 497_17, 18, 19_17, 18, 19 : modulation_transposition
+became the basis for # ont inspiré : 883_16, 17, 18, 19_15, 16 : modulation_transposition
+broader # en élargissant : 1132_18_21, 22 : modulation_transposition
+building on # la prolongation de : 478_12, 13_17, 18, 19 : modulation_transposition
+by virtue of # étant capable de : 1154_10, 11, 12_12, 13, 14 : modulation_transposition
+damian 's special-grown flesh # la chair que fait pousser damian : 1902_9, 10, 11, 12_10, 11, 12, 13, 14, 15 : modulation_transposition
+except to # si ce n' est pour : 173_12, 13_9, 10, 11, 12, 13 : modulation_transposition
+finally froze solid # finit par geler : 136_16, 17, 18_16, 17, 18 : modulation_transposition
+forced into settlements # avons colonisés de force : 129_24, 26, 27_21, 22, 23, 24 : modulation_transposition
+get real # passer à l' action : 810_7, 8_14, 15, 16, 17 : modulation_transposition
+give you good close look at this # vous montrer de près : 1923_2, 3, 4, 5, 6, 7, 8_2, 3, 4, 5 : modulation_transposition
+going all the way around # qui a effectué un tour complet de : 529_9, 10, 11, 12, 13_9, 10, 11, 12, 13, 14, 15 : modulation_transposition
+going narrower # en affinant : 1132_15, 16_18, 19 : modulation_transposition
+grows in complexity # devient de plus en plus complexe : 204_5, 6, 7_6, 7, 8, 9, 10, 11 : modulation_transposition
+have this kind of reception # être reçu de cette manière : 193_5, 6, 7, 8, 9_5, 6, 8, 9, 10 : modulation_transposition
+initially # pour commencer : 437_0_0, 1 : modulation_transposition
+is believed in enough # peut être tellement crédible : 1840_45, 46, 47, 48_43, 44, 45, 46 : modulation_transposition
+is now in negative ice balance # perd désormais de la glace : 744_7, 8, 9, 10, 11, 12_11, 12, 13, 14, 15 : modulation_transposition
+is out there # il y a ici : 1867_7, 8, 9_0, 1, 2, 11 : modulation_transposition
+it 's going to be a stretch # ça sera d' autant plus difficile : 486_0, 1, 2, 3, 4, 5, 6_0, 1, 2, 3, 4, 5 : modulation_transposition
+it does n't matter how much # ce quelle que soit la quantité d' : 155_1, 2, 3, 4, 5, 6_1, 2, 3, 4, 5, 6, 7 : modulation_transposition
+juilliard-trained # issu de juilliard : 904_39_45, 46, 47 : modulation_transposition
+juilliard-trained # issu de l' école juilliard : 883_48_51, 52, 53, 54, 55 : modulation_transposition
+make us more secure # favoriser la sécurité du pays : 802_9, 10, 11, 12_9, 10, 11, 12, 13 : modulation_transposition
+no they do n't # ça n' est pas le cas : 535_13, 14, 15, 16_13, 14, 15, 16, 17, 18 : modulation_transposition
+nothing goes up or down my sleeve # il n' y a rien dans mes manches : 1852_4, 5, 6, 7, 8, 9, 10_4, 5, 6, 7, 8, 9, 10, 11 : modulation_transposition
+only had # ne dispose que d' : 491_3, 4_3, 4, 5, 6 : modulation_transposition
+piped to sites # transporter sur place par tuyaux : 509_16, 17, 18_17, 18, 19, 20, 21 : modulation_transposition
+repeatedly told otherwise # on lui répète le contraire : 2407_18, 19, 20_22, 24, 25, 26, 27 : modulation_transposition
+right # qui marchera : 1566_13_16, 17 : modulation_transposition
+shoot a video # sous l' œil de la caméra : 838_28, 29, 30_23, 24, 25, 26, 27, 28 : modulation_transposition
+such that there 's a single letter designation for # étant lui-même désigné par une lettre qui lui est propre : 435_11, 12, 13, 14, 15, 16, 17, 18, 19_17, 18, 19, 20, 21, 22, 23, 24, 25, 26 : modulation_transposition
+talk about # comment : 138_0, 1_0 : modulation_transposition
+that 's big enough to solve # à la hauteur de : 803_4, 5, 6, 7, 8, 9_6, 7, 8, 9 : modulation_transposition
+that melting flow # la fonte des glaces : 748_16, 17, 18_14, 15, 16, 17 : modulation_transposition
+the face behind # ce qui se cache derrière : 111_33, 34, 35_44, 45, 46, 47, 48 : modulation_transposition
+the largest mountaintop miner # l' exploitant qui a le plus recours aux minages de sommets : 781_0, 1, 2, 3_0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 : modulation_transposition
+the universe began # la naissance de l' univers : 520_18, 19, 20_17, 18, 19, 20, 21 : modulation_transposition
+to be interested in # comme sujet de prédilection : 1840_22, 23, 24, 25_21, 22, 23, 24 : modulation_transposition
+trapped in # prisonnier : 1165_10, 11_12 : modulation_transposition
+unprecedented # on n' a jamais vu ça : 756_14_26, 27, 28, 29, 30, 31 : modulation_transposition
+unsustainable # impossible de continuer sur : 758_4_3, 4, 5, 6 : modulation_transposition
+we 're on the cusp of # s' annonce : 879_11, 12, 13, 14, 15, 16_17, 18 : modulation_transposition
+we were in with # qu' avec : 1911_9, 10, 11, 12_8, 9 : modulation_transposition
+what looks like # quel est : 498_17, 21, 22_16, 17 : modulation_transposition
+what this is about # le sujet : 1871_5, 6, 7, 8_5, 6 : modulation_transposition
