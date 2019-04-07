@@ -38,11 +38,11 @@ then script: `preparation/berkeley_wordId_lexTable.py` <br/>
 output: {en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
  
 
-4. ConceptNet embeddings 
+4. **ConceptNet embeddings** 
 
 input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz) <br/>
-script: preparation/CNet_embeddings.py <br/>
-output: CNet_enfr_embeddings.p
+script: `preparation/CNet_embeddings.py` <br/>
+output: `pickle_res`/CNet_enfr_embeddings.p
 
 **Extract features**
 
