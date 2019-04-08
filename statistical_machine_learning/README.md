@@ -1,6 +1,6 @@
 ## Preparation work
  
-The procedures used to generate serialized large volume files (*.p files) are described below. 
+The procedures used to generate serialized large volume files (*.p files) under `pickle_res/` are described below. 
 <!-- upload all the *.p files in a zipped directory onto github -->
 
 1. **PoS tagging** 
