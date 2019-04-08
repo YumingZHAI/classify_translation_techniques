@@ -1,5 +1,7 @@
 ## Preparation work
  
+Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. 
+
 The procedures used to generate serialized large volume files (*.p files) under `pickle_res/` are described below. 
 <!-- upload all the *.p files in a zipped directory onto github -->
 
