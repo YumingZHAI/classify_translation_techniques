@@ -45,7 +45,12 @@ input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res`/CNet_enfr_embeddings.p
 
-5. **Constituency parsing**
+5. **Dictionary[sentence_ID]=line_index**
+
+script: `preparation/lineID_dico.py` <br/>
+output: `pickle_res`/line_parseId_dict.p 
+
+6. **Constituency parsing**
 
 
 
