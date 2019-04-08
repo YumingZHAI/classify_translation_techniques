@@ -1,6 +1,7 @@
 ## Preparation work
-
-Serialized large volume files (*.p files) are not uploaded here, the procedures used to generate them are described below. (=> or upload all the *.p files in a zipped directory)
+ 
+The procedures used to generate serialized large volume files (*.p files) are described below. 
+<!-- upload all the *.p files in a zipped directory onto github -->
 
 1. **PoS tagging** 
 
@@ -44,8 +45,15 @@ input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res`/CNet_enfr_embeddings.p
 
+5. **Constituency parsing**
+
+
+
+
 ## Extract features
 
 `cd classification/` <br/>
 e.g.: `python get-feature.py ../txt_res/1:1.txt` 
+
+## Train and evaluate classifiers by cross-validation 
 
