@@ -1,5 +1,7 @@
 # Automatically classifying translation processes 
 
+**The code and usage manual is being completed, please come back later.**
+
 Automatically classify translation processes from manually annotated examples, from an English-French parallel corpus of TED Talks. 
 
 This project is to reproduce the results reported in the paper: <br/>
