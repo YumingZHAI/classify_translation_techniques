@@ -2,9 +2,9 @@
 
 Automatically classify translation processes from manually annotated examples, from an English-French parallel corpus of TED Talks. 
 
-This project is to reproduce the results in the paper: <br/>
+This project is to reproduce the results reported in the paper: <br/>
 [Towards Recognizing Phrase Translation Processes: Experiments on English-French](https://yumingzhai.github.io/files/Cicling_2019.pdf) <br/>
-Yuming ZHAI, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat <br/>
+Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat <br/>
 *Preprint version in 20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019*
 
 **Dependencies needed:** 
