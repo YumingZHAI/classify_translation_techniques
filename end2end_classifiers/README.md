@@ -4,7 +4,8 @@ Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. F
 
 We conducted experiments with balanced binary classes dataset and five-classes dataset. 
 
-`dataset`/neural_2classequi_normalized.txt
+`dataset`/2class_balanced.csv, `dataset`/5classes.csv 
+
 
 
 
