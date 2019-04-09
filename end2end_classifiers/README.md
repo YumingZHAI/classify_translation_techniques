@@ -21,3 +21,12 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 3. **Transform dataset**
 
 `sh feed-forward/preprocess.sh`
+
+
+### questions:
+the code to build alignment matrix 
+what does adaptive pooling do 
+how character embeddings are obtained 
+
+### questions in code:
+parser.add_argument('-min_word_count', type=int, default=5)
