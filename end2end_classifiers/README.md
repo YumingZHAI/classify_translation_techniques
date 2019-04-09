@@ -23,10 +23,10 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 `sh feed-forward/preprocess.sh`
 
 
-### questions:
+<!-- ### questions:
 the code to build alignment matrix 
 what does adaptive pooling do 
 how character embeddings are obtained 
 
 ### questions in code:
-parser.add_argument('-min_word_count', type=int, default=5)
+parser.add_argument('-min_word_count', type=int, default=5) -->
