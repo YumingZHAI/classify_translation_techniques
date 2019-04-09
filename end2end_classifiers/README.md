@@ -11,12 +11,13 @@ We conducted experiments with balanced binary classes dataset and five-classes d
 
 2. **Pretrain fasttext word embeddings**
 
-Generate word embeddings from normalized corpus (3M words in English and French, ted talks) <br/> 
-`cd feed-forward` <br/> 
-`sh fasttext_word_representation.sh`
+Generate word embeddings from normalized corpus (3M words in English and French, corpus of Ted Talks) <br/> 
+`sh feed-forward/fasttext_word_representation.sh`
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. 
 
 `python feedforward/nwa/fasttext_embedding_tensor.py`
 
+3. **Transform dataset**
 
+`sh feed-forward/preprocess.sh`
