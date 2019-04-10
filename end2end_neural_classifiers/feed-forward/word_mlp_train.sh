@@ -3,14 +3,14 @@
 #python -c 'import torch;print("Pytorch version is "+torch.__version__)'
 #Pytorch version is 0.4.1
 
+input_dir="2class_balanced_ptfiles"
+# or input_dir = 5class_ptfiles
+
 model_dir="2class_balanced_models"
 # or model_dir="5class_models"
 
 result_dir="2class_balanced_preds_and_labels"
 # or result_dir="5class_preds_and_labels"
-
-input_dir="2class_balanced_ptfiles"
-# or input_dir = 5class_ptfiles
 
 rm -r ${model_dir}
 rm -r ${result_dir}
