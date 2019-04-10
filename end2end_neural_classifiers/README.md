@@ -18,15 +18,14 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 
 `python feedforward/nwa/fasttext_embedding_tensor.py`
 
+<!-- how character embeddings are obtained  -->
+
 3. **Save dataset to serialized files**
 
 `sh feed-forward/preprocess.sh`
 
+4. **Train different architectures**
 
-<!-- ### questions:
+<!-- ### questions on CNN architecture:
 the code to build alignment matrix 
 what does adaptive pooling do 
-how character embeddings are obtained 
-
-### questions in code:
-parser.add_argument('-min_word_count', type=int, default=5) -->
