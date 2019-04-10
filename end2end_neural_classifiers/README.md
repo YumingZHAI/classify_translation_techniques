@@ -24,7 +24,7 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 
 `sh feed-forward/preprocess.sh`
 
-4. **Train different architectures**
+## Train different architectures**
 
 <!-- ### questions on CNN architecture:
 the code to build alignment matrix 
