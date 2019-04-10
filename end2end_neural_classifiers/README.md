@@ -30,19 +30,24 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 
 ## Train different classifiers
 
-<!-- nwa/nwa.py  -->
-
 - word embedding + MLP: <br/>
 `sh feedforward/word_mlp_train.sh`    
 
+<!-- 
+when do 5-class clf instead of 2-class:
+change nwa/nwa.py: 
+
+
+-->
 
 
 <!-- ### questions on CNN architecture:
 the code to build alignment matrix 
 what does adaptive pooling do 
+masked_cross_entropy? 
 
 files not yet uploaded
 dataset/en-fr-corpus/fasttext-normalized/*  1.73G
-
-  -->
+my pickled files 
+-->
 
