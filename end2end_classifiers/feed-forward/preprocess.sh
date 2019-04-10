@@ -2,7 +2,7 @@
 
 # input files are produced by dataset/create-CV.py
 input_dir="cross_validation_2class_balanced"
-# or name_dir="cross_validation_5class"
+# or input_dir="cross_validation_5class"
 
 output_dir="2class_balanced_ptfiles"
 # or output_dir = 5class_ptfiles
