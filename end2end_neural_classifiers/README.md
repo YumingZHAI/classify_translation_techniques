@@ -6,23 +6,27 @@ We conducted experiments with balanced binary classes dataset and five-classes d
 
 1. **Prepare dataset**
 
-`dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
-`python dataset/create-CV.py` => `k-folds-normalized`/cross_validation dataset 
+input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
+script: `python dataset/create-CV.py` <br/>
+output: `k-folds-normalized`/cross_validation dataset (csv format)
 
 2. **Pretrain fasttext word embeddings**
 
 Generate word embeddings from normalized corpus (3M words in English and French, corpus of Ted Talks) <br/> 
-`sh feed-forward/fasttext_word_representation.sh`
+script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
+output position: `dataset/en-fr-corpus/fasttext-normalized/`
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. 
 
-`python feedforward/nwa/fasttext_embedding_tensor.py`
+script: `python feedforward/nwa/fasttext_embedding_tensor.py` <br/>
+output: predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
 
 <!-- how character embeddings are obtained  -->
 
 3. **Save dataset to serialized files**
 
-`sh feed-forward/preprocess.sh`
+script: `sh feed-forward/preprocess.sh` <br/>
+output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 
 ## Train different classifiers
 
