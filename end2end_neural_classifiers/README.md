@@ -22,7 +22,8 @@ output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, em
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
 
-`python cnn/extract_polyglot_embedding.py` (run this script under python 2.7)
+script: `python cnn/extract_polyglot_embedding.py` (run this script under python 2.7)  <br/>
+output: `dataset/polyglot_embeddings/`predefined_dicts.char.fr-en.pt, embedding_{src,tgt}.pt
 
 4. **Save dataset to serialized files**
 
