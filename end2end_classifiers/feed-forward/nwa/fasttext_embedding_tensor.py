@@ -1,6 +1,6 @@
 '''
 extract fasttext word embedding tensors from fasttext word embeddings and build the predefined dictionary for the data
-Python 3.5.5 :: Anaconda, Inc. 
+author: Pooyan Safari
 '''
 
 import numpy

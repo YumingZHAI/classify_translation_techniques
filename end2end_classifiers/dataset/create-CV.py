@@ -4,6 +4,8 @@ import os
 from sklearn.model_selection import StratifiedKFold
 from collections import Counter
 
+"""author: Yuming Zhai"""
+
 # turn csv format data set to five folds
 # read: 2class_balanced.csv or 5classes.csv
 

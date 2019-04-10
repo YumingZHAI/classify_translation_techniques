@@ -1,4 +1,6 @@
-''' Handling the data io '''
+''' Handling the data io 
+author: Pooyan Safari
+'''
 import argparse
 import torch
 import Constants
