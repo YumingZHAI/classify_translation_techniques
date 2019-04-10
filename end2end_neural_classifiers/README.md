@@ -41,14 +41,14 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 when do 5-class clf instead of 2-class:
 change nwa/nwa.py: 
 
-
 -->
 
 
 <!-- ### questions on CNN architecture:
 the code to build alignment matrix 
 what does adaptive pooling do 
-masked_cross_entropy? 
+what is masked_cross_entropy? 
+the forward function in encoders and classifiers <= train()
 
 files not yet uploaded
 dataset/en-fr-corpus/fasttext-normalized/*  1.73G
