@@ -2,20 +2,25 @@
 extract polyglot character embeddings from polyglot word embeddings
 author: Pooyan Safari
 '''
+
 import torch
 import pickle
 import numpy
 import nwa.Constants as Constants
+import sys
 
-word_embedding_src = '../../dataset/polyglot_embeddings/polyglot-en.pkl'
-word_embedding_tgt = '../../dataset/polyglot_embeddings/polyglot-fr.pkl'
-dict_path = '../../dataset/polyglot_embeddings/predefined_dicts.char.fr-en.pt'
-emb_tensor_src = '../../dataset/polyglot_embeddings/embedding_src.pt'
-emb_tensor_tgt = '../../dataset/polyglot_embeddings/embedding_tgt.pt'
+word_embedding_src = '../dataset/polyglot_embeddings/polyglot-en.pkl'
+word_embedding_tgt = '../dataset/polyglot_embeddings/polyglot-fr.pkl'
+dict_path = '../dataset/polyglot_embeddings/predefined_dicts.char.fr-en.pt'
+emb_tensor_src = '../dataset/polyglot_embeddings/embedding_src.pt'
+emb_tensor_tgt = '../dataset/polyglot_embeddings/embedding_tgt.pt'
 
 #read polyglot pickle files
 words_src, embeddings_src = pickle.load(open(word_embedding_src, 'rb'))
 words_tgt, embeddings_tgt = pickle.load(open(word_embedding_tgt, 'rb'))
+print(words_src)
+
+sys.exit(1)
 
 #extract character embeddings
 vectors_src = {}

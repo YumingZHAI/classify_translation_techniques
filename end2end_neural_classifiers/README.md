@@ -22,7 +22,7 @@ output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, em
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
 
-<!-- how character embeddings are obtained  -->
+`python cnn/extract_polyglot_embedding.py` (run this script under python 2.7)
 
 4. **Save dataset to serialized files**
 
@@ -31,10 +31,10 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 
 ## Train different classifiers
 
-- word embedding + MLP classifier: <br/>
+- word embedding based + MLP classifier: <br/>
 `sh feedforward/word_mlp_train.sh`    
 
-- character embedding, word alignment matrix, CNN classifier 
+- character embedding based + word alignment matrix + CNN classifier 
 
 <!-- 
 when do 5-class clf instead of 2-class:
@@ -52,5 +52,6 @@ masked_cross_entropy?
 files not yet uploaded
 dataset/en-fr-corpus/fasttext-normalized/*  1.73G
 my pickled files 
+polyglot embeddings 
 -->
 
