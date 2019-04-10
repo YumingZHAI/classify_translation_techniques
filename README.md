@@ -11,6 +11,8 @@ Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat 
 
 **Dependencies needed:** 
 
+- Python version 3.0 or higher
+
 - 'wordfreq', a Python 3 library, it can tokenize multilingual
 text consistently: https://pypi.org/project/wordfreq/
 
