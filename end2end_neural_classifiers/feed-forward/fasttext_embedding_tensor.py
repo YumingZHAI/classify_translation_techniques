@@ -1,18 +1,17 @@
 '''
 extract fasttext word embedding tensors from fasttext word embeddings and build the predefined dictionary for the data
-author: Pooyan Safari
+Python 3.5.5 :: Anaconda, Inc. 
 '''
 
 import numpy
 import torch
-import pdb
-import Constants
+import nwa.Constants as Constants
 
-src_emb_txt = '../../dataset/en-fr-corpus/fasttext-normalized/english-normalized.vec'
-tgt_emb_txt = '../../dataset/en-fr-corpus/fasttext-normalized/french-normalized.vec'
-dict_path = '../../dataset/en-fr-corpus/fasttext-normalized/predefined_dicts.fr-en.pt'
-src_emb_tensor = '../../dataset/en-fr-corpus/fasttext-normalized/embedding_en.pt'
-tgt_emb_tensor = '../../dataset/en-fr-corpus/fasttext-normalized/embedding_fr.pt'
+src_emb_txt = '../dataset/en-fr-corpus/fasttext-normalized/english-normalized.vec'
+tgt_emb_txt = '../dataset/en-fr-corpus/fasttext-normalized/french-normalized.vec'
+dict_path = '../dataset/en-fr-corpus/fasttext-normalized/predefined_dicts.fr-en.pt'
+src_emb_tensor = '../dataset/en-fr-corpus/fasttext-normalized/embedding_en.pt'
+tgt_emb_tensor = '../dataset/en-fr-corpus/fasttext-normalized/embedding_fr.pt'
 
 with open(src_emb_txt, 'r') as src_txt, open(tgt_emb_txt, 'r') as tgt_txt:
     next(src_txt)

@@ -18,8 +18,8 @@ output position: `dataset/en-fr-corpus/fasttext-normalized/`
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. 
 
-script: `python feedforward/nwa/fasttext_embedding_tensor.py` <br/>     <!-- should be moved to feed-forward/  -->
-output: predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
+script: `python feedforward/fasttext_embedding_tensor.py` <br/>     
+output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
 
 <!-- how character embeddings are obtained  -->
 
@@ -30,8 +30,10 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 
 ## Train different classifiers
 
-- word embedding + MLP: <br/>
+- word embedding + MLP classifier: <br/>
 `sh feedforward/word_mlp_train.sh`    
+
+- character embedding, word alignment matrix, CNN classifier 
 
 <!-- 
 when do 5-class clf instead of 2-class:
