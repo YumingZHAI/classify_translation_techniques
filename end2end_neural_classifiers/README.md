@@ -16,8 +16,8 @@ Generate word embeddings from normalized corpus (3M words in English and French,
 script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
 output position: `dataset/en-fr-corpus/fasttext-normalized/`
 
-Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <!-- <br/>      -->
-script: `python feedforward/fasttext_embedding_tensor.py` <!-- <br/>      -->
+Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/>     
+script: `python feedforward/fasttext_embedding_tensor.py` <br/>     
 output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
 
 <!-- how character embeddings are obtained  -->
