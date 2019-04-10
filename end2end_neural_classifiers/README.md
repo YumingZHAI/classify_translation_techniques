@@ -26,6 +26,15 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 
 ## Train different classifiers
 
+- word embedding + MLP: <br/>
+`sh feedforward/word_mlp_train.sh`
+
 <!-- ### questions on CNN architecture:
 the code to build alignment matrix 
 what does adaptive pooling do 
+
+files not yet uploaded
+dataset/en-fr-corpus/fasttext-normalized/*  1.73G
+
+  -->
+
