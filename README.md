@@ -15,7 +15,7 @@ Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat 
 
 - Pytorch version 0.4.1 
 
-- fasttext version 0.2.0 
+- FastText version 0.2.0 
 
 - 'wordfreq', a Python 3 library, it can tokenize multilingual
 text consistently: https://pypi.org/project/wordfreq/
