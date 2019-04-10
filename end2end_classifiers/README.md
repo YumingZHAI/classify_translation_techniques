@@ -18,7 +18,7 @@ Extract fasttext word embedding tensors from embeddings text file and build the 
 
 `python feedforward/nwa/fasttext_embedding_tensor.py`
 
-3. **Transform dataset**
+3. **Save dataset to serialized files**
 
 `sh feed-forward/preprocess.sh`
 
