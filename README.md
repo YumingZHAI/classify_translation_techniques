@@ -12,7 +12,7 @@ Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat 
 
 - Classification automatique des procédés de traduction <br/>
 Yuming Zhai, Gabriel Illouz and Anne Vilnat <br/>
-*26ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN-RECITAL), 2019*
+*26ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN-RECITAL), 2019 (to appear)*
 
 **Dependencies needed:** 
 
