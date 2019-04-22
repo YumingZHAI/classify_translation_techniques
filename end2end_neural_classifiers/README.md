@@ -35,7 +35,7 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 - word embedding based + MLP classifier: <br/>
 `sh feedforward/word_mlp_train.sh`    
 
-- character embedding based + word alignment matrix + CNN classifier 
+- character embedding based + phrase alignment matrix + CNN classifier 
 
 <!-- 
 when do 5-class clf instead of 2-class:
