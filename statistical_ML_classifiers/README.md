@@ -37,7 +37,7 @@ input: an English-French parallel corpus, composed of TED Talks and a filtered p
 <!-- filter Paracrawl corpus, keep the parallel sentences having at least 10 words at each side 
 original corpus: 27M, after this filtering: 19M, we randomly take 2M lines to combine with TED corpus => 2 163 092 lines 
 finally clean the combined corpus PC2M_ted.{e,f} by a moses's script: 1 806 680 lines -->
-corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` <br/> (this corpus will be uploaded)
+corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` (this corpus will be uploaded) <br/> 
 command: `./berkeleyaligner_unsupervised/align example.conf` <br/>
 time used: 6h  <br/>
 main output: `berkeleyaligner_unsupervised/output/: 1.lexweights, 2.lexweights, training.align` 
