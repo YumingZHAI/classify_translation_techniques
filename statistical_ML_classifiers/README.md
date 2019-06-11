@@ -29,7 +29,9 @@ output: `lemmatisation/fr_lemma.txt`  <br/>
 
 Generate serialized file: `lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
 
-3. **Berkeley unsupervised word aligner**
+3. **Automatic word alignment**
+
+tool: [Berkeley unsupervised word aligner](https://code.google.com/archive/p/berkeleyaligner/downloads) <br/>
 
 input: an English-French parallel corpus, composed of TED Talks and a filtered part of Paracrawl corpus (in total 1.8M parallel sentence pairs and 41M English tokens)  <br/>
 <!-- filter Paracrawl corpus, keep the parallel sentences having at least 10 words at each side 
