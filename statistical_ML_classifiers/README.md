@@ -50,12 +50,12 @@ output: `pickle_res/{en,fr}_word_id.p, {en,fr}_entropy.p, berkeley_{forward,reve
 
 input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz) <br/>
 script: `preparation/CNet_embeddings.py` <br/>
-output: `pickle_res`/CNet_enfr_embeddings.p
+output: `pickle_res/CNet_enfr_embeddings.p`
 
 5. **Dictionary[sentence_ID]=line_index**
 
 script: `preparation/lineID_dico.py` <br/>
-output: `pickle_res`/line_parseId_dict.p 
+output: `pickle_res/line_parseId_dict.p`  
 
 6. **Constituency parsing**
 
