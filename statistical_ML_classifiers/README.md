@@ -59,10 +59,12 @@ output: `pickle_res/line_parseId_dict.p`
 
 6. **Syntactic parsing**
 
-Dependency parsing: <br/>
+English and French dependency and constituency parsing: <br/>
 input: `txt_res/{en,fr}_noID.txt`, `corenlp_properties/{en_parsing, fr_parsing}.properties` <br/>
-command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
+command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_parsing, fr_parsing}.properties` <br/>
 
+We can also use [Bonsai parser](http://alpage.inria.fr/statgram/frdep/fr_stat_dep_parsing.html) for French syntactic parsing, which is more rapid. <br/>
+command: `sh bonsai_v3.2/bin/bonsai_bky_parse_via_clust.sh -f const -n fr_noID.txt > fr_noID_const_bonsai.txt`
 
 
 ## Extract features
