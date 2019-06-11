@@ -27,7 +27,7 @@ input: `txt_res/fr_noID.txt`  <br/>
 then script: `lemmatisation/fr-lemmatize.py` <br/>
 output: `lemmatisation/fr_lemma.txt`  <br/>
 
-`lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
+Generate serialized file: `lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
 
 3. **Berkeley unsupervised word aligner**
 
