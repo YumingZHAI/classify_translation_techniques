@@ -16,18 +16,18 @@ output: `txt_res/{en,fr}.txt.conll`
 
 EN: <br/>
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
-input: `txt_res`/en.txt, `corenlp_properties`/en_pos_lemma.properties <br/>
+input: `txt_res/en.txt`, `corenlp_properties/en_pos_lemma.properties` <br/>
 command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props en_pos_lemma.properties` <br/>
-then script: `lemmatisation`/extract-lemma-corenlp.py <br/>
-output: `lemmatisation`/ENlemme_from_corenlp.txt <br/>
+then script `lemmatisation/extract-lemma-corenlp.py` <br/>
+output: `lemmatisation/ENlemme_from_corenlp.txt` <br/>
 
 FR: <br/>
-tool: [tree-tagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) (because stanford corenlp doesn't provide French lemmatization yet) <br/>
-input: `txt_res`/fr_noID.txt  <br/>
-script: `lemmatisation`/fr-lemmatize.py <br/>
-output: `lemmatisation`/fr_lemma.txt  <br/>
+tool: [tree-tagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) (because Stanford Corenlp doesn't provide French lemmatization yet) <br/>
+input: `txt_res/fr_noID.txt`  <br/>
+then script: `lemmatisation/fr-lemmatize.py` <br/>
+output: `lemmatisation/fr_lemma.txt`  <br/>
 
-`lemmatisation`/pickle_lemma.py => `pickle_res`/{eng,fr}_lemma.p <br/>
+`lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
 
 3. **Berkeley unsupervised word aligner**
 
