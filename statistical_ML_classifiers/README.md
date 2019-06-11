@@ -51,7 +51,7 @@ input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res/CNet_enfr_embeddings.p`
 
-5. **Dictionary[sentence_ID]=line_index**
+5. **Correspondence between sentence_ID (in corpus) and line_index**
 
 Useful for finding corresponding parsing information of each sentence. <br/> 
 script: `preparation/lineID_dico.py` <br/>
@@ -68,6 +68,7 @@ command: <br/>
 `sh bonsai_v3.2/bin/bonsai_bky_parse_via_clust.sh -f const -n fr_noID.txt > fr_noID_const_bonsai.txt`  <br/>
 `sh bonsai_v3.2/bin/bonsai_bky_parse_via_clust.sh -f ldep -n fr_noID.txt > fr_noID_dep_bonsai.txt` 
 
+In this work for the French corpus, we use Stanford Corenlp for dependency parsing to share the same set of relation tags with English; and Bonsai for constituency parsing because it's more fast. However, for   
 
 ## Extract features
 
