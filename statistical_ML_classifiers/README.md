@@ -2,15 +2,15 @@
  
 Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. 
 
-The procedures used to generate serialized large volume files (*.p files) under `pickle_res/` are described below. 
+The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below. 
 <!-- upload all the *.p files in a zipped directory onto github -->
 
 1. **PoS tagging** 
 
 tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
-input: `txt_res`/{en,fr}.txt, `corenlp_properties`/{en_pos_lemma, fr_pos}.properties <br/>
+input: `txt_res/{en,fr}.txt`, `corenlp_properties/{en_pos_lemma, fr_pos}.properties` <br/>
 command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
-output: `txt_res`/{en,fr}.txt.conll 
+output: `txt_res/{en,fr}.txt.conll` 
 
 2. **Lemmatisation** 
 
