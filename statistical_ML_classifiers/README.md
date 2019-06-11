@@ -48,7 +48,7 @@ output: `pickle_res/{en,fr}_word_id.p, {en,fr}_entropy.p, berkeley_{forward,reve
 
 4. **ConceptNet embeddings** 
 
-input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz) <br/>
+input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz), ([documentation](https://github.com/commonsense/conceptnet-numberbatch)) <br/>
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res/CNet_enfr_embeddings.p`
 
