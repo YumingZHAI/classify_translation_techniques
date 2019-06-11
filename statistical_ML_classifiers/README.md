@@ -2,7 +2,7 @@
  
 Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. 
 
-The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below. 
+The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below, you can download them [here](https://www.dropbox.com/s/g2bzit2o6lqabpv/pickle_res.zip?dl=0). 
 <!-- upload all the *.p files in a zipped directory onto github -->
 
 1. **PoS tagging** 
@@ -15,7 +15,7 @@ output: `txt_res/{en,fr}.txt.conll`
 2. **Lemmatisation** 
 
 EN: <br/>
-tool: [stanford-corenlp-full-2018-10-05](https://stanfordnlp.github.io/CoreNLP/download.html) <br/>
+tool: stanford-corenlp-full-2018-10-05 <br/>
 input: `txt_res/en.txt`, `corenlp_properties/en_pos_lemma.properties` <br/>
 command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props en_pos_lemma.properties` <br/>
 then script `lemmatisation/extract-lemma-corenlp.py` <br/>
@@ -45,8 +45,7 @@ main output: `berkeleyaligner_unsupervised/output/: 1.lexweights, 2.lexweights, 
 Generate serialized file: `preparation/berkeley_wordId_lexTable.py` <br/>
 output: `pickle_res/{en,fr}_word_id.p, {en,fr}_entropy.p, berkeley_{forward,reverse}_table.p` <br/>
  
-
-4. **ConceptNet embeddings** 
+4. **ConceptNet Numberbatch embeddings** 
 
 input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz) ([documentation](https://github.com/commonsense/conceptnet-numberbatch)) <br/>
 script: `preparation/CNet_embeddings.py` <br/>
@@ -54,11 +53,15 @@ output: `pickle_res/CNet_enfr_embeddings.p`
 
 5. **Dictionary[sentence_ID]=line_index**
 
+Useful for finding corresponding parsing information of each sentence. <br/> 
 script: `preparation/lineID_dico.py` <br/>
 output: `pickle_res/line_parseId_dict.p`  
 
-6. **Constituency parsing**
+6. **Syntactic parsing**
 
+Dependency parsing: <br/>
+input: `txt_res/{en,fr}_noID.txt`, `corenlp_properties/{en_parsing, fr_parsing}.properties` <br/>
+command: `stanford-corenlp-full-2018-10-05/corenlp.sh -props {en_pos_lemma, fr_pos}.properties` <br/>
 
 
 
