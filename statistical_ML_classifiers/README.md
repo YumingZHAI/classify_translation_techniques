@@ -31,14 +31,17 @@ Generate serialized file: `lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr
 
 3. **Berkeley unsupervised word aligner**
 
-input: an English-French parallel corpus composed of TED Talks and a part of Paracrawl corpus (in total 1.8M parallel sentence pairs and 41M English tokens)  <br/>
-corpus position: `berkeleyaligner_unsupervised/example/train` <br/> 
-command: `berkeleyaligner_unsupervised/align example.conf` <br/>
+input: an English-French parallel corpus composed of TED Talks and a filtered part of Paracrawl corpus (in total 1.8M parallel sentence pairs and 41M English tokens)  <br/>
+<!-- filter Paracrawl corpus, keep the parallel sentences having at least 10 words at each side 
+original corpus: 27M, after this filtering: 19M, we randomly take 2M lines to combine with TED corpus => 2 163 092 lines 
+finally clean the combined corpus PC2M_ted.{e,f} by a moses's script: 1 806 680 lines -->
+corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` <br/> 
+command: `./berkeleyaligner_unsupervised/align example.conf` <br/>
 time used: 6h  <br/>
-output: 1.lexweights, 2.lexweights, training.align 
+output: `berkeleyaligner_unsupervised/output/, 1.lexweights, 2.lexweights, training.align` 
 
 then script: `preparation/berkeley_wordId_lexTable.py` <br/>
-output: `pickle_res`/{en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p <br/>
+output: `pickle_res/{en,fr}_word_id.p, {en,fr}\_entropy.p, berkeley\_{forward,reverse}_table.p` <br/>
  
 
 4. **ConceptNet embeddings** 
