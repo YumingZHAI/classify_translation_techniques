@@ -72,8 +72,7 @@ In this work for the French corpus, we use *Stanford Corenlp* for dependency par
 
 Write each sentence's syntactic parsing information in a separate file: `python txt_res/parsing_oneSentence_perFile.py`
 
-
-
+Separate English and French constituency and dependency information in separate files: `python txt_res/extract_cons_dep.py`
 
 ## Extract features
 
