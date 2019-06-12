@@ -1,6 +1,6 @@
 ## Preparation work
  
-Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. 
+Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. The dataset present here is ready to be used.  
 
 The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below, you can download them [here](https://www.dropbox.com/s/g2bzit2o6lqabpv/pickle_res.zip?dl=0). 
 <!-- upload all the *.p files in a zipped directory onto github -->
@@ -37,7 +37,7 @@ input: an English-French parallel corpus, composed of TED Talks and a filtered p
 <!-- filter Paracrawl corpus, keep the parallel sentences having at least 10 words at each side 
 original corpus: 27M, after this filtering: 19M, we randomly take 2M lines to combine with TED corpus => 2 163 092 lines 
 finally clean the combined corpus PC2M_ted.{e,f} by a moses's script: 1 806 680 lines -->
-corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` (this corpus will be uploaded) <br/> 
+corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` **(this corpus will be uploaded)** <br/> 
 command: `./berkeleyaligner_unsupervised/align example.conf` <br/>
 time used: 6h  <br/>
 main output: `berkeleyaligner_unsupervised/output/: 1.lexweights, 2.lexweights, training.align` 
@@ -53,7 +53,7 @@ output: `pickle_res/CNet_enfr_embeddings.p`
 
 5. **Correspondence between sentence_ID (in corpus) and line_index**
 
-Useful for finding corresponding parsing information of each sentence. <br/> 
+Used to find corresponding parsing information of each sentence. <br/> 
 script: `preparation/lineID_dico.py` <br/>
 output: `pickle_res/line_parseId_dict.p`  
 
