@@ -54,11 +54,12 @@ input: [multilingual-numberbatch-17.06.txt](https://conceptnet.s3.amazonaws.com/
 script: `preparation/CNet_embeddings.py` <br/>
 output: `pickle_res/CNet_enfr_embeddings.p`
 
-5. **Correspondence between sentence_ID (in corpus) and line_index**
+5. **ConceptNet assertions**
 
-Used to find corresponding parsing information of each sentence. <br/> 
-script: `preparation/lineID_dico.py` <br/>
-output: `pickle_res/line_parseId_dict.p`  
+input: [conceptnet-assertions-5.6.0.csv](https://github.com/commonsense/conceptnet5/wiki/Downloads)  <br/>
+This is a multilingual resource, we used regex to extract en-en, en-fr, fr-fr assertions, which you can download [here](https://www.dropbox.com/s/x6sybtkus6gg37o/conceptNet-assertions.zip?dl=0). 
+
+generate serialized files: `preparation/cnet_assertions.py => {en_en, en_fr, fr_fr}_assert_{direct, reverse}.p` 
 
 6. **Syntactic parsing**
 
@@ -80,12 +81,11 @@ Separate English and French constituency and dependency information in separate 
 Transform English and French constituency parsing information, to one word per line format and add word index: <br/>
 `python txt_res/transform_cons.py`
 
-7. **ConceptNet assertions**
+7. **Correspondence between sentence_ID (in corpus) and line_index**
 
-input: [conceptnet-assertions-5.6.0.csv](https://github.com/commonsense/conceptnet5/wiki/Downloads)  <br/>
-This is a multilingual resource, we used regex to extract en-en, en-fr, fr-fr assertions, which you can download [here](https://www.dropbox.com/s/x6sybtkus6gg37o/conceptNet-assertions.zip?dl=0). 
-
-generate serialized files: `preparation/cnet_assertions.py => {en_en, en_fr, fr_fr}_assert_{direct, reverse}.p`  
+Used to find corresponding parsing information of each sentence. <br/> 
+script: `preparation/lineID_dico.py` <br/>
+output: `pickle_res/line_parseId_dict.p`  
 
 ## Manual alignment information 
 
