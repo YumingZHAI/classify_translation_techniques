@@ -76,6 +76,12 @@ Separate English and French constituency and dependency information in separate 
 
 Transform English and French constituency parsing information, to one word per line format and add word index: `python txt_res/transform_cons.py`
 
+7. 
+
+## Manual alignment information 
+
+`txt_res/alignment.txt`: this file contains manual word alignment and translation process category information 
+
 ## Extract features
 
 `cd classification/` <br/>
