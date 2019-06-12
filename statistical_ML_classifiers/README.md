@@ -74,6 +74,8 @@ Write each sentence's syntactic parsing information in a separate file: `python 
 
 Separate English and French constituency and dependency information in separate files: `python txt_res/extract_cons_dep.py`
 
+Transform English and French constituency parsing information, to one word per line format and add word index: `python txt_res/transform_cons.py`
+
 ## Extract features
 
 `cd classification/` <br/>
