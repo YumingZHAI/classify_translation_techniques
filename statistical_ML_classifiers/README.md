@@ -80,7 +80,7 @@ Transform English and French constituency parsing information, to one word per l
 
 input: [conceptnet-assertions-5.6.0.csv](https://github.com/commonsense/conceptnet5/wiki/Downloads)
 
-
+This is a multilingual resource, I used regex to extract en-en, en-fr, fr-fr assertions, which you can download [here](https://www.dropbox.com/s/x6sybtkus6gg37o/conceptNet-assertions.zip?dl=0).  
 
 ## Manual alignment information 
 
