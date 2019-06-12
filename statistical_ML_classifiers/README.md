@@ -68,9 +68,7 @@ command: <br/>
 `sh bonsai_v3.2/bin/bonsai_bky_parse_via_clust.sh -f const -n fr_noID.txt > fr_noID_const_bonsai.txt`  <br/>
 `sh bonsai_v3.2/bin/bonsai_bky_parse_via_clust.sh -f ldep -n fr_noID.txt > fr_noID_dep_bonsai.txt` 
 
-In this work for the French corpus, we use *Stanford Corenlp* for dependency parsing to share the same set of relation tags with English; and *Bonsai* for constituency parsing because it's faster. 
-
-However, it seems that *Bonsai* has problem parsing very long sentences, so we completed the result with the result of *Stanford Corenlp*. 
+In this work for the French corpus, we use *Stanford Corenlp* for dependency parsing to share the same set of relation tags with English; and *Bonsai* for constituency parsing because it's faster. However, it seems that *Bonsai* has problem in parsing very long input (one entry with several sentences), so we completed its parsing result using *Stanford Corenlp*. 
 
 ## Extract features
 
