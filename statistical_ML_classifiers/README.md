@@ -70,6 +70,10 @@ command: <br/>
 
 In this work for the French corpus, we use *Stanford Corenlp* for dependency parsing to share the same set of relation tags with English; and *Bonsai* for constituency parsing because it's faster. However, it seems that *Bonsai* has problem in parsing very long input (we had one entry containing several sentences inside), so we completed its parsing result using *Stanford Corenlp*. 
 
+Write each sentence's syntactic parsing information in a separate file: `python txt_res/parsing_oneSentence_perFile.py`
+
+
+
 
 ## Extract features
 
