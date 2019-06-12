@@ -38,8 +38,11 @@ input: an English-French parallel corpus, composed of TED Talks and a filtered p
 original corpus: 27M, after this filtering: 19M, we randomly take 2M lines to combine with TED corpus => 2 163 092 lines 
 finally clean the combined corpus PC2M_ted.{e,f} by a moses's script: 1 806 680 lines -->
 corpus position: `berkeleyaligner_unsupervised/example/train/corpus.{en,fr}` **(this corpus will be uploaded)** <br/> 
+put these two lines in the file `align`: <br/>
+OPTS="-server -mx10g -ea"<br/>
+java $OPTS -jar berkeleyaligner.jar ++$CONF $@ -saveLexicalWeights true <br/>
 command: `./berkeleyaligner_unsupervised/align example.conf` <br/>
-time used: 6h  <br/>
+time used: 6h <br/>
 main output: `berkeleyaligner_unsupervised/output/: 1.lexweights, 2.lexweights, training.align` 
 
 generate serialized file: `preparation/berkeley_wordId_lexTable.py` <br/>
