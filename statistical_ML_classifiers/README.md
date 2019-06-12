@@ -76,7 +76,11 @@ Separate English and French constituency and dependency information in separate 
 
 Transform English and French constituency parsing information, to one word per line format and add word index: `python txt_res/transform_cons.py`
 
-7. 
+7. **ConceptNet assertions**
+
+input: [conceptnet-assertions-5.6.0.csv](https://github.com/commonsense/conceptnet5/wiki/Downloads)
+
+
 
 ## Manual alignment information 
 
