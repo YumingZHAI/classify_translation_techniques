@@ -27,7 +27,7 @@ input: `txt_res/fr_noID.txt`  <br/>
 then script: `lemmatisation/fr-lemmatize.py` <br/>
 output: `lemmatisation/fr_lemma.txt`  <br/>
 
-Generate serialized file: `lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
+generate serialized file: `lemmatisation/pickle_lemma.py` => `pickle_res/{eng,fr}_lemma.p` <br/>
 
 3. **Automatic word alignment**
 
@@ -42,7 +42,7 @@ command: `./berkeleyaligner_unsupervised/align example.conf` <br/>
 time used: 6h  <br/>
 main output: `berkeleyaligner_unsupervised/output/: 1.lexweights, 2.lexweights, training.align` 
 
-Generate serialized file: `preparation/berkeley_wordId_lexTable.py` <br/>
+generate serialized file: `preparation/berkeley_wordId_lexTable.py` <br/>
 output: `pickle_res/{en,fr}_word_id.p, {en,fr}_entropy.p, berkeley_{forward,reverse}_table.p` <br/>
  
 4. **ConceptNet Numberbatch embeddings** 
