@@ -70,7 +70,7 @@ command: <br/>
 
 In this work for the French corpus, we use *Stanford Corenlp* for dependency parsing to share the same set of relation tags with English; and *Bonsai* for constituency parsing because it's faster. 
 
-However, it seems that Bonsai has problem parsing very long sentences, so we completed the result with the result of *Stanford Corenlp*. 
+However, it seems that *Bonsai* has problem parsing very long sentences, so we completed the result with the result of *Stanford Corenlp*. 
 
 ## Extract features
 
