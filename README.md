@@ -8,7 +8,7 @@ This project provides the code and dataset for these two papers:
 
 - [Towards Recognizing Phrase Translation Processes: Experiments on English-French](https://arxiv.org/abs/1904.12213) <br/>
 Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat <br/>
-*20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019 (preprint version)*
+*20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLING), 2019 (preprint version)*
 
 - [Classification automatique des procédés de traduction](https://hal.archives-ouvertes.fr/hal-02265644/document) <br/>
 Yuming Zhai, Gabriel Illouz and Anne Vilnat <br/>
