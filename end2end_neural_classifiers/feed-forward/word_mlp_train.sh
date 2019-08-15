@@ -21,7 +21,7 @@ mkdir ${result_dir}
 
 for i in 1 2 3 4 5
 do
-    CUDA_VISIBLE_DEVICES=0
+    # CUDA_VISIBLE_DEVICES=0   remove this to run on CPU
     python -u ./nwa/nwa.py \
            -data ../dataset/k-folds-normalized/${input_dir}/fold${i}.multidata.en-fr.pt \
            -save_path ./${model_dir}/models \
