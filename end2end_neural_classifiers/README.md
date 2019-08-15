@@ -24,8 +24,9 @@ output: `dataset/en-fr-corpus/fasttext-normalized`/{english,french}-normalized.{
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
 script: `python fasttext_embedding_tensor.py` <br/> 
-output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt <br/>
-        `dataset/en-fr-corpus/fasttext-normalized/`embedding_{en,fr}.pt
+output: <br/>
+`dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt <br/>
+`dataset/en-fr-corpus/fasttext-normalized/`embedding_{en,fr}.pt
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
 
