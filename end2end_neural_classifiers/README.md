@@ -1,7 +1,7 @@
 ## Preparation work
  
-Preprocessing steps for corpus: lowercasing and correcting minor spelling errors.
-We did this correction according to a list of errors noted down by annotators, thus we keep the original TED Talks corpus intact). 
+Corpus preprocessing steps: lowercasing and correcting minor spelling errors.
+We did this correction according to a list of errors noted down by annotators, thus we can keep the original TED Talks corpus intact. 
 
 For end2end neural architectures, we also normalized the clitic forms to complete words (e.g. 're -> are), and normalized digits to their letter form (e.g. 42 -> four two (not forty-two)).
 
