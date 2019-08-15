@@ -23,8 +23,9 @@ output: `dataset/en-fr-corpus/fasttext-normalized`/{english,french}-normalized.{
 (Our corpus and model are not loaded here because of the big size.) <!-- ours: normalized corpus (3M words in English and French, corpus of TED Talks) <br/>  -->
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
-script: `python feedforward/fasttext_embedding_tensor.py` <br/> 
-output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
+script: `python fasttext_embedding_tensor.py` <br/> 
+output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt <br/>
+        `dataset/en-fr-corpus/fasttext-normalized/`embedding_{en,fr}.pt
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
 
@@ -39,7 +40,7 @@ output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 ## Train different classifiers
 
 - word embedding based + MLP classifier: <br/>
-`sh feedforward/word_mlp_train.sh`    
+`sh feedforward/word_mlp_train.sh`
 
 - character embedding based + phrase alignment matrix + CNN classifier 
 
