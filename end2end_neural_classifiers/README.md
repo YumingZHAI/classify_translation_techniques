@@ -37,10 +37,12 @@ output: <br/>
 `dataset/polyglot_embeddings/`embedding_{src,tgt}.pt <br/>
 (You should run the script to generate your own copy.)
 
-4. **Save dataset to serialized files**
+4. **Save preprocessed dataset to serialized files**
 
-script: `sh feed-forward/preprocess.sh` <br/>
-output: dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
+script: `sh preprocess.sh` <br/>
+output: <br/>
+`dataset/k-folds-normalized/`2class_balanced_ptfiles/fold{1-5}.multidata.en-fr.pt <br/>
+`dataset/k-folds-normalized/`5class_ptfiles/fold{1-5}.multidata.en-fr.pt
 
 ## Train different classifiers
 
