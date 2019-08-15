@@ -10,6 +10,7 @@ We conducted experiments with a balanced dataset of binary classes and a dataset
 1. **Split dataset to five folds (already supplied here)**
 
 input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
+`cd dataset/` <br/> 
 script: `python dataset/create-CV.py` <br/>
 output: `dataset/k-folds-normalized/cross_validation_2class_balanced/` or `cross_validation_5class/`
 
