@@ -11,7 +11,7 @@ We conducted experiments with a balanced dataset of binary classes and a dataset
 
 input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
 script: `python dataset/create-CV.py` <br/>
-output: `dataset/k-folds-normalized`/cross_validation_2class_balanced/ or cross_validation_5class/
+output: `dataset/k-folds-normalized/cross_validation_2class_balanced/` or `cross_validation_5class/`
 
 2. **Pretrain FastText word embeddings**
 
@@ -41,8 +41,8 @@ output: <br/>
 
 script: `sh preprocess.sh` (use the script `preprocess.py`) <br/>
 output: <br/>
-`dataset/k-folds-normalized/`2class_balanced_ptfiles/fold{1-5}.multidata.en-fr.pt <br/>
-`dataset/k-folds-normalized/`5class_ptfiles/fold{1-5}.multidata.en-fr.pt <br/>
+`dataset/k-folds-normalized/2class_balanced_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
+`dataset/k-folds-normalized/5class_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
 (This script reads five folds of training and test data, convert strings to word indices according to the 
 word dictionary generated before. 
 And serialize both the bilingual dictionary and processed training, test data. 
