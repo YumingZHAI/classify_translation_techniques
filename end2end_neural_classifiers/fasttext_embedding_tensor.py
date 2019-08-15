@@ -33,7 +33,7 @@ with open(src_emb_txt, 'r') as src_txt, open(tgt_emb_txt, 'r') as tgt_txt:
 src_word2idx = {}
 tgt_word2idx = {}
 # build predefined dictionary
-# PAD=0<blank>, UNK=1, BOS=2<s>, EOS=3</s> and also whitespace character to the dictionary take character embedding from already trained models
+# PAD=0<blank>, UNK=1, BOS=2<s>, EOS=3</s> 
 src_word2idx[Constants.BOS_WORD] = Constants.BOS
 src_word2idx[Constants.EOS_WORD] = Constants.EOS
 src_word2idx[Constants.PAD_WORD] = Constants.PAD
@@ -52,7 +52,7 @@ for w in tgt_word2emb:
 
 predefined_dicts = {'dict': {'src': src_word2idx, 'tgt': tgt_word2idx}}
 # build pytorch tensor for embeddings
-# add PAD=0, UNK=1, BOS=2<s>, EOS=3</s> and also whitespace character to embedding matrix
+# add PAD=0, UNK=1, BOS=2<s>, EOS=3</s> 
 src_embedding_tensor = numpy.zeros((len(src_word2idx),src_EOS_emb.shape[0]))   # vocabulary size, embedding dimension 
 tgt_embedding_tensor = numpy.zeros((len(tgt_word2idx),tgt_EOS_emb.shape[0]))
 for w in src_word2emb:
