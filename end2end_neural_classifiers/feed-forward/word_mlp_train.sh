@@ -3,6 +3,7 @@
 #python -c 'import torch;print("Pytorch version is "+torch.__version__)'
 #Pytorch version is 0.4.1
 
+# You change change here according to the dataset 
 input_dir="2class_balanced_ptfiles"
 # or input_dir = 5class_ptfiles
 
