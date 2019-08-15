@@ -93,6 +93,8 @@ output: `pickle_res/line_parseId_dict.p`
 
 ## Extract features
 
+<!-- 从这里继续 -->
+
 `cd classification/` <br/>
 e.g.: `python get-feature.py ../txt_res/1:1.txt` 
 

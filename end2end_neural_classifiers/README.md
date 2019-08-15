@@ -1,8 +1,11 @@
 ## Preparation work
  
-Preprocessing steps for corpus: lowercasing, correcting minor spelling errors. For end2end neural architectures, we also normalized the clitic forms to complete words (e.g. 're -> are), and normalized digits to letter form (e.g. 42 -> four two).
+Preprocessing steps for corpus: lowercasing and correcting minor spelling errors.
+We did this correction according to a list of errors noted down by annotators, thus we keep the original TED Talks corpus intact). 
 
-We conducted experiments with balanced binary classes dataset and five-classes dataset. 
+For end2end neural architectures, we also normalized the clitic forms to complete words (e.g. 're -> are), and normalized digits to their letter form (e.g. 42 -> four two (not forty-two)).
+
+We conducted experiments with a balanced dataset of binary classes and a dataset of five classes. 
 
 1. **Prepare dataset**
 
@@ -16,8 +19,8 @@ Generate word embeddings from normalized corpus (3M words in English and French,
 script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
 output position: `dataset/en-fr-corpus/fasttext-normalized/`
 
-Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/>     
-script: `python feedforward/fasttext_embedding_tensor.py` <br/>     
+Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
+script: `python feedforward/fasttext_embedding_tensor.py` <br/> 
 output: `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt, embedding_{en,fr}.pt
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
