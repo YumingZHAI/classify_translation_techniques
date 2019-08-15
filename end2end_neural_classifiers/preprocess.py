@@ -1,6 +1,6 @@
-''' Handling the data io 
-author: Pooyan Safari
-'''
+''' Handling the data io
+author: Pooyan Safari'''
+
 import argparse
 import torch
 import Constants
@@ -25,11 +25,11 @@ def read_instances_from_file(inst_file, max_sent_len, keep_case):
             if word_inst:
                 # put all these elements in a list
                 # each instance becomes e.g.: ['<s>', 'how', 'we', '</s>']
+                # at the end, word_insts is a list of list
                 word_insts += [[Constants.BOS_WORD] + word_inst + [Constants.EOS_WORD]]
             else:
                 word_insts += [None]
 
-    # at the end, word_insts is a list of list
     print('[Info] Get {} instances from {}'.format(len(word_insts), inst_file))
 
     if trimmed_sent_count > 0:
@@ -53,7 +53,7 @@ def read_labels_from_file(inst_file):
 
 # if share vocabulary: regroup source and target words
 def build_vocab_idx(word_insts, min_word_count):
-    ''' Trim vocab by number of occurence '''
+    ''' Trim vocab by number of occurrence '''
 
     full_vocab = set(w for sent in word_insts for w in sent)
 
@@ -74,7 +74,7 @@ def build_vocab_idx(word_insts, min_word_count):
     ignored_word_count = 0
     for word, count in word_count.items():
         if word not in word2idx:
-            if count > min_word_count:
+            if count > min_word_count:     # default value: 5
                 word2idx[word] = len(word2idx)
             else:
                 ignored_word_count += 1
@@ -123,8 +123,9 @@ def main():
         train_tgt_word_insts = train_tgt_word_insts[:min_inst_count]
         train_labels = train_labels[:min_inst_count]
           
-    #- Remove empty instances
-    train_src_word_insts, train_tgt_word_insts, train_labels = list(zip(*[(s, t, l) for s, t, l in zip(train_src_word_insts, train_tgt_word_insts, train_labels) if s and t]))
+    # Remove empty instances
+    train_src_word_insts, train_tgt_word_insts, train_labels = \
+        list(zip(*[(s, t, l) for s, t, l in zip(train_src_word_insts, train_tgt_word_insts, train_labels) if s and t]))
 
     # Validation set
     valid_src_word_insts = read_instances_from_file(
@@ -140,13 +141,14 @@ def main():
         valid_tgt_word_insts = valid_tgt_word_insts[:min_inst_count]
         valid_labels = train_labels[:min_inst_count]
 
-    #- Remove empty instances
-    valid_src_word_insts, valid_tgt_word_insts, valid_labels = list(zip(*[(s, t, l) for s, t, l in zip(valid_src_word_insts, valid_tgt_word_insts, valid_labels) if s and t]))
+    # Remove empty instances
+    valid_src_word_insts, valid_tgt_word_insts, valid_labels = \
+        list(zip(*[(s, t, l) for s, t, l in zip(valid_src_word_insts, valid_tgt_word_insts, valid_labels) if s and t]))
 
     # Build vocabulary
     if opt.vocab:
         # predefined_dicts = {'dict': {'src': src_word2idx,'tgt': tgt_word2idx}}
-        # created by feedforward/nwa/fasttext_embedding_tensor.py
+        # created by fasttext_embedding_tensor.py
         predefined_data = torch.load(opt.vocab)
         assert 'dict' in predefined_data
 
@@ -186,9 +188,9 @@ def main():
         'valid': {
             'src': valid_src_insts,
             'tgt': valid_tgt_insts,
-            'labels':valid_labels}}
+            'labels':valid_labels}
+    }
 
-    # the argument save_data is the PATH of the pickled file
     print('[Info] Dumping the processed data to pickle file', opt.save_data)
     torch.save(data, opt.save_data)
     print('[Info] Finish.')
