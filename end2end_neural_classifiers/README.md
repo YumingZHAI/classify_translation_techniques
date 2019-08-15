@@ -52,7 +52,7 @@ You should run it to get your own copy.)
 ## Train different classifiers
 
 - FastText pretrained word embedding + MLP classifier: <br/>
-`cd feed-forward/`
+`cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
 - character embedding based + phrase alignment matrix + CNN classifier 
