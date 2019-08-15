@@ -18,7 +18,7 @@ output: `dataset/k-folds-normalized`/cross_validation_2class_balanced/ or cross_
 We used fastText-0.2.0 in this step.
 
 Generate word embeddings from a parallel English-French corpus, with the same preprocessing as cited above. <br/> 
-script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
+script: `sh fasttext_word_representation.sh` <br/> 
 output: `dataset/en-fr-corpus/fasttext-normalized`/english|french-normalized.bin and .vec file <br/> 
 (Our corpus and model are not loaded here because of the big size.) <!-- ours: normalized corpus (3M words in English and French, corpus of TED Talks) <br/>  -->
 
