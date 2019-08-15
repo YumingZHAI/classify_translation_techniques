@@ -4,11 +4,10 @@ author: Pooyan Safari
 '''
 
 # run this script under python 2.7
-# need to add empty file __init__.py under cnn/nwa/ to import nwa.Constants
 import torch
 import pickle
 import numpy
-import nwa.Constants as Constants
+import Constants as Constants
 import sys
 
 word_embedding_src = '../dataset/polyglot_embeddings/polyglot-en.pkl'
