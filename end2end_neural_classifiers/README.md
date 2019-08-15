@@ -51,8 +51,9 @@ You should run it to get your own copy.)
 
 ## Train different classifiers
 
-- word embedding based + MLP classifier: <br/>
-`sh feedforward/word_mlp_train.sh`
+- FastText pretrained word embedding + MLP classifier: <br/>
+`cd feed-forward/`
+`sh word_mlp_train.sh`
 
 - character embedding based + phrase alignment matrix + CNN classifier 
 
@@ -69,7 +70,6 @@ what does adaptive pooling do
 what is masked_cross_entropy? 
 the forward function in encoders and classifiers <= train()
 
-files not yet uploaded
 my pickled files 
 -->
 
