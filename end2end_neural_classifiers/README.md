@@ -19,7 +19,7 @@ We used fastText-0.2.0 in this step.
 
 Generate word embeddings from a parallel English-French corpus, with the same preprocessing as cited above. <br/> 
 script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
-output position: `dataset/en-fr-corpus/fasttext-normalized`/english|french-normalized.bin and .vec file <br/> 
+output: `dataset/en-fr-corpus/fasttext-normalized`/english|french-normalized.bin and .vec file <br/> 
 (Our corpus and model are not loaded here because of the big size.) <!-- ours: normalized corpus (3M words in English and French, corpus of TED Talks) <br/>  -->
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
