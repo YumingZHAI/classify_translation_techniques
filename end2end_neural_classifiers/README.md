@@ -11,13 +11,16 @@ We conducted experiments with a balanced dataset of binary classes and a dataset
 
 input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
 script: `python dataset/create-CV.py` <br/>
-output: `dataset/k-folds-normalized`/cross_validation_2class_balanced or cross_validation_5class
+output: `dataset/k-folds-normalized`/cross_validation_2class_balanced/ or cross_validation_5class/
 
 2. **Pretrain FastText word embeddings**
 
-Generate word embeddings from normalized corpus (3M words in English and French, corpus of Ted Talks) <br/> 
+We used fastText-0.2.0 in this step.
+
+Generate word embeddings from normalized corpus (3M words in English and French, corpus of TED Talks) <br/> 
 script: `sh feed-forward/fasttext_word_representation.sh` <br/> 
-output position: `dataset/en-fr-corpus/fasttext-normalized/`
+output position: `dataset/en-fr-corpus/fasttext-normalized`/english|french-normalized.bin and .vec file <br/> 
+(The corpus and model are not loaded here because of the big size.)
 
 Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
 script: `python feedforward/fasttext_embedding_tensor.py` <br/> 
