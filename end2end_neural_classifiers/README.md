@@ -7,11 +7,11 @@ For end2end neural architectures, we also normalized the clitic forms to complet
 
 We conducted experiments with a balanced dataset of binary classes and a dataset of five classes. 
 
-1. **Prepare dataset**
+1. **Split dataset to five folds (already supplied here)**
 
 input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
 script: `python dataset/create-CV.py` <br/>
-output: `k-folds-normalized`/cross_validation dataset (csv format)
+output: `dataset/k-folds-normalized`/cross_validation_2class_balanced or cross_validation_5class
 
 2. **Pretrain FastText word embeddings**
 
