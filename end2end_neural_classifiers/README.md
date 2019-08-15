@@ -63,8 +63,6 @@ what is masked_cross_entropy?
 the forward function in encoders and classifiers <= train()
 
 files not yet uploaded
-dataset/en-fr-corpus/fasttext-normalized/*  1.73G
 my pickled files 
-polyglot embeddings 
 -->
 

@@ -10,9 +10,9 @@ This project provides the code and dataset for these two papers:
 Yuming Zhai, Pooyan Safari, Gabriel Illouz, Alexandre Allauzen, and Anne Vilnat <br/>
 *20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019 (preprint version)*
 
-- Classification automatique des procédés de traduction <br/>
+- [Classification automatique des procédés de traduction](https://hal.archives-ouvertes.fr/hal-02265644/document) <br/>
 Yuming Zhai, Gabriel Illouz and Anne Vilnat <br/>
-*26ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), 2019 (to appear)*
+*26ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), 2019*
 
 **Dependencies needed:** 
 
