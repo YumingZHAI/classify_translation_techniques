@@ -22,7 +22,7 @@ script: `sh fasttext_word_representation.sh` <br/>
 output: `dataset/en-fr-corpus/fasttext-normalized`/{english,french}-normalized.{bin,vec} <br/> 
 (Our corpus and model are not loaded here because of the big size.) <!-- ours: normalized corpus (3M words in English and French, corpus of TED Talks) <br/>  -->
 
-Extract fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
+Construct fasttext word embedding tensors from embeddings text file and build the predefined dictionary for the data. <br/> 
 script: `python fasttext_embedding_tensor.py` <br/> 
 output: <br/>
 `dataset/en-fr-corpus/fasttext-normalized/`predefined_dicts.fr-en.pt <br/>
