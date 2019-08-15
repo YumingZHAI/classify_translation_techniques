@@ -30,8 +30,10 @@ output: <br/>
 
 3. **Extract character embeddings from [Polyglot word embeddings](https://sites.google.com/site/rmyeid/projects/polyglot)**
 
-script: `python cnn/extract_polyglot_embedding.py` (run this script under python 2.7)  <br/>
-output: `dataset/polyglot_embeddings/`predefined_dicts.char.fr-en.pt, embedding_{src,tgt}.pt
+script: `python extract_polyglot_embedding.py` (Please run this script under python 2.7.)  <br/>
+output: <br/>
+`dataset/polyglot_embeddings/`predefined_dicts.char.fr-en.pt <br/>
+`dataset/polyglot_embeddings/`embedding_{src,tgt}.pt
 
 4. **Save dataset to serialized files**
 
