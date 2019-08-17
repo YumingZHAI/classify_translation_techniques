@@ -139,7 +139,8 @@ def main():
         min_inst_count = min(len(valid_src_word_insts), len(valid_tgt_word_insts), len(valid_labels))
         valid_src_word_insts = valid_src_word_insts[:min_inst_count]
         valid_tgt_word_insts = valid_tgt_word_insts[:min_inst_count]
-        valid_labels = train_labels[:min_inst_count]
+        # valid_labels = train_labels[:min_inst_count]  => error here before! 
+        valid_labels = valid_labels[:min_inst_count]    
 
     # Remove empty instances
     valid_src_word_insts, valid_tgt_word_insts, valid_labels = \

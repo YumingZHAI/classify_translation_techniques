@@ -30,7 +30,7 @@ do
            -sample_every 5 \
            -learning_rate 0.0001 \
            -epoch 200 \
-           -embedding_size 10 \
+           -embedding_size 10 \   
            -hidden_size 10 \
            -batch_size 20 \
            -dropout 0.1 \

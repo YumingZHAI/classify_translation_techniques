@@ -56,6 +56,8 @@ You should run it to get your own copy.)
 `cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
+<!-- nwa.py  -->
+
 - character embedding based + phrase alignment matrix + CNN classifier 
 
 <!-- 
