@@ -2,6 +2,7 @@
 """
 Author: Pooyan SAFARI 
 """
+
 from __future__ import unicode_literals, print_function, division
 import torch
 import torch.nn as nn
@@ -12,14 +13,14 @@ import Constants
 import pdb
 
 class classifierMLP(nn.Module):
-    def __init__(self, input_size,hidden_size,output_size,dropout=0.1):
+    def __init__(self, input_size, hidden_size, output_size, dropout=0.1):
         super(classifierMLP, self).__init__()               
         self.layer1 = nn.Linear(input_size, hidden_size)
         self.dropout = nn.Dropout(dropout)
         self.out = nn.Linear(hidden_size, output_size)
          
-    def forward(self, src_vectors,tgt_vectors): 
-        classifier_input = torch.cat((src_vectors,tgt_vectors),1)
+    def forward(self, src_vectors, tgt_vectors): 
+        classifier_input = torch.cat((src_vectors, tgt_vectors), 1)
         hidden_layer1 = torch.tanh(self.layer1(classifier_input))
         hidden_layer1 = self.dropout(hidden_layer1)
         outputs = self.out(hidden_layer1) 
