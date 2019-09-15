@@ -10,8 +10,8 @@ from collections import Counter
 # input: 2class_balanced.csv or 5classes.csv
 
 ## You have to change here for the two datasets 
-dataframe = pd.read_csv("2class_balanced.csv", names=['source', 'target', 'label'], sep='\t', engine='python', header=0)
-# dataframe = pd.read_csv("5classes.csv", names=['source', 'target', 'label'], sep='\t', engine='python', header=0)
+#dataframe = pd.read_csv("2class_balanced.csv", names=['source', 'target', 'label'], sep='\t', engine='python', header=0)
+dataframe = pd.read_csv("5classes.csv", names=['source', 'target', 'label'], sep='\t', engine='python', header=0)
 array = dataframe.values
 X = array[:, 0:2]   # excluding end index
 y = array[:, 2].astype('int')    # must put .astype('int'), otherwise error in spliting
@@ -21,8 +21,8 @@ print(Counter(y))
 skf = StratifiedKFold(n_splits=5)
 
 ## You have to change here for the two datasets 
-name_dir = "./k-folds-normalized/cross_validation_2class_balanced"
-# name_dir = "./k-folds-normalized/cross_validation_5class"
+#name_dir = "./k-folds-normalized/cross_validation_2class_balanced"
+name_dir = "./k-folds-normalized/cross_validation_5class"
 
 if not os.path.exists(name_dir):
     os.makedirs(name_dir)
