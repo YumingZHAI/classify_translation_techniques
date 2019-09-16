@@ -49,19 +49,19 @@ You should run it to get your own copy of serialized files.)
 
 ## Train different classifiers
 
+<!-- now: binary clf -->
 FastText pretrained word embedding + MLP classifier: <br/>
 `cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
 Calculate evaluation metrics: <br/> 
-`python f_score_cross_valid.py`<br/>
+`python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
 <!-- - character embedding based + phrase alignment matrix + CNN classifier  -->
 
 <!-- 
 when do 5-class clf instead of 2-class:
 change nwa/nwa.py: 
-
 -->
 
 
@@ -70,7 +70,5 @@ the code to build alignment matrix
 what does adaptive pooling do 
 what is masked_cross_entropy? 
 the forward function in encoders and classifiers <= train()
-
-my pickled files 
 -->
 
