@@ -51,10 +51,10 @@ You should run it to get your own copy of serialized files.)
 
 <!-- now: binary clf -->
 
-1. FastText pretrained word embedding + MLP classifier: <br/>
-`cd feed-forward/` <br/> 
-`sh word_mlp_train.sh`
+1. **FastText pretrained word embedding + MLP classifier**
 
+`cd feed-forward/` <br/> 
+`sh word_mlp_train.sh` <br/>
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
