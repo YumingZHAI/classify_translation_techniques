@@ -67,9 +67,16 @@ Calculate evaluation metrics: <br/>
 
 2. **Randomly initialized character embedding + MLP classifier** 
 
+<!-- to be finished -->
 
 3. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
+<!-- code to see: alignment matrix construction -->
+
+`cd cnn/` <br/>
+`sh train.sh` <br/>
+Calculate evaluation metrics: <br/> 
+`python f_score_cross_valid.py` {2class_balanced,5class} <br/> 
 
 <!-- ### questions:
 the code to build alignment matrix 
