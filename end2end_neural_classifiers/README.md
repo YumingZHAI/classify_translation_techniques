@@ -58,7 +58,7 @@ You should run it to get your own copy of serialized files.)
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
-2. Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier 
+2. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
 
 <!-- ### questions:
