@@ -48,6 +48,12 @@ word dictionary generated before.
 And serialize both the bilingual dictionary and processed training, test data. 
 You should run it to get your own copy of serialized files.)
 
+- at character level: <br/>
+script: `sh preprocess_char.sh` (it uses the script `preprocess_char.py`) <br/>
+output: <br/>
+`dataset/k-folds-normalized/2class_balanced_ptfiles_char`/fold{1-5}.multidata.en-fr.pt <br/>
+`dataset/k-folds-normalized/5class_ptfiles_char`/fold{1-5}.multidata.en-fr.pt <br/>
+
 ## Train different classifiers
 
 <!-- now: binary clf; need to check 5-class classifier -->
