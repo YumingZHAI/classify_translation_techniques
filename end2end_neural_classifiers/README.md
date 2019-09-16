@@ -65,19 +65,23 @@ Calculate evaluation metrics: <br/>
 
 2. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
-<!-- code to see: alignment matrix construction, nwa.py logic -->
-
 `cd cnn/` <br/>
 `sh train.sh` <br/>
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/> 
 
-3. **Randomly initialized character embedding + MLP classifier** 
+3. **TODO: things to be changed for running 5-class classifier** 
 
-<!-- to be finished (change input datasets and embedding files): 
-	feed-forward/char_mlp_train.sh -->
+<!-- (notes/run_neural_classifier.sh) -->
 
-<!-- todo: things to be changed for 5-class classifier (notes/run_neural_classifier.sh) -->
+Change input datasets and embedding files: randomly initialized character embedding + MLP classifier
+	
+<!-- feed-forward/char_mlp_train.sh -->
+
+<!-- code to see: alignment matrix construction, nwa.py logic -->
+
+
+
 
 
 
