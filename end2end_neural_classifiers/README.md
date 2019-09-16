@@ -37,15 +37,14 @@ output: <br/>
 
 4. **Save preprocessed dataset to serialized files**
 
-script: `sh preprocess.sh` (use the script `preprocess.py`) <br/>
+script: `sh preprocess.sh` (it uses the script `preprocess.py`) <br/>
 output: <br/>
 `dataset/k-folds-normalized/2class_balanced_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
 `dataset/k-folds-normalized/5class_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
 (This script reads five folds of training and test data, convert strings to word indices according to the 
 word dictionary generated before. 
 And serialize both the bilingual dictionary and processed training, test data. 
-You should run it to get your own copy.)
-
+You should run it to get your own copy of serialized files.)
 
 ## Train different classifiers
 
