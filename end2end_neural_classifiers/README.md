@@ -38,7 +38,7 @@ output: <br/>
 
 4. **Save preprocessed dataset to serialized files**
 
-1) at word level: <br/>
+- at word level: <br/>
 script: `sh preprocess.sh` (it uses the script `preprocess.py`) <br/>
 output: <br/>
 `dataset/k-folds-normalized/2class_balanced_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
