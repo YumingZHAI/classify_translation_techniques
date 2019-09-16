@@ -56,8 +56,6 @@ output: <br/>
 
 ## Train different classifiers
 
-<!-- now: binary clf; need to check 5-class classifier -->
-
 1. **FastText pretrained word embedding + MLP classifier**
 
 `cd feed-forward/` <br/> 
@@ -65,23 +63,21 @@ output: <br/>
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
-2. **Randomly initialized character embedding + MLP classifier** 
+2. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
-<!-- to be finished -->
-
-3. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
-
-<!-- code to see: alignment matrix construction -->
+<!-- code to see: alignment matrix construction, nwa.py logic -->
 
 `cd cnn/` <br/>
 `sh train.sh` <br/>
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/> 
 
-<!-- ### questions:
-the code to build alignment matrix 
-what does adaptive pooling do 
-what is masked_cross_entropy? 
-the forward function in encoders and classifiers <= train()
--->
+3. **Randomly initialized character embedding + MLP classifier** 
+
+<!-- to be finished (change input datasets and embedding files): 
+	feed-forward/char_mlp_train.sh -->
+
+<!-- todo: things to be changed for 5-class classifier (notes/run_neural_classifier.sh) -->
+
+
 
