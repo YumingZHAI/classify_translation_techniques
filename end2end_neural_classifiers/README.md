@@ -38,6 +38,7 @@ output: <br/>
 
 4. **Save preprocessed dataset to serialized files**
 
+1) at word level: <br/>
 script: `sh preprocess.sh` (it uses the script `preprocess.py`) <br/>
 output: <br/>
 `dataset/k-folds-normalized/2class_balanced_ptfiles`/fold{1-5}.multidata.en-fr.pt <br/>
@@ -49,7 +50,7 @@ You should run it to get your own copy of serialized files.)
 
 ## Train different classifiers
 
-<!-- now: binary clf -->
+<!-- now: binary clf; need to check 5-class classifier -->
 
 1. **FastText pretrained word embedding + MLP classifier**
 
@@ -58,7 +59,10 @@ You should run it to get your own copy of serialized files.)
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
-2. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
+2. **Randomly initialized character embedding + MLP classifier** 
+
+
+3. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
 
 <!-- ### questions:
