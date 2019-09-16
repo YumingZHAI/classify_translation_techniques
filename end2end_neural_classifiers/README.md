@@ -1,6 +1,6 @@
 ## Preparation work
   
-We lowercase all the words in the dataset. And we normalized the clitic forms to complete words (e.g. 're -> are), and normalized digits to their letter form (e.g. 42 -> four two (not forty-two)).
+We lowercase all the words in the dataset. And we normalize the clitic forms to complete words (e.g. 're -> are), and normalized digits to their letter form (e.g. 42 -> four two (not forty-two)).
 
 We conducted experiments with a balanced dataset of binary classes and a dataset of five classes. 
 
