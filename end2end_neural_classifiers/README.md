@@ -33,7 +33,7 @@ script: `python extract_polyglot_embedding.py` (Please run this script under pyt
 output: <br/>
 `dataset/polyglot_embeddings/`predefined_dicts.char.fr-en.pt <br/>
 `dataset/polyglot_embeddings/`embedding_{src,tgt}.pt <br/>
-(You should run the script to generate your own copy.)
+(You should run the script to generate your own copy of embeddings.)
 
 4. **Save preprocessed dataset to serialized files**
 
