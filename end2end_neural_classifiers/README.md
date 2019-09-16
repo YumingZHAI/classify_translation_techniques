@@ -49,7 +49,7 @@ You should run it to get your own copy of serialized files.)
 
 ## Train different classifiers
 
-- FastText pretrained word embedding + MLP classifier: <br/>
+FastText pretrained word embedding + MLP classifier: <br/>
 `cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
