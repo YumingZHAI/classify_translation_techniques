@@ -1,6 +1,7 @@
 ## Preparation work
-  
-We lowercase all the words in the dataset. And we normalize the clitic forms to complete words (e.g. 're -> are), and normalized digits to their letter form (e.g. 42 -> four two (not forty-two)).
+ 
+<!-- the minor misspellings are already corrected in the corpus -->
+We lowercase all the words in the dataset. We normalize the clitic forms to complete words (e.g. 're -> are), and digits to their letter form (e.g. 42 -> four two (not forty-two)).
 
 We conducted experiments with a balanced dataset of binary classes and a dataset of five classes. 
 
@@ -52,7 +53,7 @@ You should run it to get your own copy of serialized files.)
 `cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
-<!-- nwa.py  -->
+<!-- upload nwa.py, evaluate the classifier -->
 
 - character embedding based + phrase alignment matrix + CNN classifier 
 

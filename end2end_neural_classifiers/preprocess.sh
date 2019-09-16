@@ -29,9 +29,3 @@ do
         -save_data dataset/k-folds-normalized/${output_dir}/fold${i}.multidata.en-fr.pt
 done
 
-
-
-
-
-    
-    
