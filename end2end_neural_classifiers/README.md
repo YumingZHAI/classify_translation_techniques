@@ -7,10 +7,10 @@ We conducted experiments with a balanced dataset of binary classes and a dataset
 
 1. **Split dataset to five folds (already supplied here)**
 
-input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/>
-`cd dataset/` <br/> 
-script: `python dataset/create-CV.py` <br/>
-output: `dataset/k-folds-normalized/cross_validation_2class_balanced/` or `cross_validation_5class/`
+input: `dataset`/2class_balanced.csv, `dataset`/5classes.csv <br/> `cd
+dataset/` <br/>  script: `python dataset/create-CV.py` <br/> output:
+`dataset/k-folds-normalized/cross_validation_2class_balanced/` or
+`cross_validation_5class/`
 
 2. **Pretrain FastText word embeddings**
 
@@ -53,9 +53,10 @@ You should run it to get your own copy of serialized files.)
 `cd feed-forward/` <br/> 
 `sh word_mlp_train.sh`
 
-<!-- upload nwa.py, evaluate the classifier -->
+Calculate evaluation metrics: <br/> 
+`python f_score_cross_valid.py`<br/>
 
-- character embedding based + phrase alignment matrix + CNN classifier 
+<!-- - character embedding based + phrase alignment matrix + CNN classifier  -->
 
 <!-- 
 when do 5-class clf instead of 2-class:
