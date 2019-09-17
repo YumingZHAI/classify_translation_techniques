@@ -72,7 +72,7 @@ Calculate evaluation metrics: <br/>
 
 3. **TODO: things to be changed for running 5-class classifier** 
 
-<!-- (notes/run_neural_classifier.sh) -->
+<!-- (notes/run_neural_classifier.sh), on character level, run on Ponge! -->
 
 Change input datasets and embedding files: randomly initialized character embedding + MLP classifier
 	

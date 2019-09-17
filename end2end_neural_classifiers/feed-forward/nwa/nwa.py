@@ -200,7 +200,7 @@ def main():
     #========= Preparing Model =========#
     # Initialize models  (from encoders.py)
     encoder_src = EncoderRNN(opt.src_vocab_size,
-                             opt.embedding_size,     # TODO: why size only 10?
+                             opt.embedding_size,     
                              opt.hidden_size,
                              opt,
                              pretrained_embedding=opt.pretrained_embedding_src)
@@ -274,7 +274,7 @@ def main():
                     encoder_tgt_eval.cuda()
                     classifier_eval.cuda()
 
-                encoder_src_eval.eval()  # TODO: where's the function eval()?
+                encoder_src_eval.eval() 
                 encoder_tgt_eval.eval()
                 classifier_eval.eval()
 
