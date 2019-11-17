@@ -1,8 +1,8 @@
-# Automatically classifying translation processes 
+# Automatically classifying translation techniques 
 
 ## The code and usage manual is being completed, please come back to check them later.
 
-Automatically classify translation processes based on manually annotated examples from an English-French parallel corpus of TED Talks. 
+Automatically classify translation techniques based on manually annotated examples from an English-French parallel corpus of TED Talks. 
 
 This project provides the code and dataset for these two papers: 
 
