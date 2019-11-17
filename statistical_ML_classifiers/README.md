@@ -2,7 +2,7 @@
  
 We lowercased all the words in the dataset. The dataset present here is ready to be used. 
 
-The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below, you can download them [here](https://www.dropbox.com/s/g2bzit2o6lqabpv/pickle_res.zip?dl=0). 
+The procedures used to generate serialized files (*.p files) under `pickle_res/` are described below. 
 <!-- upload all the *.p files in a zipped directory onto github -->
 
 1. **PoS tagging** 
