@@ -63,6 +63,8 @@ output: <br/>
 Calculate evaluation metrics: <br/> 
 `python f_score_cross_valid.py` {2class_balanced,5class} <br/>
 
+<!-- GRU->LSTM: replace in encoders.py  -->
+
 2. **Randomly initialized character embedding + word or phrase alignment matrix + CNN classifier** 
 
 `cd cnn/` <br/>
